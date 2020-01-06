@@ -2,7 +2,7 @@
 
 ---
 species: Apatura iris
-common_name: Purple emperor
+common_name: purple emperor
 taxon_id: 191396
 order:
   name: Lepidoptera

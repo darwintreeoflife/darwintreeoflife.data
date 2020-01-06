@@ -2,7 +2,7 @@
 
 ---
 species: Mythimna impura
-common_name: Smoky wainscot
+common_name: smoky wainscot
 taxon_id: 987985
 order:
   name: Lepidoptera

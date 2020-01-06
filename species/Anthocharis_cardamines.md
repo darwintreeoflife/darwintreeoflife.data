@@ -2,7 +2,7 @@
 
 ---
 species: Anthocharis cardamines
-common_name: Orange tip
+common_name: orange tip
 taxon_id: 227532
 order:
   name: Lepidoptera
