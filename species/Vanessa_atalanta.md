@@ -8,6 +8,7 @@ order:
   name: Lepidoptera
 family:
   name: Nymphalidae
+
 ---
 
 ## Individuals
@@ -25,4 +26,5 @@ collector_id: UK_VA_1209
 collection_site: Carrifran Wildwood
 latitute: 55.400132
 longitude: -3.3352
+
 ---

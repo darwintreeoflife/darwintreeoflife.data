@@ -8,6 +8,7 @@ order:
   name: Lepidoptera
 family:
   name: Nymphalidae
+
 ---
 
 ## Individuals
@@ -24,4 +25,5 @@ collector_id: RO_AI_937
 collection_site: Pin1000m, Lupsa, Apuseni Mt. (Romania)
 latitute: 46.41605096
 longitude: 23.19218301
+
 ---

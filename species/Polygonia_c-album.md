@@ -8,6 +8,7 @@ order:
   name: Lepidoptera
 family:
   name: Nymphalidae
+
 ---
 
 ## Individuals
@@ -25,4 +26,5 @@ collector_id: SC_PC_1355
 collection_site: West Linton, Village
 latitute: 55.98412
 longitude: -2.655753
+
 ---

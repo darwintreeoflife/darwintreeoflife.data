@@ -8,6 +8,7 @@ order:
   name: Lepidoptera
 family:
   name: Pieridae
+
 ---
 
 ## Individuals
@@ -25,4 +26,5 @@ collector_id: SC_PR_1370
 collection_site: West Linton, A1
 latitute: 55.977161
 longitude: -2.667545
+
 ---
