@@ -9,7 +9,7 @@ species:
   family:
     name: Cyprinidae
   individuals:
-    - fDreSAT1:
+    - fDreSAT1
     - fDreSAT3
     - fDreABH1
     - fDreTuH1
