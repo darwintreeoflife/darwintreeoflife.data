@@ -1,5 +1,3 @@
-# Apatura iris
-
 ---
 species: Apatura iris
 common_name: purple emperor
