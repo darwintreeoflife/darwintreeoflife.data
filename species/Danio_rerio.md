@@ -1,15 +1,13 @@
 ---
 species:
-  short_name: fDanRer
   name: Danio rerio
+  short_name: fDanRer
   taxon_id: 29144
   common_name: zebrafish
   order:
     name: Cypriniformes
   family:
     name: Cyprinidae
-  genome_size: 
-  genome_size_method:
   individuals:
     - fDreSAT1:
     - fDreSAT3
