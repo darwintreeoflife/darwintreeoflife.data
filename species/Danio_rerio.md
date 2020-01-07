@@ -10,9 +10,9 @@ species:
     name: Cyprinidae
   genome_size: 
   genome_size_method:
-individuals:
-  - fDreSAT1
-  - fDreSAT3
-  - fDreABH1
-  - fDreTuH1
+  individuals:
+    - fDreSAT1
+    - fDreSAT3
+    - fDreABH1
+    - fDreTuH1
 ---
