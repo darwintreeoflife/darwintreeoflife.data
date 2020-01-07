@@ -1,3 +1,4 @@
+---
 species:
   short_name: fDanRer
   name: Danio rerio
@@ -27,3 +28,4 @@ species:
       description: Tuebingen strain double haploid female founder of SAT strain
   genome_size: 
   genome_size_method:
+---
