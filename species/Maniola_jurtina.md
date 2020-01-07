@@ -28,3 +28,9 @@ latitute: 56.019964
 longitude: -2.85808
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilManJurt1 | PacBio CCS | S/P4-C2/5.0-8M | [m64089_191221_161251.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Maniola_jurtina/ilManJurt1/genomic_data/pacbio/m64089_191221_161251.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Maniola_jurtina/ilManJurt1/genomic_data/pacbio/m64089_191221_161251.ccs.bam.pbi)]|

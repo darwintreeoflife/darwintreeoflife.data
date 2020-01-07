@@ -27,3 +27,10 @@ latitute: 51.771949
 longitude: -1.3378417
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilNocFimb1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam.pbi)]|
+| ilNocFimb1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.subreads.bam](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.subreads.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.subreads.bam.pbi)]|

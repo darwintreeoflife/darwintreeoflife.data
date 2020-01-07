@@ -27,3 +27,9 @@ latitute: 51.764802
 longitude: -1.32689
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilMytImpu1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191020_002959.bc1010_BAK8A_OA--bc1010_BAK8A_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/pacbio/m64016_191020_002959.bc1010_BAK8A_OA--bc1010_BAK8A_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/pacbio/m64016_191020_002959.bc1010_BAK8A_OA--bc1010_BAK8A_OA.ccs.bam.pbi)]|

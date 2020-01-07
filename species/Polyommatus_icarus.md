@@ -28,3 +28,9 @@ latitute: 56.062445
 longitude: -2.769836
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilPolIcar1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191206_183623.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Polyommatus_icarus/ilPolIcar1/genomic_data/pacbio/m64016_191206_183623.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Polyommatus_icarus/ilPolIcar1/genomic_data/pacbio/m64016_191206_183623.ccs.bam.pbi)]|

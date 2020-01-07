@@ -28,3 +28,8 @@ latitute: 46.8
 longitude: 23.5
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |

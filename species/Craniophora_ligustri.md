@@ -27,3 +27,9 @@ latitute: 51.764802
 longitude: -1.32689
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilCraLigu1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191021_113946.bc1018_BAK8B_OA--bc1018_BAK8B_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/pacbio/m64016_191021_113946.bc1018_BAK8B_OA--bc1018_BAK8B_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/pacbio/m64016_191021_113946.bc1018_BAK8B_OA--bc1018_BAK8B_OA.ccs.bam.pbi)]|

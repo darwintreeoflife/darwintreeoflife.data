@@ -27,3 +27,9 @@ latitute: 51.768769
 longitude: -1.3304395
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| idMyaFlor2 | PacBio CCS | S/P4-C2/5.0-8M | [m64089_191127_132814.bc1020_BAK8B_OA--bc1020_BAK8B_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Myathropa_florea/idMyaFlor2/genomic_data/pacbio/m64089_191127_132814.bc1020_BAK8B_OA--bc1020_BAK8B_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Myathropa_florea/idMyaFlor2/genomic_data/pacbio/m64089_191127_132814.bc1020_BAK8B_OA--bc1020_BAK8B_OA.ccs.bam.pbi)]|

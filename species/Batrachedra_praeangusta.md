@@ -27,3 +27,9 @@ latitute: 51.772266
 longitude: -1.3382284
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilBatPrae1 | PacBio CCS | S/P3-C1/5.0-8M | [m64016_191123_233709.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Batrachedra_praeangusta/ilBatPrae1/genomic_data/pacbio/m64016_191123_233709.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Batrachedra_praeangusta/ilBatPrae1/genomic_data/pacbio/m64016_191123_233709.ccs.bam.pbi)]|

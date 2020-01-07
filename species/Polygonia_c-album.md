@@ -28,3 +28,9 @@ latitute: 55.98412
 longitude: -2.655753
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilPolCalb1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191218_154712.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/pacbio/m64016_191218_154712.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/pacbio/m64016_191218_154712.ccs.bam.pbi)]|

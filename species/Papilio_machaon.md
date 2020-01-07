@@ -28,3 +28,9 @@ latitute: 46.653
 longitude: 25.37
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilPapMach1 | PacBio CCS | S/P4-C2/5.0-8M | [m64094_191207_175025.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Papilio_machaon/ilPapMach1/genomic_data/pacbio/m64094_191207_175025.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Papilio_machaon/ilPapMach1/genomic_data/pacbio/m64094_191207_175025.ccs.bam.pbi)]|

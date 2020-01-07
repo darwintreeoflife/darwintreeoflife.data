@@ -27,3 +27,9 @@ latitute: 51.767095
 longitude: -1.3301019
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilEilGris1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191020_002959.bc1009_BAK8A_OA--bc1009_BAK8A_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Eilema_griseola/ilEilGris1/genomic_data/pacbio/m64016_191020_002959.bc1009_BAK8A_OA--bc1009_BAK8A_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Eilema_griseola/ilEilGris1/genomic_data/pacbio/m64016_191020_002959.bc1009_BAK8A_OA--bc1009_BAK8A_OA.ccs.bam.pbi)]|

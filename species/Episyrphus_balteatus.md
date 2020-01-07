@@ -27,3 +27,9 @@ latitute: 51.771508
 longitude: -1.3376453
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| idEpiBalt1 | PacBio CCS | S/P4-C2/5.0-8M | [m64089_191123_132353.bc1018_BAK8B_OA--bc1018_BAK8B_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Episyrphus_balteatus/idEpiBalt1/genomic_data/pacbio/m64089_191123_132353.bc1018_BAK8B_OA--bc1018_BAK8B_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Episyrphus_balteatus/idEpiBalt1/genomic_data/pacbio/m64089_191123_132353.bc1018_BAK8B_OA--bc1018_BAK8B_OA.ccs.bam.pbi)]|

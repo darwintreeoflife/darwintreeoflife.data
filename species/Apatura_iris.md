@@ -27,3 +27,9 @@ latitute: 46.41605096
 longitude: 23.19218301
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilApaIris1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191207_184901.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Apatura_iris/ilApaIris1/genomic_data/pacbio/m64016_191207_184901.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Apatura_iris/ilApaIris1/genomic_data/pacbio/m64016_191207_184901.ccs.bam.pbi)]|

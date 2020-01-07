@@ -27,3 +27,9 @@ latitute: 51.772302
 longitude: -1.3381699
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilTinTrin1 | PacBio CCS | S/P3-C1/5.0-8M | [m64016_191122_172845.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/pacbio/m64016_191122_172845.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/pacbio/m64016_191122_172845.ccs.bam.pbi)]|

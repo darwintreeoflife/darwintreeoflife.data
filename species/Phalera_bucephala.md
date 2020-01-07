@@ -27,3 +27,10 @@ latitute: 51.764317
 longitude: -1.3270131
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilPhaBuce1 | PacBio CCS | S/P4-C2/5.0-8M | [m64016_191021_113946.bc1017_BAK8B_OA--bc1017_BAK8B_OA.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64016_191021_113946.bc1017_BAK8B_OA--bc1017_BAK8B_OA.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64016_191021_113946.bc1017_BAK8B_OA--bc1017_BAK8B_OA.ccs.bam.pbi)]|
+| ilPhaBuce1 | PacBio CCS | S/P4-C2/5.0-8M | [m64089_191206_172441.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64089_191206_172441.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64089_191206_172441.ccs.bam.pbi)]|

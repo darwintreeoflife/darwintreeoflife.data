@@ -27,3 +27,9 @@ latitute: 47.019264
 longitude: 17.505997
 
 ---
+
+## Data
+
+| individual | type       | chemistry      | data |
+| ---------- | ---------- | -------------- | ---- |
+| ilHesComm1 | PacBio CCS | S/P4-C2/5.0-8M | [m64094_191208_181647.ccs.bam](https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/pacbio/m64094_191208_181647.ccs.bam) [[pbi](https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/pacbio/m64094_191208_181647.ccs.bam.pbi)]|
