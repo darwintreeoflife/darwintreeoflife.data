@@ -8,8 +8,6 @@ family:
   name: Nymphalidae
 ---
 
-## Individuals
-
 ---
 id: ilApaIris1
 date_of_collection: 17/07/2018
