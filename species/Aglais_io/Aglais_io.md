@@ -1,6 +1,6 @@
 ---
 name: Aglais io
-common_name: Peacock
+common_name: peacock
 taxon_id: 171585
 order: Lepidoptera
 family: Nymphalidae

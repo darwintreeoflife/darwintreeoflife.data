@@ -1,6 +1,6 @@
 ---
 name: Polygonia c-album
-common_name: Comma
+common_name: comma
 taxon_id: 929971
 order: Lepidoptera
 family: Nymphalidae

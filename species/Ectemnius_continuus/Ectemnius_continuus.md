@@ -1,6 +1,6 @@
 ---
 name: Ectemnius continuus
-common_name: NA
+common_name: 
 taxon_id: 1126389
 order: Hymenoptera
 family: Crabonidae
@@ -8,7 +8,9 @@ family: Crabonidae
 
 ## Individuals:
 
-  * [iyEctCont1](iyEctCont1.md)
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
+| [iyEctCont1](iyEctCont1.md) | Female | Ox0186 | University of Oxford |
 
 ## Data ([tsv](Ectemnius_continuus_data.tsv))
 

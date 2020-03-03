@@ -1,6 +1,6 @@
 ---
 name: Papilio machaon
-common_name: Swallowtail
+common_name: swallowtail
 taxon_id: 76193
 order: Lepidoptera
 family: Papilionidae

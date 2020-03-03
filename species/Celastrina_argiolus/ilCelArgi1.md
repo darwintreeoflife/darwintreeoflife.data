@@ -5,10 +5,10 @@ date_of_collection: 15/05/2019
 date_of_identification: 15/05/2019
 identified_by: Alex Hayward
 developmental_stage: adult
-collected_by: Daytime, netted
+collected_by: Alex Hayward
 collector_organisation: University of Exeter
 collector_id: EN_OX_1168
 collection_site: Hayward's house
 latitude: 
-longitude: UnknownAlex Hayward
+longitude: Unknown
 ---

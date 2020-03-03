@@ -1,6 +1,6 @@
 ---
 name: Tachina fera
-common_name: NA
+common_name: 
 taxon_id: 631328
 order: Diptera
 family: Tachinidae
@@ -8,7 +8,9 @@ family: Tachinidae
 
 ## Individuals:
 
-  * [idTacFera1](idTacFera1.md)
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
+| [idTacFera1](idTacFera1.md) |  | Ox0242 | University of Oxford |
 
 ## Data ([tsv](Tachina_fera_data.tsv))
 

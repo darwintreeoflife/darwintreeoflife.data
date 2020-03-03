@@ -1,6 +1,6 @@
 ---
 name: Vanessa atalanta
-common_name: Red admiral
+common_name: red admiral
 taxon_id: 42275
 order: Lepidoptera
 family: Nymphalidae

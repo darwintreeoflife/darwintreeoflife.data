@@ -1,6 +1,6 @@
 ---
 name: Lasiommata megera
-common_name: Wall brown
+common_name: wall brown
 taxon_id: 111917
 order: Lepidoptera
 family: Nymphalidae
