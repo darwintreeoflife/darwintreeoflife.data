@@ -8,7 +8,10 @@ family: Nymphalidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilAglIoxx2](ilAglIoxx2.md)
+| [ilAglIoxx2](ilAglIoxx2.md) |  | SC_AI_1160 | University of Edinburgh |
 
 ## Data ([tsv](Aglais_io_data.tsv))
 

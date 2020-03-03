@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilNocFimb1](ilNocFimb1.md)
+| [ilNocFimb1](ilNocFimb1.md) |  | Ox0105 | University of Oxford |
 
 ## Data ([tsv](Noctua_fimbriata_data.tsv))
 

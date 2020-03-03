@@ -8,7 +8,10 @@ family: Erebidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilSchCost1](ilSchCost1.md)
+| [ilSchCost1](ilSchCost1.md) |  | Ox0214 | University of Oxford |
 
 ## Data ([tsv](Schrankia_costaestrigalis_data.tsv))
 

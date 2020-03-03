@@ -8,7 +8,10 @@ family: Coccinellidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [icHarAxyr1](icHarAxyr1.md)
+| [icHarAxyr1](icHarAxyr1.md) |  | Ox0012 | University of Oxford |
 
 ## Data ([tsv](Harmonia_axyridis_data.tsv))
 

@@ -8,7 +8,10 @@ family: Apidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [iyBomHort1](iyBomHort1.md)
+| [iyBomHort1](iyBomHort1.md) | Female | Ox0123 | University of Oxford |
 
 ## Data ([tsv](Bombus_hortorum_data.tsv))
 

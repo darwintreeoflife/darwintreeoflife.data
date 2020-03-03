@@ -8,7 +8,10 @@ family: Drepanidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilThyBati1](ilThyBati1.md)
+| [ilThyBati1](ilThyBati1.md) |  | Ox0061 | University of Oxford |
 
 ## Data ([tsv](Thyatira_batis_data.tsv))
 

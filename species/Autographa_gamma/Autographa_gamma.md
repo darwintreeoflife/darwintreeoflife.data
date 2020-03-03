@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilAutGamm1](ilAutGamm1.md)
+| [ilAutGamm1](ilAutGamm1.md) |  | Ox0180 | University of Oxford |
 
 ## Data ([tsv](Autographa_gamma_data.tsv))
 

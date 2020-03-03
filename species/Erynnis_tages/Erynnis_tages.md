@@ -8,7 +8,10 @@ family: Hesperidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilEryTage1](ilEryTage1.md)
+| [ilEryTage1](ilEryTage1.md) |  | RO_ET_1014 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Erynnis_tages_data.tsv))
 

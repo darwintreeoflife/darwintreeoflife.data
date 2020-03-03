@@ -8,7 +8,10 @@ family: Lycanidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilPleArgu1](ilPleArgu1.md)
+| [ilPleArgu1](ilPleArgu1.md) | Female | RO_PA_721 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Plebejus_argus_data.tsv))
 

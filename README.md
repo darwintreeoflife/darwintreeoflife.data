@@ -6,11 +6,6 @@ As a step towards open and early release of Darwin Tree of Life data, we are mak
 Please note that the data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
 They may contain contaminant genomes, symbionts and assembly errors.
 The final assemblies will differ in sequence and contiguity; these will be annotated and released to ENA in due course.
-
-The specimens were collected by the Oxford Wytham Woods and Edinburgh Lohse lab teams.
-DNA extraction and sequencing was carried out by the Sanger Institute Scientific Operations teams.
-Assemblies were carried out by the Tree of Life team (Shane McCarthy) and colleagues in Pacific Biosciences (Jonas Korlach).
-
 | species | common_name |
 | ------- | ----------- |
 | [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) | The dun-bar |

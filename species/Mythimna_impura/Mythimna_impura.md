@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilMytImpu1](ilMytImpu1.md)
+| [ilMytImpu1](ilMytImpu1.md) |  | Ox0071 | University of Oxford |
 
 ## Data ([tsv](Mythimna_impura_data.tsv))
 

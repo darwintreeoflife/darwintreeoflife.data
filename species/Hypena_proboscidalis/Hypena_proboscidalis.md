@@ -8,7 +8,10 @@ family: Erebidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilHypProb1](ilHypProb1.md)
+| [ilHypProb1](ilHypProb1.md) |  | Ox0202 | University of Oxford |
 
 ## Data ([tsv](Hypena_proboscidalis_data.tsv))
 

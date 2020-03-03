@@ -8,7 +8,10 @@ family: Syrphidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [idMelMell1](idMelMell1.md)
+| [idMelMell1](idMelMell1.md) | Female | Ox0109 | University of Exeter |
 
 ## Data ([tsv](Melanostoma_mellinum_data.tsv))
 

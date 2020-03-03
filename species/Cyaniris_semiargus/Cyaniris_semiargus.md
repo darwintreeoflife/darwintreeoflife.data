@@ -8,7 +8,10 @@ family: Lycanidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilCyaSemi1](ilCyaSemi1.md)
+| [ilCyaSemi1](ilCyaSemi1.md) | Male | RO_CS_951 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Cyaniris_semiargus_data.tsv))
 

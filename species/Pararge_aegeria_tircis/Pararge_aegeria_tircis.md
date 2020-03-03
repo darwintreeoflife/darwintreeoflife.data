@@ -8,7 +8,10 @@ family: Nymphalidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilParAegt1](ilParAegt1.md)
+| [ilParAegt1](ilParAegt1.md) | Female | UK_PA_1193 | University of Edinburgh |
 
 ## Data ([tsv](Pararge_aegeria_tircis_data.tsv))
 

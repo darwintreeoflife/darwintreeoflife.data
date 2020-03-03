@@ -8,7 +8,10 @@ family: Tortricidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilNotUddm1](ilNotUddm1.md)
+| [ilNotUddm1](ilNotUddm1.md) |  | Ox0052 | University of Oxford |
 
 ## Data ([tsv](Notocelia_uddmanniana_data.tsv))
 

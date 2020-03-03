@@ -8,7 +8,10 @@ family: Geometridae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilEupCent1](ilEupCent1.md)
+| [ilEupCent1](ilEupCent1.md) |  | Ox0218 | University of Oxford |
 
 ## Data ([tsv](Eupithecia_centaureata_data.tsv))
 

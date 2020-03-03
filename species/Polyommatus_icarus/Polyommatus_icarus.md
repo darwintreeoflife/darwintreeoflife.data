@@ -8,7 +8,10 @@ family: Lycaenidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilPolIcar1](ilPolIcar1.md)
+| [ilPolIcar1](ilPolIcar1.md) | Male | UK_PI_1225 | University of Edinburgh |
 
 ## Data ([tsv](Polyommatus_icarus_data.tsv))
 

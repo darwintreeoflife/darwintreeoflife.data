@@ -8,7 +8,10 @@ family: Papilionidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilPapMach1](ilPapMach1.md)
+| [ilPapMach1](ilPapMach1.md) | Female | RO_PM_1011 | University of Edinburgh |
 
 ## Data ([tsv](Papilio_machaon_data.tsv))
 

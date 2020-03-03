@@ -8,7 +8,10 @@ family: Syrphidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [idBacElon1](idBacElon1.md)
+| [idBacElon1](idBacElon1.md) | Female | Ox0221 | University of Oxford |
 
 ## Data ([tsv](Baccha_elongata_data.tsv))
 

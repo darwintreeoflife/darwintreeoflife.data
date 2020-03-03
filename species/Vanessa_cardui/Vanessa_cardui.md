@@ -8,7 +8,10 @@ family: Nymphalidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilVanCard2](ilVanCard2.md)
+| [ilVanCard2](ilVanCard2.md) | Female | UK_VC_1208 | University of Edinburgh |
 
 ## Data ([tsv](Vanessa_cardui_data.tsv))
 

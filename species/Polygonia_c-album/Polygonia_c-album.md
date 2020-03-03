@@ -8,7 +8,10 @@ family: Nymphalidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilPolCalb1](ilPolCalb1.md)
+| [ilPolCalb1](ilPolCalb1.md) | Female? | SC_PC_1355 | Edinburgh University |
 
 ## Data ([tsv](Polygonia_c-album_data.tsv))
 

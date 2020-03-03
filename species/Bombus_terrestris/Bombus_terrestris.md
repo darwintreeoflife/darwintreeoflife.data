@@ -8,7 +8,10 @@ family: Apidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [iyBomTerr1](iyBomTerr1.md)
+| [iyBomTerr1](iyBomTerr1.md) | Female | Ox0122 | University of Oxford |
 
 ## Data ([tsv](Bombus_terrestris_data.tsv))
 

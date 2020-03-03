@@ -8,7 +8,10 @@ family: Pyralidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilEndFlam1](ilEndFlam1.md)
+| [ilEndFlam1](ilEndFlam1.md) |  | Ox0062 | University of Oxford |
 
 ## Data ([tsv](Endotricha_flammealis_data.tsv))
 

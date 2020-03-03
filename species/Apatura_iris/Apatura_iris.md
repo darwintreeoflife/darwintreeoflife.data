@@ -8,7 +8,10 @@ family: Nymphalidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilApaIris1](ilApaIris1.md)
+| [ilApaIris1](ilApaIris1.md) |  | RO_AI_937 | University of Edinburgh |
 
 ## Data ([tsv](Apatura_iris_data.tsv))
 

@@ -8,7 +8,10 @@ family: Lycanidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilAriArta1](ilAriArta1.md)
+| [ilAriArta1](ilAriArta1.md) | Male | RO_AA_848 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Aricia_artaxerxes_data.tsv))
 

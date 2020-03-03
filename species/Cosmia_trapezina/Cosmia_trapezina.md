@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilCosTrap1](ilCosTrap1.md)
+| [ilCosTrap1](ilCosTrap1.md) |  | Ox0054 | University of Oxford |
 
 ## Data ([tsv](Cosmia_trapezina_data.tsv))
 

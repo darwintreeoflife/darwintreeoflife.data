@@ -8,7 +8,10 @@ family: Erebidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilEupSimi1](ilEupSimi1.md)
+| [ilEupSimi1](ilEupSimi1.md) |  | Ox0068 | University of Oxford |
 
 ## Data ([tsv](Euproctis_similis_data.tsv))
 

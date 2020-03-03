@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilCraLigu1](ilCraLigu1.md)
+| [ilCraLigu1](ilCraLigu1.md) |  | Ox0072 | University of Oxford |
 
 ## Data ([tsv](Craniophora_ligustri_data.tsv))
 

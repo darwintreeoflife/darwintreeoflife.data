@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilXesXant1](ilXesXant1.md)
+| [ilXesXant1](ilXesXant1.md) |  | Ox0204 | University of Oxford |
 
 ## Data ([tsv](Xestia_xanthographa_data.tsv))
 

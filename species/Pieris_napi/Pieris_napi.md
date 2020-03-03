@@ -8,7 +8,10 @@ family: Pieridae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilPieNapi4](ilPieNapi4.md)
+| [ilPieNapi4](ilPieNapi4.md) | Male | UK_PN_1158 | University of Edinburgh |
 
 ## Data ([tsv](Pieris_napi_data.tsv))
 

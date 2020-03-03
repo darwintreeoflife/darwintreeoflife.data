@@ -8,7 +8,10 @@ family: Noctuidae
 
 ## Individuals:
 
+| individual | sex | collector_id | collector_organisation |
+| ---------- | --- | ------------ | ---------------------- |
   * [ilPhlMeti1](ilPhlMeti1.md)
+| [ilPhlMeti1](ilPhlMeti1.md) |  | Ox0199 | University of Oxford |
 
 ## Data ([tsv](Phlogophora_meticulosa_data.tsv))
 
