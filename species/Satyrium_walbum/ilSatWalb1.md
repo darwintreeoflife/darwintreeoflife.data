@@ -1,0 +1,13 @@
+---
+name: ilSatWalb1
+date_of_collection: 15/07/2018
+date_of_identification: 15/07/2018
+identified_by: Roger Vila
+developmental_stage: adult
+collected_by: daytime with a net
+collector_organisation: University of Edinburgh
+collector_id: RO_SW_813
+collection_site: Romania
+latitude: 46.834
+longitude: 23.629Konrad Lohse, Alex Hayward, Dominik Laetsch & Roger Vila
+---

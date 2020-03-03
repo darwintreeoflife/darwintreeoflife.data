@@ -1,0 +1,18 @@
+---
+name: Polygonia c-album
+common_name: Comma
+taxon_id: 929971
+order: Lepidoptera
+family: Nymphalidae
+---
+
+## Individuals:
+
+  * [ilPolCalb1](ilPolCalb1.md)
+
+## Data ([tsv](Polygonia_c-album_data.tsv))
+
+| individual | type | info | file |
+| ---------- | ---- | ---- | ---- |
+| [ilPolCalb1](ilPolCalb1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [7ab08c0199f6aa7d5dd8d08016d1485d-813](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/pacbio/m64016_191218_154712.ccs.bam) |
+| [ilPolCalb1](ilPolCalb1.md) | pacbio.ccs.index |  | [9d5e06304d298a542cd1ad51cc947e11](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/pacbio/m64016_191218_154712.ccs.bam.pbi) |
