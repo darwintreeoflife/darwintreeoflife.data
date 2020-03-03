@@ -1,6 +1,6 @@
 ---
 name: Plebejus argus
-common_name: Silver-studded blue
+common_name: silver-studded blue
 taxon_id: 242267
 order: Lepidoptera
 family: Lycanidae

@@ -1,6 +1,6 @@
 ---
 name: Limenitis camilla
-common_name: White admiral
+common_name: white admiral
 taxon_id: 270466
 order: Lepidoptera
 family: Nymphalidae

@@ -1,6 +1,6 @@
 ---
 name: Erynnis tages
-common_name: Dingy skipper
+common_name: dingy skipper
 taxon_id: 520884
 order: Lepidoptera
 family: Hesperidae

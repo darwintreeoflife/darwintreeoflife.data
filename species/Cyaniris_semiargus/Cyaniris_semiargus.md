@@ -1,6 +1,6 @@
 ---
 name: Cyaniris semiargus
-common_name: Mazarine blue
+common_name: mazarine blue
 taxon_id: 988025
 order: Lepidoptera
 family: Lycanidae

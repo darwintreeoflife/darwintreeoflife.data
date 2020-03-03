@@ -1,6 +1,6 @@
 ---
 name: Aricia agestis
-common_name: Brown argus
+common_name: brown argus
 taxon_id: 91739
 order: Lepidoptera
 family: Lycanidae

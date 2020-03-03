@@ -1,6 +1,6 @@
 ---
 name: Aricia artaxerxes
-common_name: Northern brown argus
+common_name: northern brown argus
 taxon_id: 91738
 order: Lepidoptera
 family: Lycanidae
