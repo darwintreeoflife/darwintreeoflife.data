@@ -10,7 +10,6 @@ family: Hesperidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilThyLine1](ilThyLine1.md)
 | [ilThyLine1](ilThyLine1.md) | Female | RO_TL_822 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Thymelicus_lineola_data.tsv))

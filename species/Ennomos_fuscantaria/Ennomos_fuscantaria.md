@@ -10,7 +10,6 @@ family: Geometridae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilEnnFusc1](ilEnnFusc1.md)
 | [ilEnnFusc1](ilEnnFusc1.md) |  | Ox0201 | University of Oxford |
 
 ## Data ([tsv](Ennomos_fuscantaria_data.tsv))

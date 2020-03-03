@@ -10,7 +10,6 @@ family: Lycanidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilAriAges1](ilAriAges1.md)
 | [ilAriAges1](ilAriAges1.md) |  | RO_AA_814 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Aricia_agestis_data.tsv))

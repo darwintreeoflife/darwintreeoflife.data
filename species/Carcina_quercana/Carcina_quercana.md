@@ -10,7 +10,6 @@ family: Peleopodidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilCarQuer1](ilCarQuer1.md)
 | [ilCarQuer1](ilCarQuer1.md) |  | Ox0049 | University of Oxford |
 
 ## Data ([tsv](Carcina_quercana_data.tsv))

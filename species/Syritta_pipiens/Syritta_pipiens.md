@@ -10,7 +10,6 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [idSyrPipi1](idSyrPipi1.md)
 | [idSyrPipi1](idSyrPipi1.md) | Female | Ox0241 | University of Oxford |
 
 ## Data ([tsv](Syritta_pipiens_data.tsv))

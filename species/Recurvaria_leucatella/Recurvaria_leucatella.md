@@ -10,7 +10,6 @@ family: Gelechiidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilRecLeuc1](ilRecLeuc1.md)
 | [ilRecLeuc1](ilRecLeuc1.md) |  | Ox0065 | University of Oxford |
 
 ## Data ([tsv](Recurvaria_leucatella_data.tsv))

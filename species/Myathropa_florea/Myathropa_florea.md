@@ -10,7 +10,6 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [idMyaFlor1](idMyaFlor1.md)
 | [idMyaFlor1](idMyaFlor1.md) | Female | Ox0144 | University of Exeter |
 
 ## Data ([tsv](Myathropa_florea_data.tsv))

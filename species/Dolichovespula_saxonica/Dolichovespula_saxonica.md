@@ -10,7 +10,6 @@ family: Vespidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [iyDolSaxo1](iyDolSaxo1.md)
 | [iyDolSaxo1](iyDolSaxo1.md) | Male | Ox0189 | University of Oxford |
 
 ## Data ([tsv](Dolichovespula_saxonica_data.tsv))

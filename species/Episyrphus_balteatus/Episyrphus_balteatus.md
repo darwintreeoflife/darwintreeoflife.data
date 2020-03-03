@@ -10,7 +10,6 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [idEpiBalt1](idEpiBalt1.md)
 | [idEpiBalt1](idEpiBalt1.md) |  | Ox0116 | University of Exeter |
 
 ## Data ([tsv](Episyrphus_balteatus_data.tsv))

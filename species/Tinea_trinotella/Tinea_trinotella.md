@@ -10,7 +10,6 @@ family: Tineidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilTinTrin1](ilTinTrin1.md)
 | [ilTinTrin1](ilTinTrin1.md) |  | Ox0048 | University of Oxford |
 
 ## Data ([tsv](Tinea_trinotella_data.tsv))

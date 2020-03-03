@@ -10,7 +10,6 @@ family: Erebidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilLymMona1](ilLymMona1.md)
 | [ilLymMona1](ilLymMona1.md) | Male | Ox0063 | University of Oxford |
 
 ## Data ([tsv](Lymantria_monacha_data.tsv))

@@ -10,7 +10,6 @@ family: Blastobasidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilBlaLact1](ilBlaLact1.md)
 | [ilBlaLact1](ilBlaLact1.md) |  | Ox0033 | University of Oxford |
 
 ## Data ([tsv](Blastobasis_lacticolella_data.tsv))

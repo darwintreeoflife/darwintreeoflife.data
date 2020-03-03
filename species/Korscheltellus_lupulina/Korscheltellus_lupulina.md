@@ -10,7 +10,6 @@ family: Hepialidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilKorLupu1](ilKorLupu1.md)
 | [ilKorLupu1](ilKorLupu1.md) |  | Ox0032 | University of Oxford |
 
 ## Data ([tsv](Korscheltellus_lupulina_data.tsv))

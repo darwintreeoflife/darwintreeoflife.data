@@ -10,7 +10,6 @@ family: Nymphalidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilVanAtal1](ilVanAtal1.md)
 | [ilVanAtal1](ilVanAtal1.md) | Female | UK_VA_1209 | University of Edinburgh |
 
 ## Data ([tsv](Vanessa_atalanta_data.tsv))

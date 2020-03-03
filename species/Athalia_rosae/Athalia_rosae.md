@@ -10,7 +10,6 @@ family: Tenthredinidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [iyAthRosa1](iyAthRosa1.md)
 | [iyAthRosa1](iyAthRosa1.md) |  | Ox0224 | University of Oxford |
 
 ## Data ([tsv](Athalia_rosae_data.tsv))

@@ -10,7 +10,6 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [idPlaAlba1](idPlaAlba1.md)
 | [idPlaAlba1](idPlaAlba1.md) | Female | Ox0223 | University of Oxford |
 
 ## Data ([tsv](Platycheirus_albimanus_data.tsv))

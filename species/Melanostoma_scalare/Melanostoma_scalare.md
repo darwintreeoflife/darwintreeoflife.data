@@ -10,7 +10,6 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [idMelScal1](idMelScal1.md)
 | [idMelScal1](idMelScal1.md) | Female | Ox0111 | University of Exeter |
 
 ## Data ([tsv](Melanostoma_scalare_data.tsv))

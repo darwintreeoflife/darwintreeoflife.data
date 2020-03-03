@@ -10,7 +10,6 @@ family: Hesperiidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilHesComm1](ilHesComm1.md)
 | [ilHesComm1](ilHesComm1.md) |  | HU_HC_1034 | University of Edinburgh |
 
 ## Data ([tsv](Hesperia_comma_data.tsv))

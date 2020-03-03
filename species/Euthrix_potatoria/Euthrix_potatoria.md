@@ -10,7 +10,6 @@ family: Lasiocampidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilEutPota1](ilEutPota1.md)
 | [ilEutPota1](ilEutPota1.md) |  | Ox0038 | University of Oxford |
 
 ## Data ([tsv](Euthrix_potatoria_data.tsv))

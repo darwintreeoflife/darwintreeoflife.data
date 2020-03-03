@@ -10,7 +10,6 @@ family: Vespidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [iyVesVulg1](iyVesVulg1.md)
 | [iyVesVulg1](iyVesVulg1.md) | Female | Ox0138 | University of Oxford |
 
 ## Data ([tsv](Vespula_vulgaris_data.tsv))

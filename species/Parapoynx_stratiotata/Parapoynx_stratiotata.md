@@ -10,7 +10,6 @@ family: Crambidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilParStra1](ilParStra1.md)
 | [ilParStra1](ilParStra1.md) |  | Ox0055 | University of Oxford |
 
 ## Data ([tsv](Parapoynx_stratiotata_data.tsv))

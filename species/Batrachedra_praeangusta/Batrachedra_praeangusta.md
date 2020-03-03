@@ -10,7 +10,6 @@ family: Batrachedridae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilBatPrae1](ilBatPrae1.md)
 | [ilBatPrae1](ilBatPrae1.md) |  | Ox0058 | University of Oxford |
 
 ## Data ([tsv](Batrachedra_praeangusta_data.tsv))

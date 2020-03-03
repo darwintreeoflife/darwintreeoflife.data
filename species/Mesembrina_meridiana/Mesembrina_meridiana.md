@@ -10,7 +10,6 @@ family: Muscidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [idMesMeri1](idMesMeri1.md)
 | [idMesMeri1](idMesMeri1.md) |  | Ox0236 | University of Oxford |
 
 ## Data ([tsv](Mesembrina_meridiana_data.tsv))

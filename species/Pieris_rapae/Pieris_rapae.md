@@ -10,7 +10,6 @@ family: Pieridae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilPieRapa1](ilPieRapa1.md)
 | [ilPieRapa1](ilPieRapa1.md) | Female | SC_PR_1370 | Edinburgh University |
 
 ## Data ([tsv](Pieris_rapae_data.tsv))

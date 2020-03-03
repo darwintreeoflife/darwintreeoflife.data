@@ -10,7 +10,6 @@ family: Vespidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [iyDolMedi1](iyDolMedi1.md)
 | [iyDolMedi1](iyDolMedi1.md) | Female | Ox0188 | University of Oxford |
 
 ## Data ([tsv](Dolichovespula_media_data.tsv))

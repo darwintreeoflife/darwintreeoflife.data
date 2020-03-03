@@ -10,7 +10,6 @@ family: Apidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [iyBomPasc1](iyBomPasc1.md)
 | [iyBomPasc1](iyBomPasc1.md) | Female | Ox0120 | University of Oxford |
 
 ## Data ([tsv](Bombus_pascuorum_data.tsv))

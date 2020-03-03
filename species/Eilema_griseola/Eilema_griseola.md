@@ -10,7 +10,6 @@ family: Erebidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilEilGris1](ilEilGris1.md)
 | [ilEilGris1](ilEilGris1.md) |  | Ox0067 | University of Oxford |
 
 ## Data ([tsv](Eilema_griseola_data.tsv))

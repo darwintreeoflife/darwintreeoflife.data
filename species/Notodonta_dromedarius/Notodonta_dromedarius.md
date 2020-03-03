@@ -10,7 +10,6 @@ family: Notodontidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilNotDrom1](ilNotDrom1.md)
 | [ilNotDrom1](ilNotDrom1.md) |  | Ox0208 | University of Oxford |
 
 ## Data ([tsv](Notodonta_dromedarius_data.tsv))

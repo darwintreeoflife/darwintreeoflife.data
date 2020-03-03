@@ -10,7 +10,6 @@ family: Vespidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [iyVesGerm1](iyVesGerm1.md)
 | [iyVesGerm1](iyVesGerm1.md) | Female | Ox0121 | University of Oxford |
 
 ## Data ([tsv](Vespula_germanica_data.tsv))

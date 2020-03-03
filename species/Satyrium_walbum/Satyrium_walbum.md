@@ -10,7 +10,6 @@ family: Lycaenidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilSatWalb1](ilSatWalb1.md)
 | [ilSatWalb1](ilSatWalb1.md) |  | RO_SW_813 | University of Edinburgh |
 
 ## Data ([tsv](Satyrium_walbum_data.tsv))

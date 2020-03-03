@@ -10,7 +10,6 @@ family: Notodontidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-  * [ilPhaBuce1](ilPhaBuce1.md)
 | [ilPhaBuce1](ilPhaBuce1.md) |  | Ox0069 | University of Oxford |
 
 ## Data ([tsv](Phalera_bucephala_data.tsv))
