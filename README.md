@@ -35,15 +35,15 @@ The final assemblies will differ in sequence and contiguity; these will be annot
 | [*Endotricha flammealis*](species/Endotricha_flammealis/Endotricha_flammealis.md) | rosy tabby |
 | [*Ennomos fuscantaria*](species/Ennomos_fuscantaria/Ennomos_fuscantaria.md) | dusky thorn |
 | [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) | marmalade hoverfly |
-| [*Eristalis pertinax*](species/Eristalis_pertinax/Eristalis_pertinax.md) | Tapered Dronefly |
-| [*Eristalis tenax*](species/Eristalis_tenax/Eristalis_tenax.md) | The dronefly |
+| [*Eristalis pertinax*](species/Eristalis_pertinax/Eristalis_pertinax.md) | tapered dronefly |
+| [*Eristalis tenax*](species/Eristalis_tenax/Eristalis_tenax.md) | the dronefly |
 | [*Erynnis tages*](species/Erynnis_tages/Erynnis_tages.md) | dingy skipper |
-| [*Eupithecia centaureata*](species/Eupithecia_centaureata/Eupithecia_centaureata.md) | Lime-speck pug |
+| [*Eupithecia centaureata*](species/Eupithecia_centaureata/Eupithecia_centaureata.md) | lime-speck pug |
 | [*Euproctis similis*](species/Euproctis_similis/Euproctis_similis.md) | yellow-tail |
 | [*Euthrix potatoria*](species/Euthrix_potatoria/Euthrix_potatoria.md) | drinker moth |
 | [*Harmonia axyridis*](species/Harmonia_axyridis/Harmonia_axyridis.md) | harlequin |
 | [*Hesperia comma*](species/Hesperia_comma/Hesperia_comma.md) | silver-spotted skipper |
-| [*Hypena proboscidalis*](species/Hypena_proboscidalis/Hypena_proboscidalis.md) | The snout |
+| [*Hypena proboscidalis*](species/Hypena_proboscidalis/Hypena_proboscidalis.md) | the snout |
 | [*Korscheltellus lupulina*](species/Korscheltellus_lupulina/Korscheltellus_lupulina.md) | common swift |
 | [*Lasiommata megera*](species/Lasiommata_megera/Lasiommata_megera.md) | wall brown |
 | [*Limenitis camilla*](species/Limenitis_camilla/Limenitis_camilla.md) | white admiral |
@@ -51,7 +51,7 @@ The final assemblies will differ in sequence and contiguity; these will be annot
 | [*Lysandra coridon*](species/Lysandra_coridon/Lysandra_coridon.md) | chalkhill blue |
 | [*Maniola jurtina*](species/Maniola_jurtina/Maniola_jurtina.md) | meadow brown |
 | [*Melanostoma mellinum*](species/Melanostoma_mellinum/Melanostoma_mellinum.md) | dumpy grass hoverfly |
-| [*Melanostoma scalare*](species/Melanostoma_scalare/Melanostoma_scalare.md) | Slender grass hoverfly |
+| [*Melanostoma scalare*](species/Melanostoma_scalare/Melanostoma_scalare.md) | slender grass hoverfly |
 | [*Melitaea athalia*](species/Melitaea_athalia/Melitaea_athalia.md) | heath fritillary |
 | [*Mesembrina meridiana*](species/Mesembrina_meridiana/Mesembrina_meridiana.md) | noon fly |
 | [*Myathropa florea*](species/Myathropa_florea/Myathropa_florea.md) | batman hoverfly |
@@ -65,26 +65,26 @@ The final assemblies will differ in sequence and contiguity; these will be annot
 | [*Phalera bucephala*](species/Phalera_bucephala/Phalera_bucephala.md) | buff-tip |
 | [*Phlogophora meticulosa*](species/Phlogophora_meticulosa/Phlogophora_meticulosa.md) | angle shades |
 | [*Pieris brassicae brassicae*](species/Pieris_brassicae_brassicae/Pieris_brassicae_brassicae.md) | large white |
-| [*Pieris napi*](species/Pieris_napi/Pieris_napi.md) | green-veined white |
+| [*Pieris napi*](species/Pieris_napi/Pieris_napi.md) | green-veined white  |
 | [*Pieris rapae*](species/Pieris_rapae/Pieris_rapae.md) | small white |
-| [*Platycheirus albimanus*](species/Platycheirus_albimanus/Platycheirus_albimanus.md) | White-footed hoverfly |
-| [*Plebejus argus*](species/Plebejus_argus/Plebejus_argus.md) | Argus blue |
+| [*Platycheirus albimanus*](species/Platycheirus_albimanus/Platycheirus_albimanus.md) | white-footed hoverfly |
+| [*Plebejus argus*](species/Plebejus_argus/Plebejus_argus.md) | silver-studded blue |
 | [*Polygonia c-album*](species/Polygonia_c-album/Polygonia_c-album.md) | comma |
 | [*Polyommatus icarus*](species/Polyommatus_icarus/Polyommatus_icarus.md) | common blue |
 | [*Recurvaria leucatella*](species/Recurvaria_leucatella/Recurvaria_leucatella.md) | white-barred groundling |
 | [*Satyrium walbum*](species/Satyrium_walbum/Satyrium_walbum.md) | white-letter hairstreak |
-| [*Scathophaga stercoraria*](species/Scathophaga_stercoraria/Scathophaga_stercoraria.md) | Yellow dung fly |
-| [*Schrankia costaestrigalis*](species/Schrankia_costaestrigalis/Schrankia_costaestrigalis.md) | Pinion-streaked snout |
+| [*Scathophaga stercoraria*](species/Scathophaga_stercoraria/Scathophaga_stercoraria.md) | yellow dung fly |
+| [*Schrankia costaestrigalis*](species/Schrankia_costaestrigalis/Schrankia_costaestrigalis.md) | pinion-streaked snout |
 | [*Syritta pipiens*](species/Syritta_pipiens/Syritta_pipiens.md) | thick-legged hoverfly |
 | [*Tachina fera*](species/Tachina_fera/Tachina_fera.md) |  |
 | [*Thyatira batis*](species/Thyatira_batis/Thyatira_batis.md) | peach blossom |
 | [*Thymelicus lineola*](species/Thymelicus_lineola/Thymelicus_lineola.md) | Essex skipper |
 | [*Thymelicus sylvestris*](species/Thymelicus_sylvestris/Thymelicus_sylvestris.md) | small skipper |
-| [*Tinea trinotella*](species/Tinea_trinotella/Tinea_trinotella.md) | bird's-nest moth |
+| [*Tinea trinotella*](species/Tinea_trinotella/Tinea_trinotella.md) | Bird's-nest moth |
 | [*Triodia sylvina*](species/Triodia_sylvina/Triodia_sylvina.md) | orange swift |
 | [*Vanessa atalanta*](species/Vanessa_atalanta/Vanessa_atalanta.md) | red admiral |
 | [*Vanessa cardui*](species/Vanessa_cardui/Vanessa_cardui.md) | painted lady |
 | [*Vespula germanica*](species/Vespula_germanica/Vespula_germanica.md) | German wasp |
 | [*Vespula vulgaris*](species/Vespula_vulgaris/Vespula_vulgaris.md) | common wasp |
-| [*Xestia xanthographa*](species/Xestia_xanthographa/Xestia_xanthographa.md) | Square-spot rustic |
+| [*Xestia xanthographa*](species/Xestia_xanthographa/Xestia_xanthographa.md) | square-spot rustic |
 | [*Xylota sylvarum*](species/Xylota_sylvarum/Xylota_sylvarum.md) | golden-tailed hoverfly |

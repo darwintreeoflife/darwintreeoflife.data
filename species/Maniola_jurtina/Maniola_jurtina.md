@@ -10,6 +10,10 @@ family: Nymphalidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [ilManJurt1](ilManJurt1.md) | Female | SC_MJ_1353 | Edinburgh University |
+| [ilManJurt2](ilManJurt2.md) | Female | SC_MJ_1360 | Edinburgh University |
+| [ilManJurt3](ilManJurt3.md) | Female | SC_MJ_1361 | Edinburgh University |
+| [ilManJurt4](ilManJurt4.md) | Female | SC_MJ_1362 | Edinburgh University |
 | [ilManJurt5](ilManJurt5.md) | Female | SC_MJ_1363 | Edinburgh University |
 
 ## Data ([tsv](Maniola_jurtina_data.tsv))

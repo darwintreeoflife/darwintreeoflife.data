@@ -1,6 +1,6 @@
 ---
 name: Plebejus argus
-common_name: Argus blue
+common_name: silver-studded blue
 taxon_id: 242267
 order: Lepidoptera
 family: Lycanidae
@@ -10,6 +10,8 @@ family: Lycanidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [ilPleArgu1](ilPleArgu1.md) | Female | RO_PA_721 | Edinburgh University & Exeter University |
+| [ilPleArgu2](ilPleArgu2.md) | Male | RO_PA_802 | Edinburgh University & Exeter University |
 | [ilPleArgu3](ilPleArgu3.md) |  | RO_PA_921 | Edinburgh University |
 
 ## Data ([tsv](Plebejus_argus_data.tsv))

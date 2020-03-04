@@ -1,6 +1,6 @@
 ---
 name: Tinea trinotella
-common_name: bird's-nest moth
+common_name: Bird's-nest moth
 taxon_id: 1594354
 order: Lepidoptera
 family: Tineidae

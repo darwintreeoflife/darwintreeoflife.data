@@ -8,7 +8,7 @@ developmental_stage: adult
 collected_by: Konrad Lohse
 collector_organisation: Edinburgh University
 collector_id: SC_PR_1370
-collection_site: "West Linton, A1"
+collection_site: West Linton, A1
 latitude: 55.977161
 longitude: -2.667545
 ---

@@ -11,6 +11,7 @@ family: Nymphalidae
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
 | [ilAglIoxx1](ilAglIoxx1.md) | Female? | SC_AI_1368 | Edinburgh University |
+| [ilAglIoxx2](ilAglIoxx2.md) |  | SC_AI_1160 | University of Edinburgh |
 
 ## Data ([tsv](Aglais_io_data.tsv))
 

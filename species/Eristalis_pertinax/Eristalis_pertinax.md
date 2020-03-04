@@ -1,6 +1,6 @@
 ---
 name: Eristalis pertinax
-common_name: Tapered Dronefly
+common_name: tapered dronefly
 taxon_id: 1572519
 order: Diptera
 family: Syrphidae
@@ -10,6 +10,8 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [idEriPert1](idEriPert1.md) | Female | Ox0158 | University of Exeter |
+| [idEriPert2](idEriPert2.md) | Male | Ox0113 | University of Exeter |
 | [idEriPert3](idEriPert3.md) | Female | Ox0112 | University of Exeter |
 
 ## Data ([tsv](Eristalis_pertinax_data.tsv))

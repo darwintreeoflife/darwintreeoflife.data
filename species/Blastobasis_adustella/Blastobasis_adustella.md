@@ -10,6 +10,7 @@ family: Blastobasidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [ilBlaAdus1](ilBlaAdus1.md) |  | Ox0210 | University of Oxford |
 | [ilBlaAdus2](ilBlaAdus2.md) |  | Ox0209 | University of Oxford |
 
 ## Data ([tsv](Blastobasis_adustella_data.tsv))

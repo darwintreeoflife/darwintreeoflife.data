@@ -10,6 +10,7 @@ family: Crabonidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [iyEctLitu1](iyEctLitu1.md) | Female | Ox0161 | University of Oxford |
 | [iyEctLitu2](iyEctLitu2.md) | Female | Ox0178 | University of Oxford |
 
 ## Data ([tsv](Ectemnius_lituratus_data.tsv))

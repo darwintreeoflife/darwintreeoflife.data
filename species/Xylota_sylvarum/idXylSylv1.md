@@ -8,7 +8,7 @@ developmental_stage: adult
 collected_by: Liam Crowley
 collector_organisation: University of Oxford
 collector_id: Ox0191
-collection_site: "Wytham, main track"
+collection_site: Wytham, main track
 latitude: 51.772836
 longitude: -1.3340026
 ---

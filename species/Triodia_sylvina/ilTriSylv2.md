@@ -7,7 +7,7 @@ developmental_stage: adult
 collected_by: Douglas Boyes
 collector_organisation: University of Oxford
 collector_id: Ox0182
-collection_site: "Wytham, main track"
+collection_site: Wytham, main track
 latitude: 51.774882
 longitude: -1.3317114
 ---

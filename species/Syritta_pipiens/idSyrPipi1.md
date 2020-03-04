@@ -8,7 +8,7 @@ developmental_stage: adult
 collected_by: Liam Crowley
 collector_organisation: University of Oxford
 collector_id: Ox0241
-collection_site: "Wytham, rough common"
+collection_site: Wytham, rough common
 latitude: 51.770086
 longitude: -1.3384579
 ---

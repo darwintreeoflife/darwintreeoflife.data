@@ -3,13 +3,14 @@ name: Erynnis tages
 common_name: dingy skipper
 taxon_id: 520884
 order: Lepidoptera
-family: Hesperiidae
+family: Hesperidae
 ---
 
 ## Individuals:
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [ilEryTage1](ilEryTage1.md) |  | RO_ET_1014 | Edinburgh University & Exeter University |
 | [ilEryTage2](ilEryTage2.md) |  | PM_SS_306 | Edinburgh University |
 
 ## Data ([tsv](Erynnis_tages_data.tsv))

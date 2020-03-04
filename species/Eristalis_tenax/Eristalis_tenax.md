@@ -1,6 +1,6 @@
 ---
 name: Eristalis tenax
-common_name: The dronefly
+common_name: the dronefly
 taxon_id: 198635
 order: Diptera
 family: Syrphidae
@@ -10,6 +10,8 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [idEriTena1](idEriTena1.md) | Male | Ox0156 | University of Exeter |
+| [idEriTena2](idEriTena2.md) | Female | Ox0155 | University of Exeter |
 | [idEriTena3](idEriTena3.md) | Male | Ox0145 | University of Exeter |
 
 ## Data ([tsv](Eristalis_tenax_data.tsv))

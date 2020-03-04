@@ -1,6 +1,6 @@
 ---
 name: Pieris napi
-common_name: green-veined white
+common_name: green-veined white 
 taxon_id: 78633
 order: Lepidoptera
 family: Pieridae
@@ -10,7 +10,15 @@ family: Pieridae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [ilPieNapi1](ilPieNapi1.md) | Female | SC_PN_1388 | Edinburgh University |
 | [ilPieNapi2](ilPieNapi2.md) | Female | SC_PN_1395 | Edinburgh University |
+| [ilPieNapi3](ilPieNapi3.md) | Male | SC_PN_1369 | Edinburgh University |
+| [ilPieNapi4](ilPieNapi4.md) | Male | UK_PN_1158 | University of Edinburgh |
+| [ilPieNapi5](ilPieNapi5.md) | Male | UK_PN_1159 | University of Edinburgh |
+| [ilPieNapi6](ilPieNapi6.md) | Male | UK_PN_1195 | University of Edinburgh |
+| [ilPieNapi7](ilPieNapi7.md) | Male | EN_SK_1177 | University of Exeter |
+| [ilPieNapi8](ilPieNapi8.md) | Male | EN_SK_1178 | University of Exeter |
+| [ilPieNapi9](ilPieNapi9.md) | Female | EN_SK_1179 | University of Exeter |
 
 ## Data ([tsv](Pieris_napi_data.tsv))
 

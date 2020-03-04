@@ -8,7 +8,7 @@ developmental_stage: adult
 collected_by: Liam Crowley
 collector_organisation: University of Oxford
 collector_id: Ox0189
-collection_site: "Wytham, Lords' common"
+collection_site: Wytham, Lords' common
 latitude: 51.770408
 longitude: -1.3340383
 ---

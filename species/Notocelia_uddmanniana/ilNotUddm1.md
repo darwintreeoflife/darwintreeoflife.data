@@ -7,7 +7,7 @@ developmental_stage: adult
 collected_by: Douglas Boyes
 collector_organisation: University of Oxford
 collector_id: Ox0052
-collection_site: "Wytham, nr Ant Hills"
+collection_site: Wytham, nr Ant Hills
 latitude: 51.764802
 longitude: -1.32689
 ---

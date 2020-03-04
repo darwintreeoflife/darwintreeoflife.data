@@ -10,6 +10,7 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
+| [idXylSylv1](idXylSylv1.md) | Male | Ox0191 | University of Oxford |
 | [idXylSylv2](idXylSylv2.md) | Male | Ox0148 | University of Oxford |
 
 ## Data ([tsv](Xylota_sylvarum_data.tsv))
