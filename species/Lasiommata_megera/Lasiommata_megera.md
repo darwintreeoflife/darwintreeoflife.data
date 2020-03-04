@@ -9,7 +9,7 @@ family: Nymphalidae
 ## Individuals:
 
 | individual | sex | collector_id | collector_organisation |
-| ---------- | --- | ------------ | ---------------------- |
+| :--------- | :-: | :----------- | :--------------------- |
 | [ilLasMege1](ilLasMege1.md) | Female? | SC_LM_1354 | Edinburgh University |
 | [ilLasMege2](ilLasMege2.md) | Male | SC_LM_1364 | Edinburgh University |
 | [ilLasMege3](ilLasMege3.md) | Male | SC_LM_1365 | Edinburgh University |
@@ -19,9 +19,14 @@ family: Nymphalidae
 | [ilLasMege7](ilLasMege7.md) | Male | EN_SK_1189 | University of Exeter |
 | [ilLasMege8](ilLasMege8.md) | Male | EN_SK_1375 | University of Exeter |
 
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
+
 ## Data ([tsv](Lasiommata_megera_data.tsv))
 
 | individual | type | info | file |
-| ---------- | ---- | ---- | ---- |
+| :--------- | :--- | :--- | :--- |
 | [ilLasMege1](ilLasMege1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [73a12c2bbf0339056ff7e07e523f28d7-1160](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/pacbio/m64097_200222_154612.ccs.bam) |
 | [ilLasMege1](ilLasMege1.md) | pacbio.ccs.index |  | [9be172d79a4f08c83b77c99c4143aab1-2](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/pacbio/m64097_200222_154612.ccs.bam.pbi) |

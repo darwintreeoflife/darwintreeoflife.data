@@ -9,14 +9,23 @@ family: Nymphalidae
 ## Individuals:
 
 | individual | sex | collector_id | collector_organisation |
-| ---------- | --- | ------------ | ---------------------- |
+| :--------- | :-: | :----------- | :--------------------- |
 | [ilVanAtal1](ilVanAtal1.md) | Female | UK_VA_1209 | University of Edinburgh |
 | [ilVanAtal2](ilVanAtal2.md) | Female | UK_VA_1219 | University of Edinburgh |
+
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
+| [ilVanAtal1](ilVanAtal1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
+| [ilVanAtal1](ilVanAtal1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
+| [ilVanAtal1](ilVanAtal1.md) | 20191024.falcon-unzip-ccs.purge_dups.scaff10x | [ilVanAtal11.scaff10x.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20191024.falcon-unzip-ccs.purge_dups.scaff10x/ilVanAtal11.scaff10x.fasta.gz) |
+| [ilVanAtal1](ilVanAtal1.md) | 20191007.wtdbg2-ccs | [iVanAta1-UK_VA_1209.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20191007.wtdbg2-ccs/iVanAta1-UK_VA_1209.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Vanessa_atalanta_data.tsv))
 
 | individual | type | info | file |
-| ---------- | ---- | ---- | ---- |
+| :--------- | :--- | :--- | :--- |
 | [ilVanAtal1](ilVanAtal1.md) | 10x.ucram |  | [74b62c73e9b7c5ac61371a94fe6396f8-370](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/genomic_data/10x/30996_8%231.cram) |
 | [ilVanAtal1](ilVanAtal1.md) | 10x.ucram |  | [7a7ad423113a36a24c67d6e28776fc41-365](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/genomic_data/10x/30996_8%232.cram) |
 | [ilVanAtal1](ilVanAtal1.md) | 10x.ucram |  | [f491a08d6e1a6e0697b39c9c45f5b7d7-451](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/genomic_data/10x/30996_8%233.cram) |

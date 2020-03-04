@@ -9,13 +9,18 @@ family: Coccinellidae
 ## Individuals:
 
 | individual | sex | collector_id | collector_organisation |
-| ---------- | --- | ------------ | ---------------------- |
+| :--------- | :-: | :----------- | :--------------------- |
 | [icHarAxyr1](icHarAxyr1.md) |  | Ox0012 | University of Oxford |
+
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
 
 ## Data ([tsv](Harmonia_axyridis_data.tsv))
 
 | individual | type | info | file |
-| ---------- | ---- | ---- | ---- |
+| :--------- | :--- | :--- | :--- |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fastq_pass |  | [ff81d05a978c995fc8b87e57ccf7a3c9](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fastq_pass_SS/PAE35980_6a9db782fe5a2fd273496f2e584ce063604919c0_0.fastq.gz) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fastq_pass |  | [b2bc5025cb1e3c5e177b088dd9968a95-3](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fastq_pass_SS/PAE35980_6a9db782fe5a2fd273496f2e584ce063604919c0_1.fastq.gz) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fastq_pass |  | [0a551a49dc1537481a6b352cb19505bc-5](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fastq_pass_SS/PAE35980_6a9db782fe5a2fd273496f2e584ce063604919c0_10.fastq.gz) |

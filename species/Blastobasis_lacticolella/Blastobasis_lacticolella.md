@@ -9,13 +9,21 @@ family: Blastobasidae
 ## Individuals:
 
 | individual | sex | collector_id | collector_organisation |
-| ---------- | --- | ------------ | ---------------------- |
+| :--------- | :-: | :----------- | :--------------------- |
 | [ilBlaLact1](ilBlaLact1.md) |  | Ox0033 | University of Oxford |
+
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
+| [ilBlaLact1](ilBlaLact1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
+| [ilBlaLact1](ilBlaLact1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.prim.fasta.gz) |
+| [ilBlaLact1](ilBlaLact1.md) | 20191006.wtdbg2-ccs | [iBlaLac1-FS02358096.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20191006.wtdbg2-ccs/iBlaLac1-FS02358096.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Blastobasis_lacticolella_data.tsv))
 
 | individual | type | info | file |
-| ---------- | ---- | ---- | ---- |
+| :--------- | :--- | :--- | :--- |
 | [ilBlaLact1](ilBlaLact1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [f343a45cb4c2014d346c2755894fa3a4-321](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/pacbio/m64016_190922_045316.ccs.bam) |
 | [ilBlaLact1](ilBlaLact1.md) | pacbio.ccs.index |  | [1fa6d962575b271fde015ec7eaa7c15b](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/pacbio/m64016_190922_045316.ccs.bam.bai) |
 | [ilBlaLact1](ilBlaLact1.md) | pacbio.ccs.index |  | [5e94de7be1c84e1818ed99d9f6538d81](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/pacbio/m64016_190922_045316.ccs.bam.pbi) |

@@ -9,15 +9,20 @@ family: Nymphalidae
 ## Individuals:
 
 | individual | sex | collector_id | collector_organisation |
-| ---------- | --- | ------------ | ---------------------- |
+| :--------- | :-: | :----------- | :--------------------- |
 | [ilParAegt1](ilParAegt1.md) | Female | UK_PA_1193 | University of Edinburgh |
 | [ilParAegt2](ilParAegt2.md) | Male | UK_PA_1194 | University of Edinburgh |
 | [ilParAegt3](ilParAegt3.md) | Female | UK_PA_1228 | University of Edinburgh |
 
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
+
 ## Data ([tsv](Pararge_aegeria_tircis_data.tsv))
 
 | individual | type | info | file |
-| ---------- | ---- | ---- | ---- |
+| :--------- | :--- | :--- | :--- |
 | [ilParAegt1](ilParAegt1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [c29ec1381df744bc9bf4aa41e4617a3f-52](https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/pacbio/m64016_191209_193913.ccs.bam) |
 | [ilParAegt1](ilParAegt1.md) | pacbio.ccs.index |  | [9639d13878407acf4db8e966040ca54d](https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/pacbio/m64016_191209_193913.ccs.bam.pbi) |
 | [ilParAegt1](ilParAegt1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [7f0ec6712e219b5af2c40ff303b2224c-874](https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/pacbio/m64094_200220_160052.ccs.bam) |
