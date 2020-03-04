@@ -3,7 +3,9 @@
 ![Darwin Tree of Life](images/dtol-logo-round-300x132.png)
 
 :warning: **Warning: This repository is temporary and will soon be replaced by a dedicated data portal.**
+
 :warning: **Warning: Data is also only temporarily avilable prior to being deposited in the ENA. Publications should only be based on data in the public archives.**
+
 
 ## Introduction
 
@@ -15,9 +17,11 @@ It is a partnership between the Wellcome Sanger Institute, the Natural History M
 - [ ] Link to DToL data release policy
 
 As a step towards open and early release of Darwin Tree of Life data, we are making available raw data before submission to ENA and early-pass assemblies for use by the community.
-Please note that the data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
+Please note that the **data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
 They may contain contaminant genomes, symbionts and assembly errors.
-The final assemblies will differ in sequence and contiguity; these will be annotated and released to ENA in due course.
+The final assemblies will differ in sequence and contiguity**; these will be annotated and released to ENA in due course.
+
+## Data
 
 | Species | Taxon ID | PacBio | ONT | 10XG | Hi-C | Draft Asm |
 | :------ | :------: | :----: | :-: | :--: | :--: | :-------: |
