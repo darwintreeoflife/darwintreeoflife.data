@@ -10,7 +10,7 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [idEriPert1](idEriPert1.md) | Female | Ox0158 | University of Exeter |
+| [idEriPert3](idEriPert3.md) | Female | Ox0112 | University of Exeter |
 
 ## Data ([tsv](Eristalis_pertinax_data.tsv))
 

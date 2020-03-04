@@ -10,7 +10,7 @@ family: Pieridae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilAntCard2](ilAntCard2.md) | Male | SC_AC_1154 | University of Edinburgh |
+| [ilAntCard3](ilAntCard3.md) | Female | SC_AC_1156 | University of Edinburgh |
 
 ## Data ([tsv](Anthocharis_cardamines_data.tsv))
 

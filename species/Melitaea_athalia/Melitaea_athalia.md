@@ -10,7 +10,7 @@ family: Nymphalidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilMelAtha1](ilMelAtha1.md) |  | RO_MA_953 | Edinburgh University & Exeter University |
+| [ilMelAtha2](ilMelAtha2.md) |  | SO_MD_438 | Edinburgh University |
 
 ## Data ([tsv](Melitaea_athalia_data.tsv))
 

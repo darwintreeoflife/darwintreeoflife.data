@@ -10,7 +10,7 @@ family: Nymphalidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilLasMege1](ilLasMege1.md) | Female? | SC_LM_1354 | Edinburgh University |
+| [ilLasMege8](ilLasMege8.md) | Male | EN_SK_1375 | University of Exeter |
 
 ## Data ([tsv](Lasiommata_megera_data.tsv))
 

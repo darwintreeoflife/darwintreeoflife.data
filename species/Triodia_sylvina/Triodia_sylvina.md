@@ -10,7 +10,7 @@ family: Hepialidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilTriSylv1](ilTriSylv1.md) |  | Ox0181 | University of Oxford |
+| [ilTriSylv2](ilTriSylv2.md) |  | Ox0182 | University of Oxford |
 
 ## Data ([tsv](Triodia_sylvina_data.tsv))
 

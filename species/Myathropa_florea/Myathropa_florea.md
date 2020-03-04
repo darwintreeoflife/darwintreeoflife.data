@@ -1,6 +1,6 @@
 ---
 name: Myathropa florea
-common_name: Batman hoverfly
+common_name: batman hoverfly
 taxon_id: NONE
 order: Diptera
 family: Syrphidae
@@ -10,7 +10,7 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [idMyaFlor1](idMyaFlor1.md) | Female | Ox0144 | University of Exeter |
+| [idMyaFlor2](idMyaFlor2.md) |  | Ox0150 | University of Exeter |
 
 ## Data ([tsv](Myathropa_florea_data.tsv))
 

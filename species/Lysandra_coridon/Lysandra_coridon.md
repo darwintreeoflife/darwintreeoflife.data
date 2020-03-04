@@ -10,7 +10,7 @@ family: Lycanidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilLysCori1](ilLysCori1.md) | Male | RO_LC_853 | Edinburgh University & Exeter University |
+| [ilLysCori2](ilLysCori2.md) | Male | RO_LC_903 | Edinburgh University & Exeter University |
 
 ## Data ([tsv](Lysandra_coridon_data.tsv))
 

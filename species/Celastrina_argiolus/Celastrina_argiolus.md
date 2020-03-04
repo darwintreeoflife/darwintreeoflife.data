@@ -10,7 +10,7 @@ family: Lycaenidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilCelArgi1](ilCelArgi1.md) | Male | EN_OX_1168 | University of Exeter |
+| [ilCelArgi4](ilCelArgi4.md) | Male? | EN_OX_1171 | University of Exeter |
 
 ## Data ([tsv](Celastrina_argiolus_data.tsv))
 

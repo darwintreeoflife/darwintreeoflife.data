@@ -1,6 +1,6 @@
 ---
 name: Melanostoma mellinum
-common_name: Dumpy grass hoverfly
+common_name: dumpy grass hoverfly
 taxon_id: 653684
 order: Diptera
 family: Syrphidae
@@ -10,7 +10,7 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [idMelMell1](idMelMell1.md) | Female | Ox0109 | University of Exeter |
+| [idMelMell2](idMelMell2.md) | Male | Ox0152 | University of Exeter |
 
 ## Data ([tsv](Melanostoma_mellinum_data.tsv))
 

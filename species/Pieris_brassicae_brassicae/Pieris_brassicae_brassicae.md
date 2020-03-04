@@ -10,7 +10,7 @@ family: Pieridae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilPieBrab1](ilPieBrab1.md) | Female | SC_PB_1356 | Edinburgh University |
+| [ilPieBrab4](ilPieBrab4.md) | Male | SC_PB_1359 | Edinburgh University |
 
 ## Data ([tsv](Pieris_brassicae_brassicae_data.tsv))
 

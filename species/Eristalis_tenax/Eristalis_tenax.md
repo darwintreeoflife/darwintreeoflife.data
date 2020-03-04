@@ -10,7 +10,7 @@ family: Syrphidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [idEriTena1](idEriTena1.md) | Male | Ox0156 | University of Exeter |
+| [idEriTena3](idEriTena3.md) | Male | Ox0145 | University of Exeter |
 
 ## Data ([tsv](Eristalis_tenax_data.tsv))
 

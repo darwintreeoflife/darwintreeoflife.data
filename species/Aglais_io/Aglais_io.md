@@ -1,6 +1,6 @@
 ---
 name: Aglais io
-common_name: peacock
+common_name: European peacock
 taxon_id: 171585
 order: Lepidoptera
 family: Nymphalidae
@@ -10,7 +10,7 @@ family: Nymphalidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilAglIoxx2](ilAglIoxx2.md) |  | SC_AI_1160 | University of Edinburgh |
+| [ilAglIoxx1](ilAglIoxx1.md) | Female? | SC_AI_1368 | Edinburgh University |
 
 ## Data ([tsv](Aglais_io_data.tsv))
 

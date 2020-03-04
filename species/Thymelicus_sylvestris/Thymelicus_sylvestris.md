@@ -10,7 +10,7 @@ family: Hesperiidae
 
 | individual | sex | collector_id | collector_organisation |
 | ---------- | --- | ------------ | ---------------------- |
-| [ilThySylv1](ilThySylv1.md) | Male | EN_RM_1378 | University of Exeter |
+| [ilThySylv4](ilThySylv4.md) | Male | EN_RM_1381 | University of Exeter |
 
 ## Data ([tsv](Thymelicus_sylvestris_data.tsv))
 
