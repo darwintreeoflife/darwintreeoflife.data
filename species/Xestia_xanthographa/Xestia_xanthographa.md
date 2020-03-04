@@ -1,10 +1,12 @@
 ---
 name: Xestia xanthographa
 common_name: square-spot rustic
-taxon_id: [988049](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/988049)
+taxon_id: 988049
 order: Lepidoptera
 family: Noctuidae
 ---
+
+# [Xestia xanthographa](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/988049)
 
 ## Individuals:
 

@@ -1,10 +1,12 @@
 ---
 name: Vespula vulgaris
 common_name: common wasp
-taxon_id: [7454](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/7454)
+taxon_id: 7454
 order: Hymenoptera
 family: Vespidae
 ---
+
+# [Vespula vulgaris](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/7454)
 
 ## Individuals:
 

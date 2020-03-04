@@ -1,10 +1,12 @@
 ---
 name: Eupithecia centaureata
 common_name: lime-speck pug
-taxon_id: [934844](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/934844)
+taxon_id: 934844
 order: Lepidoptera
 family: Geometridae
 ---
+
+# [Eupithecia centaureata](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/934844)
 
 ## Individuals:
 

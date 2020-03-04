@@ -1,10 +1,12 @@
 ---
 name: Melanostoma scalare
 common_name: slender grass hoverfly
-taxon_id: [92598](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/92598)
+taxon_id: 92598
 order: Diptera
 family: Syrphidae
 ---
+
+# [Melanostoma scalare](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/92598)
 
 ## Individuals:
 

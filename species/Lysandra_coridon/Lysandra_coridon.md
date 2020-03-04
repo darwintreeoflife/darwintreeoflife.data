@@ -1,10 +1,12 @@
 ---
 name: Lysandra coridon
 common_name: chalkhill blue
-taxon_id: [268709](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/268709)
+taxon_id: 268709
 order: Lepidoptera
 family: Lycanidae
 ---
+
+# [Lysandra coridon](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/268709)
 
 ## Individuals:
 

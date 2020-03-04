@@ -1,10 +1,12 @@
 ---
 name: Syritta pipiens
 common_name: thick-legged hoverfly
-taxon_id: [34682](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/34682)
+taxon_id: 34682
 order: Diptera
 family: Syrphidae
 ---
+
+# [Syritta pipiens](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/34682)
 
 ## Individuals:
 

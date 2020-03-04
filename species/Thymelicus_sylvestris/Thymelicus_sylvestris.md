@@ -1,10 +1,12 @@
 ---
 name: Thymelicus sylvestris
 common_name: small skipper
-taxon_id: [272628](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/272628)
+taxon_id: 272628
 order: Lepidoptera
 family: Hesperiidae
 ---
+
+# [Thymelicus sylvestris](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/272628)
 
 ## Individuals:
 

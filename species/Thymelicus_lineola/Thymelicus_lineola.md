@@ -1,10 +1,12 @@
 ---
 name: Thymelicus lineola
 common_name: Essex skipper
-taxon_id: [218773](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/218773)
+taxon_id: 218773
 order: Lepidoptera
 family: Hesperidae
 ---
+
+# [Thymelicus lineola](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/218773)
 
 ## Individuals:
 

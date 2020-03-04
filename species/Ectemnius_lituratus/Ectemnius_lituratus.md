@@ -1,10 +1,12 @@
 ---
 name: Ectemnius lituratus
 common_name: 
-taxon_id: [2495015](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/2495015)
+taxon_id: 2495015
 order: Hymenoptera
 family: Crabonidae
 ---
+
+# [Ectemnius lituratus](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/2495015)
 
 ## Individuals:
 

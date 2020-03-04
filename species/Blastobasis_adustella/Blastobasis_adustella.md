@@ -1,10 +1,12 @@
 ---
 name: Blastobasis adustella
 common_name: dingy dowd
-taxon_id: [1869501](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1869501)
+taxon_id: 1869501
 order: Lepidoptera
 family: Blastobasidae
 ---
+
+# [Blastobasis adustella](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1869501)
 
 ## Individuals:
 

@@ -1,10 +1,12 @@
 ---
 name: Ectemnius continuus
 common_name: 
-taxon_id: [1126389](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1126389)
+taxon_id: 1126389
 order: Hymenoptera
 family: Crabonidae
 ---
+
+# [Ectemnius continuus](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1126389)
 
 ## Individuals:
 

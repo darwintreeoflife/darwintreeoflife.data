@@ -1,10 +1,12 @@
 ---
 name: Notodonta dromedarius
 common_name: iron prominent
-taxon_id: [753204](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/753204)
+taxon_id: 753204
 order: Lepidoptera
 family: Notodontidae
 ---
+
+# [Notodonta dromedarius](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/753204)
 
 ## Individuals:
 

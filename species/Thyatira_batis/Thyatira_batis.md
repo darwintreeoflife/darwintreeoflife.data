@@ -1,10 +1,12 @@
 ---
 name: Thyatira batis
 common_name: peach blossom
-taxon_id: [721163](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/721163)
+taxon_id: 721163
 order: Lepidoptera
 family: Drepanidae
 ---
+
+# [Thyatira batis](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/721163)
 
 ## Individuals:
 

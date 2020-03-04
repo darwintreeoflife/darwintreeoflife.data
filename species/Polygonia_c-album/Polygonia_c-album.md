@@ -1,10 +1,12 @@
 ---
 name: Polygonia c-album
 common_name: comma
-taxon_id: [929971](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/929971)
+taxon_id: 929971
 order: Lepidoptera
 family: Nymphalidae
 ---
+
+# [Polygonia c-album](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/929971)
 
 ## Individuals:
 

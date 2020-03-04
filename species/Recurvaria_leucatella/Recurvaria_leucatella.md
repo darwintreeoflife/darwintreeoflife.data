@@ -1,10 +1,12 @@
 ---
 name: Recurvaria leucatella
 common_name: white-barred groundling
-taxon_id: [1594339](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1594339)
+taxon_id: 1594339
 order: Lepidoptera
 family: Gelechiidae
 ---
+
+# [Recurvaria leucatella](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1594339)
 
 ## Individuals:
 

@@ -1,10 +1,12 @@
 ---
 name: Baccha elongata
 common_name: gossamer hoverfly
-taxon_id: [226178](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/226178)
+taxon_id: 226178
 order: Diptera
 family: Syrphidae
 ---
+
+# [Baccha elongata](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/226178)
 
 ## Individuals:
 

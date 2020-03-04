@@ -1,10 +1,12 @@
 ---
 name: Phalera bucephala
 common_name: buff-tip
-taxon_id: [753216](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/753216)
+taxon_id: 753216
 order: Lepidoptera
 family: Notodontidae
 ---
+
+# [Phalera bucephala](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/753216)
 
 ## Individuals:
 

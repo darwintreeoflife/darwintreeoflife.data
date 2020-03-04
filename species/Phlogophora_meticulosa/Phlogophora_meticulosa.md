@@ -1,10 +1,12 @@
 ---
 name: Phlogophora meticulosa
 common_name: angle shades
-taxon_id: [875884](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/875884)
+taxon_id: 875884
 order: Lepidoptera
 family: Noctuidae
 ---
+
+# [Phlogophora meticulosa](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/875884)
 
 ## Individuals:
 

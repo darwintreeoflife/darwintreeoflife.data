@@ -1,10 +1,12 @@
 ---
 name: Aricia agestis
 common_name: brown argus
-taxon_id: [91739](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/91739)
+taxon_id: 91739
 order: Lepidoptera
 family: Lycanidae
 ---
+
+# [Aricia agestis](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/91739)
 
 ## Individuals:
 

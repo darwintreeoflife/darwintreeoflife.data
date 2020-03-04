@@ -1,10 +1,12 @@
 ---
 name: Celastrina argiolus
 common_name: holly brown
-taxon_id: [203782](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/203782)
+taxon_id: 203782
 order: Lepidoptera
 family: Lycaenidae
 ---
+
+# [Celastrina argiolus](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/203782)
 
 ## Individuals:
 

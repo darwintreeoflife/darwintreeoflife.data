@@ -1,10 +1,12 @@
 ---
 name: Euproctis similis
 common_name: yellow-tail
-taxon_id: [987935](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/987935)
+taxon_id: 987935
 order: Lepidoptera
 family: Erebidae
 ---
+
+# [Euproctis similis](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/987935)
 
 ## Individuals:
 

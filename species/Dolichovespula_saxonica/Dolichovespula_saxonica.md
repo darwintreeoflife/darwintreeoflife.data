@@ -1,10 +1,12 @@
 ---
 name: Dolichovespula saxonica
 common_name: Saxon wasp
-taxon_id: [85443](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/85443)
+taxon_id: 85443
 order: Hymenoptera
 family: Vespidae
 ---
+
+# [Dolichovespula saxonica](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/85443)
 
 ## Individuals:
 

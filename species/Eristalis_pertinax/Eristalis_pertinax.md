@@ -1,10 +1,12 @@
 ---
 name: Eristalis pertinax
 common_name: tapered dronefly
-taxon_id: [1572519](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1572519)
+taxon_id: 1572519
 order: Diptera
 family: Syrphidae
 ---
+
+# [Eristalis pertinax](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1572519)
 
 ## Individuals:
 

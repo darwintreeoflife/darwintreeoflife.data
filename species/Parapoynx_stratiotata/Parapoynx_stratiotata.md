@@ -1,10 +1,12 @@
 ---
 name: Parapoynx stratiotata
 common_name: ringed china-mark
-taxon_id: [1594321](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1594321)
+taxon_id: 1594321
 order: Lepidoptera
 family: Crambidae
 ---
+
+# [Parapoynx stratiotata](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1594321)
 
 ## Individuals:
 

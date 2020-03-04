@@ -1,10 +1,12 @@
 ---
 name: Dolichovespula media
 common_name: median wasp
-taxon_id: [881891](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/881891)
+taxon_id: 881891
 order: Hymenoptera
 family: Vespidae
 ---
+
+# [Dolichovespula media](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/881891)
 
 ## Individuals:
 

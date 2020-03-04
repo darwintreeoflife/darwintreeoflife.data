@@ -1,10 +1,12 @@
 ---
 name: Melitaea athalia
 common_name: heath fritillary
-taxon_id: [113330](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/113330)
+taxon_id: 113330
 order: Lepidoptera
 family: Nymphalidae
 ---
+
+# [Melitaea athalia](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/113330)
 
 ## Individuals:
 

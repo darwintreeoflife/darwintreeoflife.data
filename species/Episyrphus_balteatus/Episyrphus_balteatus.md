@@ -1,10 +1,12 @@
 ---
 name: Episyrphus balteatus
 common_name: marmalade hoverfly
-taxon_id: [286459](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/286459)
+taxon_id: 286459
 order: Diptera
 family: Syrphidae
 ---
+
+# [Episyrphus balteatus](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/286459)
 
 ## Individuals:
 

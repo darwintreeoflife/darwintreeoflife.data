@@ -1,10 +1,12 @@
 ---
 name: Bombus hortorum
 common_name: garden bumblebee
-taxon_id: [85660](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/85660)
+taxon_id: 85660
 order: Hymenoptera
 family: Apidae
 ---
+
+# [Bombus hortorum](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/85660)
 
 ## Individuals:
 

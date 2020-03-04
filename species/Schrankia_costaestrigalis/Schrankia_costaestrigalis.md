@@ -1,10 +1,12 @@
 ---
 name: Schrankia costaestrigalis
 common_name: pinion-streaked snout
-taxon_id: [411963](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/411963)
+taxon_id: 411963
 order: Lepidoptera
 family: Erebidae
 ---
+
+# [Schrankia costaestrigalis](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/411963)
 
 ## Individuals:
 

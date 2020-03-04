@@ -1,10 +1,12 @@
 ---
 name: Platycheirus albimanus
 common_name: white-footed hoverfly
-taxon_id: [414846](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/414846)
+taxon_id: 414846
 order: Diptera
 family: Syrphidae
 ---
+
+# [Platycheirus albimanus](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/414846)
 
 ## Individuals:
 
