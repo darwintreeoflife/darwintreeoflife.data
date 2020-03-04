@@ -1,7 +1,8 @@
 ---
 name: Tinea trinotella
 common_name: bird's-nest moth
-taxon_id: [1594354](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1594354)order: Lepidoptera
+taxon_id: [1594354](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/1594354)
+order: Lepidoptera
 family: Tineidae
 ---
 

@@ -1,7 +1,8 @@
 ---
 name: Myathropa florea
 common_name: batman hoverfly
-taxon_id: [NONE](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/NONE)order: Diptera
+taxon_id: [NONE](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/NONE)
+order: Diptera
 family: Syrphidae
 ---
 

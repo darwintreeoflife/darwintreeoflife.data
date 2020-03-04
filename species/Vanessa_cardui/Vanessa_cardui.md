@@ -1,7 +1,8 @@
 ---
 name: Vanessa cardui
 common_name: painted lady
-taxon_id: [171605](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/171605)order: Lepidoptera
+taxon_id: [171605](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/171605)
+order: Lepidoptera
 family: Nymphalidae
 ---
 

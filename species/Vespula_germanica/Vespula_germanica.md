@@ -1,7 +1,8 @@
 ---
 name: Vespula germanica
 common_name: German wasp
-taxon_id: [30212](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/30212)order: Hymenoptera
+taxon_id: [30212](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/30212)
+order: Hymenoptera
 family: Vespidae
 ---
 

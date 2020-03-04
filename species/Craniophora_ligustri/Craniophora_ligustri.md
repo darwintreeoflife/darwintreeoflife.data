@@ -1,7 +1,8 @@
 ---
 name: Craniophora ligustri
 common_name: the coronet
-taxon_id: [938226](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/938226)order: Lepidoptera
+taxon_id: [938226](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/938226)
+order: Lepidoptera
 family: Noctuidae
 ---
 

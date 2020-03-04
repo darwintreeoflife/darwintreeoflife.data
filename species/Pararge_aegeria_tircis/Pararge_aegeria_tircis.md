@@ -1,7 +1,8 @@
 ---
 name: Pararge aegeria tircis
 common_name: speckled wood
-taxon_id: [348721](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/348721)order: Lepidoptera
+taxon_id: [348721](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/348721)
+order: Lepidoptera
 family: Nymphalidae
 ---
 

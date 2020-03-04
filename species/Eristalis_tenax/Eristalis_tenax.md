@@ -1,7 +1,8 @@
 ---
 name: Eristalis tenax
 common_name: the dronefly
-taxon_id: [198635](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/198635)order: Diptera
+taxon_id: [198635](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/198635)
+order: Diptera
 family: Syrphidae
 ---
 

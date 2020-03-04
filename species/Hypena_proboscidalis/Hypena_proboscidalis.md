@@ -1,7 +1,8 @@
 ---
 name: Hypena proboscidalis
 common_name: the snout
-taxon_id: [753189](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/753189)order: Lepidoptera
+taxon_id: [753189](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/753189)
+order: Lepidoptera
 family: Erebidae
 ---
 

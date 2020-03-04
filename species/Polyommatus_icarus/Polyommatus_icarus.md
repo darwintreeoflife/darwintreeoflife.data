@@ -1,7 +1,8 @@
 ---
 name: Polyommatus icarus
 common_name: common blue
-taxon_id: [265386](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/265386)order: Lepidoptera
+taxon_id: [265386](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/265386)
+order: Lepidoptera
 family: Lycaenidae
 ---
 
