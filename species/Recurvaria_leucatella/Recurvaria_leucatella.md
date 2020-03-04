@@ -16,9 +16,9 @@ family: Gelechiidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilRecLeuc1](ilRecLeuc1.md) | 20191024.wtdbg2-ccs | [iRecLeu1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Recurvaria_leucatella/ilRecLeuc1/assemblies/working/20191024.wtdbg2-ccs/iRecLeu1.wtdbg2.ctg.fasta.gz) |
 | [ilRecLeuc1](ilRecLeuc1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilRecLeuc1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Recurvaria_leucatella/ilRecLeuc1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilRecLeuc1.prim.fasta.gz) |
 | [ilRecLeuc1](ilRecLeuc1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilRecLeuc1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Recurvaria_leucatella/ilRecLeuc1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilRecLeuc1.htig.fasta.gz) |
+| [ilRecLeuc1](ilRecLeuc1.md) | 20191024.wtdbg2-ccs | [iRecLeu1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Recurvaria_leucatella/ilRecLeuc1/assemblies/working/20191024.wtdbg2-ccs/iRecLeu1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Recurvaria_leucatella_data.tsv))
 

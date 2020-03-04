@@ -12,11 +12,6 @@ family: Apidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyBomTerr1](iyBomTerr1.md) | Female | Ox0122 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Bombus_terrestris_data.tsv))
 
 | individual | type | info | file |

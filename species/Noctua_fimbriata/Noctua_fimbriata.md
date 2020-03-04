@@ -16,9 +16,9 @@ family: Noctuidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilNocFimb1](ilNocFimb1.md) | 20191022.wtdbg2-ccs | [iNotFim1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/assemblies/working/20191022.wtdbg2-ccs/iNotFim1.wtdbg2.ctg.fasta.gz) |
 | [ilNocFimb1](ilNocFimb1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilNocFimb1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilNocFimb1.prim.fasta.gz) |
 | [ilNocFimb1](ilNocFimb1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilNocFimb1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilNocFimb1.htig.fasta.gz) |
+| [ilNocFimb1](ilNocFimb1.md) | 20191022.wtdbg2-ccs | [iNotFim1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/assemblies/working/20191022.wtdbg2-ccs/iNotFim1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Noctua_fimbriata_data.tsv))
 

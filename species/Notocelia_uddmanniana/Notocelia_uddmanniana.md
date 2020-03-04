@@ -17,11 +17,11 @@ family: Tortricidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilNotUddm1](ilNotUddm1.md) | 20200125.hicanu.purge | [20200125.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20200125.hicanu.purge/20200125.hicanu.purge.htig.fasta.gz) |
 | [ilNotUddm1](ilNotUddm1.md) | 20200125.hicanu.purge | [20200125.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20200125.hicanu.purge/20200125.hicanu.purge.prim.fasta.gz) |
-| [ilNotUddm1](ilNotUddm1.md) | 20191021.wtdbg2-ccs | [iNotUdd1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20191021.wtdbg2-ccs/iNotUdd1.wtdbg2.ctg.fasta.gz) |
+| [ilNotUddm1](ilNotUddm1.md) | 20200125.hicanu.purge | [20200125.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20200125.hicanu.purge/20200125.hicanu.purge.htig.fasta.gz) |
 | [ilNotUddm1](ilNotUddm1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilNotUddm1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilNotUddm1.prim.fasta.gz) |
 | [ilNotUddm1](ilNotUddm1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilNotUddm1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilNotUddm1.htig.fasta.gz) |
+| [ilNotUddm1](ilNotUddm1.md) | 20191021.wtdbg2-ccs | [iNotUdd1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/assemblies/working/20191021.wtdbg2-ccs/iNotUdd1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Notocelia_uddmanniana_data.tsv))
 

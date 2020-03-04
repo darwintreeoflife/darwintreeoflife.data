@@ -16,8 +16,8 @@ family: Nymphalidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilApaIris1](ilApaIris1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Apatura_iris/ilApaIris1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilApaIris1](ilApaIris1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Apatura_iris/ilApaIris1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilApaIris1](ilApaIris1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Apatura_iris/ilApaIris1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Apatura_iris_data.tsv))
 

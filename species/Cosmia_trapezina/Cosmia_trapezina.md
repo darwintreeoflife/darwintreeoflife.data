@@ -16,9 +16,9 @@ family: Noctuidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilCosTrap1](ilCosTrap1.md) | 20191021.wtdbg2-ccs | [iCosTra1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/assemblies/working/20191021.wtdbg2-ccs/iCosTra1.wtdbg2.ctg.fasta.gz) |
 | [ilCosTrap1](ilCosTrap1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilCosTrap1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilCosTrap1.prim.fasta.gz) |
 | [ilCosTrap1](ilCosTrap1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilCosTrap1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilCosTrap1.htig.fasta.gz) |
+| [ilCosTrap1](ilCosTrap1.md) | 20191021.wtdbg2-ccs | [iCosTra1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/assemblies/working/20191021.wtdbg2-ccs/iCosTra1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Cosmia_trapezina_data.tsv))
 

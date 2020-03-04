@@ -17,8 +17,8 @@ family: Hesperidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilEryTage1](ilEryTage1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Erynnis_tages/ilEryTage1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilEryTage1](ilEryTage1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Erynnis_tages/ilEryTage1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilEryTage1](ilEryTage1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Erynnis_tages/ilEryTage1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Erynnis_tages_data.tsv))
 

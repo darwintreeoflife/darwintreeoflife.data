@@ -14,11 +14,6 @@ family: Syrphidae
 | [idMelScal2](idMelScal2.md) | Male | Ox0110 | University of Exeter |
 | [idMelScal3](idMelScal3.md) | Female | Ox0151 | University of Exeter |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Melanostoma_scalare_data.tsv))
 
 | individual | type | info | file |

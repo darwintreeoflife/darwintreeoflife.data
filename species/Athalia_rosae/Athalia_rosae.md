@@ -12,11 +12,6 @@ family: Tenthredinidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyAthRosa1](iyAthRosa1.md) |  | Ox0224 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Athalia_rosae_data.tsv))
 
 | individual | type | info | file |

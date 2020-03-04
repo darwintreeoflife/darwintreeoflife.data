@@ -24,8 +24,8 @@ family: Pieridae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilPieNapi1](ilPieNapi1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilPieNapi1](ilPieNapi1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilPieNapi1](ilPieNapi1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Pieris_napi_data.tsv))
 

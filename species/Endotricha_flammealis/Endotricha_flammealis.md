@@ -16,11 +16,11 @@ family: Pyralidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilEndFlam1](ilEndFlam1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 | [ilEndFlam1](ilEndFlam1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.prim.fasta.gz) |
-| [ilEndFlam1](ilEndFlam1.md) | 20191021.wtdbg2-ccs | [iEndFla1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20191021.wtdbg2-ccs/iEndFla1.wtdbg2.ctg.fasta.gz) |
+| [ilEndFlam1](ilEndFlam1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 | [ilEndFlam1](ilEndFlam1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilEndFlam1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilEndFlam1.prim.fasta.gz) |
 | [ilEndFlam1](ilEndFlam1.md) | 20191030.falcon-ccs.racon.purge_dups | [ilEndFlam1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20191030.falcon-ccs.racon.purge_dups/ilEndFlam1.htig.fasta.gz) |
+| [ilEndFlam1](ilEndFlam1.md) | 20191021.wtdbg2-ccs | [iEndFla1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Endotricha_flammealis/ilEndFlam1/assemblies/working/20191021.wtdbg2-ccs/iEndFla1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Endotricha_flammealis_data.tsv))
 

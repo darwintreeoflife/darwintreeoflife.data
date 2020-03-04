@@ -13,11 +13,6 @@ family: Geometridae
 | [ilEupCent1](ilEupCent1.md) |  | Ox0218 | University of Oxford |
 | [ilEupCent2](ilEupCent2.md) |  | Ox0219 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Eupithecia_centaureata_data.tsv))
 
 | individual | type | info | file |

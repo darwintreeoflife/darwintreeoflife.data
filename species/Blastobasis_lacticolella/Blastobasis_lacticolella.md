@@ -16,8 +16,8 @@ family: Blastobasidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilBlaLact1](ilBlaLact1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 | [ilBlaLact1](ilBlaLact1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.prim.fasta.gz) |
+| [ilBlaLact1](ilBlaLact1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 | [ilBlaLact1](ilBlaLact1.md) | 20191006.wtdbg2-ccs | [iBlaLac1-FS02358096.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/assemblies/working/20191006.wtdbg2-ccs/iBlaLac1-FS02358096.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Blastobasis_lacticolella_data.tsv))

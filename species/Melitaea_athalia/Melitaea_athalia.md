@@ -17,8 +17,8 @@ family: Nymphalidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilMelAtha1](ilMelAtha1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Melitaea_athalia/ilMelAtha1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilMelAtha1](ilMelAtha1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Melitaea_athalia/ilMelAtha1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilMelAtha1](ilMelAtha1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Melitaea_athalia/ilMelAtha1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Melitaea_athalia_data.tsv))
 

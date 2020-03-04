@@ -19,8 +19,8 @@ family: Hesperiidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilThySylv1](ilThySylv1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilThySylv1](ilThySylv1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilThySylv1](ilThySylv1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Thymelicus_sylvestris_data.tsv))
 

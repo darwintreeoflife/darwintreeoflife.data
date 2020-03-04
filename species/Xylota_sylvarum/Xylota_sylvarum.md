@@ -17,8 +17,8 @@ family: Syrphidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [idXylSylv2](idXylSylv2.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 | [idXylSylv2](idXylSylv2.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.prim.fasta.gz) |
+| [idXylSylv2](idXylSylv2.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Xylota_sylvarum_data.tsv))
 

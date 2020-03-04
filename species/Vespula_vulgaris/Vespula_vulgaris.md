@@ -12,11 +12,6 @@ family: Vespidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyVesVulg1](iyVesVulg1.md) | Female | Ox0138 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Vespula_vulgaris_data.tsv))
 
 | individual | type | info | file |

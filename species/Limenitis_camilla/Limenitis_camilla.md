@@ -12,11 +12,6 @@ family: Nymphalidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilLimCami1](ilLimCami1.md) |  | RO_LC_940 | Edinburgh University & Exeter University |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Limenitis_camilla_data.tsv))
 
 | individual | type | info | file |

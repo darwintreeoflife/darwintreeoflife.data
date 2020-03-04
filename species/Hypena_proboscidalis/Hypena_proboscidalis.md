@@ -13,11 +13,6 @@ family: Erebidae
 | [ilHypProb1](ilHypProb1.md) |  | Ox0202 | University of Oxford |
 | [ilHypProb2](ilHypProb2.md) |  | Ox0203 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Hypena_proboscidalis_data.tsv))
 
 | individual | type | info | file |

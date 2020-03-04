@@ -16,8 +16,8 @@ family: Syrphidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [idSyrPipi1](idSyrPipi1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Syritta_pipiens/idSyrPipi1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 | [idSyrPipi1](idSyrPipi1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Syritta_pipiens/idSyrPipi1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.prim.fasta.gz) |
+| [idSyrPipi1](idSyrPipi1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Syritta_pipiens/idSyrPipi1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Syritta_pipiens_data.tsv))
 

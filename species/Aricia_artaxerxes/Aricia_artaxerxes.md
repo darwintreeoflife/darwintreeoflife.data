@@ -12,11 +12,6 @@ family: Lycanidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilAriArta1](ilAriArta1.md) | Male | RO_AA_848 | Edinburgh University & Exeter University |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Aricia_artaxerxes_data.tsv))
 
 | individual | type | info | file |

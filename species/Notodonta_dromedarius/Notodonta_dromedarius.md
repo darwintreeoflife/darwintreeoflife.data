@@ -12,11 +12,6 @@ family: Notodontidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilNotDrom1](ilNotDrom1.md) |  | Ox0208 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Notodonta_dromedarius_data.tsv))
 
 | individual | type | info | file |

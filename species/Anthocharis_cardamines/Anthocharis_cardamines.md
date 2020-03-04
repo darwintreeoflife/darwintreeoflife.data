@@ -18,8 +18,8 @@ family: Pieridae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilAntCard3](ilAntCard3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilAntCard3](ilAntCard3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilAntCard3](ilAntCard3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Anthocharis_cardamines_data.tsv))
 

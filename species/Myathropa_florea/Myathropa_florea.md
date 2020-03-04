@@ -17,8 +17,8 @@ family: Syrphidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [idMyaFlor2](idMyaFlor2.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Myathropa_florea/idMyaFlor2/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 | [idMyaFlor2](idMyaFlor2.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Myathropa_florea/idMyaFlor2/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.prim.fasta.gz) |
+| [idMyaFlor2](idMyaFlor2.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Myathropa_florea/idMyaFlor2/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Myathropa_florea_data.tsv))
 

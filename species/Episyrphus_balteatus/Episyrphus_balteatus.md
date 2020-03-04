@@ -12,11 +12,6 @@ family: Syrphidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [idEpiBalt1](idEpiBalt1.md) |  | Ox0116 | University of Exeter |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Episyrphus_balteatus_data.tsv))
 
 | individual | type | info | file |

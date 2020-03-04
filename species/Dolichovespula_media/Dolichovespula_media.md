@@ -12,11 +12,6 @@ family: Vespidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyDolMedi1](iyDolMedi1.md) | Female | Ox0188 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Dolichovespula_media_data.tsv))
 
 | individual | type | info | file |

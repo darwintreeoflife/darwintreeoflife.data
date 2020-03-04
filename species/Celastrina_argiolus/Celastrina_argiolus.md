@@ -19,8 +19,8 @@ family: Lycaenidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilCelArgi3](ilCelArgi3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilCelArgi3](ilCelArgi3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilCelArgi3](ilCelArgi3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Celastrina_argiolus_data.tsv))
 

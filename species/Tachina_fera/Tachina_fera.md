@@ -13,11 +13,6 @@ family: Tachinidae
 | [idTacFera1](idTacFera1.md) |  | Ox0242 | University of Oxford |
 | [idTacFera2](idTacFera2.md) |  | Ox0243 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Tachina_fera_data.tsv))
 
 | individual | type | info | file |

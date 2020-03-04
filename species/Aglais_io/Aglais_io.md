@@ -13,11 +13,6 @@ family: Nymphalidae
 | [ilAglIoxx1](ilAglIoxx1.md) | Female? | SC_AI_1368 | Edinburgh University |
 | [ilAglIoxx2](ilAglIoxx2.md) |  | SC_AI_1160 | University of Edinburgh |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Aglais_io_data.tsv))
 
 | individual | type | info | file |

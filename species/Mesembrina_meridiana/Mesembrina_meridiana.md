@@ -12,11 +12,6 @@ family: Muscidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [idMesMeri1](idMesMeri1.md) |  | Ox0236 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Mesembrina_meridiana_data.tsv))
 
 | individual | type | info | file |

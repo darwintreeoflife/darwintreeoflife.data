@@ -13,11 +13,6 @@ family: Syrphidae
 | [idPlaAlba1](idPlaAlba1.md) | Female | Ox0223 | University of Oxford |
 | [idPlaAlba2](idPlaAlba2.md) | Female | Ox0240 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Platycheirus_albimanus_data.tsv))
 
 | individual | type | info | file |

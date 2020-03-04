@@ -13,11 +13,6 @@ family: Geometridae
 | [ilEnnFusc1](ilEnnFusc1.md) |  | Ox0201 | University of Oxford |
 | [ilEnnFusc2](ilEnnFusc2.md) |  | Ox0200 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Ennomos_fuscantaria_data.tsv))
 
 | individual | type | info | file |

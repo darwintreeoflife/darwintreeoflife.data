@@ -16,8 +16,8 @@ family: Tineidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilTinTrin1](ilTinTrin1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 | [ilTinTrin1](ilTinTrin1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.prim.fasta.gz) |
+| [ilTinTrin1](ilTinTrin1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Tinea_trinotella_data.tsv))
 

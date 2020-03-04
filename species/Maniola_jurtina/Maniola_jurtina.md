@@ -20,8 +20,8 @@ family: Nymphalidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilManJurt1](ilManJurt1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Maniola_jurtina/ilManJurt1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilManJurt1](ilManJurt1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Maniola_jurtina/ilManJurt1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilManJurt1](ilManJurt1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Maniola_jurtina/ilManJurt1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Maniola_jurtina_data.tsv))
 

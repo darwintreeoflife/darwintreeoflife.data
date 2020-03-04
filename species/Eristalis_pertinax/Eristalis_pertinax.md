@@ -18,8 +18,8 @@ family: Syrphidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [idEriPert2](idEriPert2.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 | [idEriPert2](idEriPert2.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.prim.fasta.gz) |
+| [idEriPert2](idEriPert2.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Eristalis_pertinax_data.tsv))
 

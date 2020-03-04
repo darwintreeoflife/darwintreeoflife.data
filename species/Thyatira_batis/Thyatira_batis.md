@@ -16,11 +16,11 @@ family: Drepanidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilThyBati1](ilThyBati1.md) | 20200116.hicanu.purge | [20200116.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20200116.hicanu.purge/20200116.hicanu.purge.htig.fasta.gz) |
 | [ilThyBati1](ilThyBati1.md) | 20200116.hicanu.purge | [20200116.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20200116.hicanu.purge/20200116.hicanu.purge.prim.fasta.gz) |
-| [ilThyBati1](ilThyBati1.md) | 20191021.wtdbg2-ccs | [iThyBat1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20191021.wtdbg2-ccs/iThyBat1.wtdbg2.ctg.fasta.gz) |
+| [ilThyBati1](ilThyBati1.md) | 20200116.hicanu.purge | [20200116.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20200116.hicanu.purge/20200116.hicanu.purge.htig.fasta.gz) |
 | [ilThyBati1](ilThyBati1.md) | 20191029.falcon-ccs.racon.purge_dups | [ilThyBati1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20191029.falcon-ccs.racon.purge_dups/ilThyBati1.prim.fasta.gz) |
 | [ilThyBati1](ilThyBati1.md) | 20191029.falcon-ccs.racon.purge_dups | [ilThyBati1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20191029.falcon-ccs.racon.purge_dups/ilThyBati1.htig.fasta.gz) |
+| [ilThyBati1](ilThyBati1.md) | 20191021.wtdbg2-ccs | [iThyBat1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thyatira_batis/ilThyBati1/assemblies/working/20191021.wtdbg2-ccs/iThyBat1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Thyatira_batis_data.tsv))
 

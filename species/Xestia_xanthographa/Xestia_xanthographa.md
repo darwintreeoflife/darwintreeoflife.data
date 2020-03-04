@@ -13,11 +13,6 @@ family: Noctuidae
 | [ilXesXant1](ilXesXant1.md) |  | Ox0204 | University of Oxford |
 | [ilXesXant2](ilXesXant2.md) |  | Ox0205 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Xestia_xanthographa_data.tsv))
 
 | individual | type | info | file |

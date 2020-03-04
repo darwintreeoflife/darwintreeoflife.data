@@ -16,8 +16,8 @@ family: Lycaenidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilSatWalb1](ilSatWalb1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Satyrium_walbum/ilSatWalb1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilSatWalb1](ilSatWalb1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Satyrium_walbum/ilSatWalb1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilSatWalb1](ilSatWalb1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Satyrium_walbum/ilSatWalb1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Satyrium_walbum_data.tsv))
 

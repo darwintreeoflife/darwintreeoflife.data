@@ -18,8 +18,8 @@ family: Lycanidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilPleArgu1](ilPleArgu1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilPleArgu1](ilPleArgu1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilPleArgu1](ilPleArgu1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Plebejus_argus_data.tsv))
 

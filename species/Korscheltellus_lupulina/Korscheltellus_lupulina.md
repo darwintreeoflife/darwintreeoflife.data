@@ -12,11 +12,6 @@ family: Hepialidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilKorLupu1](ilKorLupu1.md) |  | Ox0032 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Korscheltellus_lupulina_data.tsv))
 
 | individual | type | info | file |

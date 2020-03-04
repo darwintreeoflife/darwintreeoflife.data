@@ -12,11 +12,6 @@ family: Erebidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilEupSimi1](ilEupSimi1.md) |  | Ox0068 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Euproctis_similis_data.tsv))
 
 | individual | type | info | file |

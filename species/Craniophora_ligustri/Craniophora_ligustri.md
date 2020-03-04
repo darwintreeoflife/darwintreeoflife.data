@@ -16,13 +16,13 @@ family: Noctuidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilCraLigu1](ilCraLigu1.md) | 20200118.hicanu.purge | [20200118.hicanu.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.fasta.gz) |
 | [ilCraLigu1](ilCraLigu1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.scaff10x.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.scaff10x.prim.fasta.gz) |
-| [ilCraLigu1](ilCraLigu1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilCraLigu1](ilCraLigu1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
-| [ilCraLigu1](ilCraLigu1.md) | 20191024.wtdbg2-ccs | [iCraLig1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20191024.wtdbg2-ccs/iCraLig1.wtdbg2.ctg.fasta.gz) |
+| [ilCraLigu1](ilCraLigu1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
+| [ilCraLigu1](ilCraLigu1.md) | 20200118.hicanu.purge | [20200118.hicanu.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.fasta.gz) |
 | [ilCraLigu1](ilCraLigu1.md) | 20191101.falcon-ccs.racon.purge_dups | [ilCraLigu1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20191101.falcon-ccs.racon.purge_dups/ilCraLigu1.prim.fasta.gz) |
 | [ilCraLigu1](ilCraLigu1.md) | 20191101.falcon-ccs.racon.purge_dups | [ilCraLigu1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20191101.falcon-ccs.racon.purge_dups/ilCraLigu1.htig.fasta.gz) |
+| [ilCraLigu1](ilCraLigu1.md) | 20191024.wtdbg2-ccs | [iCraLig1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/assemblies/working/20191024.wtdbg2-ccs/iCraLig1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Craniophora_ligustri_data.tsv))
 

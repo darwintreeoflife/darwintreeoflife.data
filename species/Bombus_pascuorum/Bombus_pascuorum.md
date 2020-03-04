@@ -12,11 +12,6 @@ family: Apidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyBomPasc1](iyBomPasc1.md) | Female | Ox0120 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Bombus_pascuorum_data.tsv))
 
 | individual | type | info | file |

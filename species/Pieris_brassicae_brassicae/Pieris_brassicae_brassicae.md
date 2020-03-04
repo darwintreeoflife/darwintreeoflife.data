@@ -19,8 +19,8 @@ family: Pieridae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilPieBrab1](ilPieBrab1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilPieBrab1](ilPieBrab1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilPieBrab1](ilPieBrab1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Pieris_brassicae_brassicae_data.tsv))
 

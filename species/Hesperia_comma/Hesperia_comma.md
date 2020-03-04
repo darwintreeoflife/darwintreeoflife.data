@@ -16,8 +16,8 @@ family: Hesperiidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilHesComm1](ilHesComm1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilHesComm1](ilHesComm1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilHesComm1](ilHesComm1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Hesperia_comma_data.tsv))
 

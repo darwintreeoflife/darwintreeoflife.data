@@ -13,11 +13,6 @@ family: Noctuidae
 | [ilPhlMeti1](ilPhlMeti1.md) |  | Ox0199 | University of Oxford |
 | [ilPhlMeti2](ilPhlMeti2.md) |  | Ox0198 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Phlogophora_meticulosa_data.tsv))
 
 | individual | type | info | file |

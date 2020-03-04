@@ -18,8 +18,8 @@ family: Nymphalidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilVanCard1](ilVanCard1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 | [ilVanCard1](ilVanCard1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.prim.fasta.gz) |
+| [ilVanCard1](ilVanCard1.md) | 20200119.hicanu.purge | [20200119.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/assemblies/working/20200119.hicanu.purge/20200119.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Vanessa_cardui_data.tsv))
 

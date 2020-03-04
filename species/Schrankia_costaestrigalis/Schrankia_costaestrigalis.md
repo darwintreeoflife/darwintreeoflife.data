@@ -13,11 +13,6 @@ family: Erebidae
 | [ilSchCost1](ilSchCost1.md) |  | Ox0214 | University of Oxford |
 | [ilSchCost2](ilSchCost2.md) |  | Ox0215 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Schrankia_costaestrigalis_data.tsv))
 
 | individual | type | info | file |

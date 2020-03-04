@@ -16,11 +16,11 @@ family: Erebidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilLymMona1](ilLymMona1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilLymMona1](ilLymMona1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
-| [ilLymMona1](ilLymMona1.md) | 20191022.wtdbg2-ccs | [iLymMon1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20191022.wtdbg2-ccs/iLymMon1.wtdbg2.ctg.fasta.gz) |
+| [ilLymMona1](ilLymMona1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilLymMona1](ilLymMona1.md) | 20191029.falcon-ccs.racon.purge_dups | [ilLymMona1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20191029.falcon-ccs.racon.purge_dups/ilLymMona1.prim.fasta.gz) |
 | [ilLymMona1](ilLymMona1.md) | 20191029.falcon-ccs.racon.purge_dups | [ilLymMona1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20191029.falcon-ccs.racon.purge_dups/ilLymMona1.htig.fasta.gz) |
+| [ilLymMona1](ilLymMona1.md) | 20191022.wtdbg2-ccs | [iLymMon1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/assemblies/working/20191022.wtdbg2-ccs/iLymMon1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Lymantria_monacha_data.tsv))
 

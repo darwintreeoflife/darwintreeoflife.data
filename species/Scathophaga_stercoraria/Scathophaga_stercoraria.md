@@ -17,8 +17,8 @@ family: Scathophagidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [idScaSter1](idScaSter1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 | [idScaSter1](idScaSter1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.prim.fasta.gz) |
+| [idScaSter1](idScaSter1.md) | 20200124.hicanu.purge | [20200124.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/assemblies/working/20200124.hicanu.purge/20200124.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Scathophaga_stercoraria_data.tsv))
 

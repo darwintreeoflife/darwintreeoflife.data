@@ -12,11 +12,6 @@ family: Apidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyBomHort1](iyBomHort1.md) | Female | Ox0123 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Bombus_hortorum_data.tsv))
 
 | individual | type | info | file |

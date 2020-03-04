@@ -12,11 +12,6 @@ family: Lasiocampidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilEutPota1](ilEutPota1.md) |  | Ox0038 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Euthrix_potatoria_data.tsv))
 
 | individual | type | info | file |

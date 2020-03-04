@@ -14,11 +14,6 @@ family: Syrphidae
 | [idEriTena2](idEriTena2.md) | Female | Ox0155 | University of Exeter |
 | [idEriTena3](idEriTena3.md) | Male | Ox0145 | University of Exeter |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Eristalis_tenax_data.tsv))
 
 | individual | type | info | file |

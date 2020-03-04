@@ -17,8 +17,8 @@ family: Nymphalidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilVanAtal1](ilVanAtal1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilVanAtal1](ilVanAtal1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
+| [ilVanAtal1](ilVanAtal1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilVanAtal1](ilVanAtal1.md) | 20191024.falcon-unzip-ccs.purge_dups.scaff10x | [ilVanAtal11.scaff10x.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20191024.falcon-unzip-ccs.purge_dups.scaff10x/ilVanAtal11.scaff10x.fasta.gz) |
 | [ilVanAtal1](ilVanAtal1.md) | 20191007.wtdbg2-ccs | [iVanAta1-UK_VA_1209.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Vanessa_atalanta/ilVanAtal1/assemblies/working/20191007.wtdbg2-ccs/iVanAta1-UK_VA_1209.wtdbg2.ctg.fasta.gz) |
 

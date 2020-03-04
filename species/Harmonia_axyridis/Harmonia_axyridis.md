@@ -12,11 +12,6 @@ family: Coccinellidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [icHarAxyr1](icHarAxyr1.md) |  | Ox0012 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Harmonia_axyridis_data.tsv))
 
 | individual | type | info | file |

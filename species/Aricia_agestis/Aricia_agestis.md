@@ -16,8 +16,8 @@ family: Lycanidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilAriAges1](ilAriAges1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Aricia_agestis/ilAriAges1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilAriAges1](ilAriAges1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Aricia_agestis/ilAriAges1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilAriAges1](ilAriAges1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Aricia_agestis/ilAriAges1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Aricia_agestis_data.tsv))
 

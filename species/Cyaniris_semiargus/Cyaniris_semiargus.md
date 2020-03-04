@@ -12,11 +12,6 @@ family: Lycanidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilCyaSemi1](ilCyaSemi1.md) | Male | RO_CS_951 | Edinburgh University & Exeter University |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Cyaniris_semiargus_data.tsv))
 
 | individual | type | info | file |

@@ -19,11 +19,6 @@ family: Nymphalidae
 | [ilLasMege7](ilLasMege7.md) | Male | EN_SK_1189 | University of Exeter |
 | [ilLasMege8](ilLasMege8.md) | Male | EN_SK_1375 | University of Exeter |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Lasiommata_megera_data.tsv))
 
 | individual | type | info | file |

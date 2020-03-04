@@ -12,11 +12,6 @@ family: Vespidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyVesGerm1](iyVesGerm1.md) | Female | Ox0121 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Vespula_germanica_data.tsv))
 
 | individual | type | info | file |

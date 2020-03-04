@@ -16,8 +16,8 @@ family: Hesperidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilThyLine1](ilThyLine1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 | [ilThyLine1](ilThyLine1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
+| [ilThyLine1](ilThyLine1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Thymelicus_lineola_data.tsv))
 

@@ -12,11 +12,6 @@ family: Batrachedridae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilBatPrae1](ilBatPrae1.md) |  | Ox0058 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Batrachedra_praeangusta_data.tsv))
 
 | individual | type | info | file |

@@ -12,11 +12,6 @@ family: Crabonidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyEctCont1](iyEctCont1.md) | Female | Ox0186 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Ectemnius_continuus_data.tsv))
 
 | individual | type | info | file |

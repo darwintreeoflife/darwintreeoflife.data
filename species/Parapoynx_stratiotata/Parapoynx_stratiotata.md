@@ -16,11 +16,11 @@ family: Crambidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilParStra1](ilParStra1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilParStra1](ilParStra1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
-| [ilParStra1](ilParStra1.md) | 20191024.wtdbg2-ccs | [iParStr1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20191024.wtdbg2-ccs/iParStr1.wtdbg2.ctg.fasta.gz) |
+| [ilParStra1](ilParStra1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilParStra1](ilParStra1.md) | 20191101.falcon-ccs.racon.purge_dups | [ilParStra1.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20191101.falcon-ccs.racon.purge_dups/ilParStra1.prim.fasta.gz) |
 | [ilParStra1](ilParStra1.md) | 20191101.falcon-ccs.racon.purge_dups | [ilParStra1.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20191101.falcon-ccs.racon.purge_dups/ilParStra1.htig.fasta.gz) |
+| [ilParStra1](ilParStra1.md) | 20191024.wtdbg2-ccs | [iParStr1.wtdbg2.ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Parapoynx_stratiotata/ilParStra1/assemblies/working/20191024.wtdbg2-ccs/iParStr1.wtdbg2.ctg.fasta.gz) |
 
 ## Data ([tsv](Parapoynx_stratiotata_data.tsv))
 

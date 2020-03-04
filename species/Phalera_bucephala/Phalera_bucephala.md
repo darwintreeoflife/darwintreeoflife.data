@@ -16,8 +16,8 @@ family: Notodontidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilPhaBuce1](ilPhaBuce1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilPhaBuce1](ilPhaBuce1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
+| [ilPhaBuce1](ilPhaBuce1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Phalera_bucephala_data.tsv))
 

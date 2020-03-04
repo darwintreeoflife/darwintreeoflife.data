@@ -12,11 +12,6 @@ family: Syrphidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [idBacElon1](idBacElon1.md) | Female | Ox0221 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Baccha_elongata_data.tsv))
 
 | individual | type | info | file |

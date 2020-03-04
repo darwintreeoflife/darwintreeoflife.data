@@ -12,11 +12,6 @@ family: Peleopodidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [ilCarQuer1](ilCarQuer1.md) |  | Ox0049 | University of Oxford |
 
-## In-progress assemblies
-
-| individual | label | file |
-| :--------- | :---- | :--- |
-
 ## Data ([tsv](Carcina_quercana_data.tsv))
 
 | individual | type | info | file |

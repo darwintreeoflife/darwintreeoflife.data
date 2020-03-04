@@ -16,8 +16,8 @@ family: Papilionidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
-| [ilPapMach1](ilPapMach1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Papilio_machaon/ilPapMach1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 | [ilPapMach1](ilPapMach1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Papilio_machaon/ilPapMach1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.prim.fasta.gz) |
+| [ilPapMach1](ilPapMach1.md) | 20200118.hicanu.purge | [20200118.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Papilio_machaon/ilPapMach1/assemblies/working/20200118.hicanu.purge/20200118.hicanu.purge.htig.fasta.gz) |
 
 ## Data ([tsv](Papilio_machaon_data.tsv))
 
