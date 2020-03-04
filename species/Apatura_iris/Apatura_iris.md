@@ -1,8 +1,7 @@
 ---
 name: Apatura iris
 common_name: purple emperor
-taxon_id: 191396
-order: Lepidoptera
+taxon_id: [191396](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/191396)order: Lepidoptera
 family: Nymphalidae
 ---
 

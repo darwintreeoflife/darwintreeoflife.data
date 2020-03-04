@@ -1,8 +1,7 @@
 ---
 name: Pieris rapae
 common_name: small white
-taxon_id: 64459
-order: Lepidoptera
+taxon_id: [64459](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/64459)order: Lepidoptera
 family: Pieridae
 ---
 

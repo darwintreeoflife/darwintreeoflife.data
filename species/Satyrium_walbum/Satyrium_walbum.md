@@ -1,8 +1,7 @@
 ---
 name: Satyrium walbum
 common_name: white-letter hairstreak
-taxon_id: 876055
-order: Lepidoptera
+taxon_id: [876055](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/876055)order: Lepidoptera
 family: Lycaenidae
 ---
 

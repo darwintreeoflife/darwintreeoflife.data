@@ -1,8 +1,7 @@
 ---
 name: Ennomos fuscantaria
 common_name: dusky thorn
-taxon_id: 722662
-order: Lepidoptera
+taxon_id: [722662](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/722662)order: Lepidoptera
 family: Geometridae
 ---
 

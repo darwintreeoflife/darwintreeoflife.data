@@ -1,8 +1,7 @@
 ---
 name: Harmonia axyridis
 common_name: harlequin
-taxon_id: 115357
-order: Coleoptera
+taxon_id: [115357](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/115357)order: Coleoptera
 family: Coccinellidae
 ---
 

@@ -1,8 +1,7 @@
 ---
 name: Bombus pascuorum
 common_name: common carder bee
-taxon_id: 65598
-order: Hymenoptera
+taxon_id: [65598](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/65598)order: Hymenoptera
 family: Apidae
 ---
 

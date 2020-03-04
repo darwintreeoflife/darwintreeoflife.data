@@ -1,8 +1,7 @@
 ---
 name: Pieris brassicae brassicae
 common_name: large white
-taxon_id: 596636
-order: Lepidoptera
+taxon_id: [596636](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/596636)order: Lepidoptera
 family: Pieridae
 ---
 

@@ -1,8 +1,7 @@
 ---
 name: Anthocharis cardamines
 common_name: orange tip
-taxon_id: 227532
-order: Lepidoptera
+taxon_id: [227532](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/227532)order: Lepidoptera
 family: Pieridae
 ---
 

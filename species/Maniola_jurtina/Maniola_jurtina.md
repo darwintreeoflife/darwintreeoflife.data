@@ -1,8 +1,7 @@
 ---
 name: Maniola jurtina
 common_name: meadow brown
-taxon_id: 191418
-order: Lepidoptera
+taxon_id: [191418](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/191418)order: Lepidoptera
 family: Nymphalidae
 ---
 

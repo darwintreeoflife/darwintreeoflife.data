@@ -1,8 +1,7 @@
 ---
 name: Aglais io
 common_name: European peacock
-taxon_id: 171585
-order: Lepidoptera
+taxon_id: [171585](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/171585)order: Lepidoptera
 family: Nymphalidae
 ---
 

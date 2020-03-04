@@ -1,8 +1,7 @@
 ---
 name: Autographa gamma
 common_name: silver Y
-taxon_id: 254363
-order: Lepidoptera
+taxon_id: [254363](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/254363)order: Lepidoptera
 family: Noctuidae
 ---
 

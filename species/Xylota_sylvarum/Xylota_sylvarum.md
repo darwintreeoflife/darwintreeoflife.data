@@ -1,8 +1,7 @@
 ---
 name: Xylota sylvarum
 common_name: golden-tailed hoverfly
-taxon_id: 374264
-order: Diptera
+taxon_id: [374264](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/374264)order: Diptera
 family: Syrphidae
 ---
 

@@ -1,8 +1,7 @@
 ---
 name: Bombus terrestris
 common_name: buff-tailed bumblebee
-taxon_id: 30195
-order: Hymenoptera
+taxon_id: [30195](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/30195)order: Hymenoptera
 family: Apidae
 ---
 

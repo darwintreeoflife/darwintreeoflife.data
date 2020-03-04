@@ -1,8 +1,7 @@
 ---
 name: Mythimna impura
 common_name: smoky wainscot
-taxon_id: 987985
-order: Lepidoptera
+taxon_id: [987985](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/987985)order: Lepidoptera
 family: Noctuidae
 ---
 
