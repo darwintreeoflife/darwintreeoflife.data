@@ -2,21 +2,22 @@
 
 ![Darwin Tree of Life](images/dtol-logo-round-300x132.png)
 
-:warning: **Warning: This repository temporary and will be replaced by a dedicated data portal**
+:warning: **Warning: This repository is temporary and will soon be replaced by a dedicated data portal.**
+:warning: **Warning: Data is also only temporarily avilable prior to being deposited in the ENA. Publications should only be based on data in the public archives.**
 
 ## Introduction
 
 The [Darwin Tree of Life project](https://www.darwintreeoflife.org/) (DToL) aims to sequence, assemble and annotate high quality genome assemblies of all eukaryotic species in the Atlantic Archipelagp of Britain and Ireland.
 It is a partnership between the Wellcome Sanger Institute, the Natural History Museum, London (NHM), the Royal Botanic Gardens at Kew (RBGKew), the Royal Botanic Gardens Edinburgh (RBGE), the Marine Biological Association, the Earlham Institute, the European Bioinformatics Institute (EBI), the University of Oxford, the University of Edinburgh and the University of Cambridge, assisted by many collaborators.
 
+## About the data
+
+- [ ] Link to DToL data release policy
 
 As a step towards open and early release of Darwin Tree of Life data, we are making available raw data before submission to ENA and early-pass assemblies for use by the community.
 Please note that the data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
 They may contain contaminant genomes, symbionts and assembly errors.
 The final assemblies will differ in sequence and contiguity; these will be annotated and released to ENA in due course.
-
-
-- [ ] Link to DToL data release policy
 
 | Species | Taxon ID | PacBio | ONT | 10XG | Hi-C | Draft Asm |
 | :------ | :------: | :----: | :-: | :--: | :--: | :-------: |
