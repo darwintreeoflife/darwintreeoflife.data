@@ -1,6 +1,6 @@
 ---
 name: Parapoynx stratiotata
-common_name: Ringed china-mark
+common_name: ringed china-mark
 taxon_id: 1594321
 order: Lepidoptera
 family: Crambidae

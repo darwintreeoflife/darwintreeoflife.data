@@ -1,6 +1,6 @@
 ---
 name: Notocelia uddmanniana
-common_name: Bramble shoot moth
+common_name: bramble shoot moth
 taxon_id: 1594315
 order: Lepidoptera
 family: Tortricidae

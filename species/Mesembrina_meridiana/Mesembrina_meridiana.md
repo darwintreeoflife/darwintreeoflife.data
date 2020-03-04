@@ -1,6 +1,6 @@
 ---
 name: Mesembrina meridiana
-common_name: Noon fly
+common_name: noon fly
 taxon_id: 116148
 order: Diptera
 family: Muscidae

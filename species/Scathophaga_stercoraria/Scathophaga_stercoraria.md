@@ -1,6 +1,6 @@
 ---
 name: Scathophaga stercoraria
-common_name: Yellow dung fly
+common_name: yellow dung fly
 taxon_id: 95463
 order: Diptera
 family: Scathophagidae

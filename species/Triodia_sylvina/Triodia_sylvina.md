@@ -1,6 +1,6 @@
 ---
 name: Triodia sylvina
-common_name: Orange swift
+common_name: orange swift
 taxon_id: 537462
 order: Lepidoptera
 family: Hepialidae

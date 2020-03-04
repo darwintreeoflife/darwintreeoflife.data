@@ -1,6 +1,6 @@
 ---
 name: Korscheltellus lupulina
-common_name: Common Swift
+common_name: common swift
 taxon_id: 214181
 order: Lepidoptera
 family: Hepialidae

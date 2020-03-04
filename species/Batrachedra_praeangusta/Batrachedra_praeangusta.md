@@ -1,6 +1,6 @@
 ---
 name: Batrachedra praeangusta
-common_name: Poplar cosmet
+common_name: poplar cosmet
 taxon_id: 347710
 order: Lepidoptera
 family: Batrachedridae

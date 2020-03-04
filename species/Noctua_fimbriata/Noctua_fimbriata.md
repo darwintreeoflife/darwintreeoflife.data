@@ -1,6 +1,6 @@
 ---
 name: Noctua fimbriata
-common_name: Broad-bordered yellow underwing
+common_name: broad-bordered yellow underwing
 taxon_id: 753202
 order: Lepidoptera
 family: Noctuidae

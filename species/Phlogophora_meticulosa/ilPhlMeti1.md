@@ -7,7 +7,7 @@ developmental_stage: adult
 collected_by: Douglas Boyes
 collector_organisation: University of Oxford
 collector_id: Ox0199
-collection_site: Wytham, behind chalet
+collection_site: "Wytham, behind chalet"
 latitude: 51.772374
 longitude: -1.3383138
 ---

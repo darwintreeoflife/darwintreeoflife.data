@@ -1,6 +1,6 @@
 ---
 name: Lymantria monacha
-common_name: Black arches
+common_name: black arches
 taxon_id: 78897
 order: Lepidoptera
 family: Erebidae

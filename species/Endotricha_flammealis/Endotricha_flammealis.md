@@ -1,6 +1,6 @@
 ---
 name: Endotricha flammealis
-common_name: Rosy tabby
+common_name: rosy tabby
 taxon_id: 1101095
 order: Lepidoptera
 family: Pyralidae

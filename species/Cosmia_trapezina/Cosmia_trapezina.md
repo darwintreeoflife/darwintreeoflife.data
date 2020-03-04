@@ -1,6 +1,6 @@
 ---
 name: Cosmia trapezina
-common_name: The dun-bar
+common_name: the dun-bar
 taxon_id: 116126
 order: Lepidoptera
 family: Noctuidae

@@ -1,6 +1,6 @@
 ---
 name: Pieris napi
-common_name: green veined white
+common_name: green-veined white 
 taxon_id: 78633
 order: Lepidoptera
 family: Pieridae

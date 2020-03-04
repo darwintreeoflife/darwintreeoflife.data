@@ -1,6 +1,6 @@
 ---
 name: Harmonia axyridis
-common_name: Harlequin ladybird
+common_name: harlequin
 taxon_id: 115357
 order: Coleoptera
 family: Coccinellidae

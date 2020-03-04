@@ -1,6 +1,6 @@
 ---
 name: Episyrphus balteatus
-common_name: Marmalade hoverfly
+common_name: marmalade hoverfly
 taxon_id: 286459
 order: Diptera
 family: Syrphidae

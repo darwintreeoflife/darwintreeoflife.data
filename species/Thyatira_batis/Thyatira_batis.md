@@ -1,6 +1,6 @@
 ---
 name: Thyatira batis
-common_name: Peach blossom
+common_name: peach blossom
 taxon_id: 721163
 order: Lepidoptera
 family: Drepanidae

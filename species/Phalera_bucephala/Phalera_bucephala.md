@@ -1,6 +1,6 @@
 ---
 name: Phalera bucephala
-common_name: Buff-tip
+common_name: buff-tip
 taxon_id: 753216
 order: Lepidoptera
 family: Notodontidae

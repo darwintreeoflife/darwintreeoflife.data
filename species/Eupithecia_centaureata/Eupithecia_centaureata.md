@@ -1,6 +1,6 @@
 ---
 name: Eupithecia centaureata
-common_name: Lime-speck pug
+common_name: lime-speck pug
 taxon_id: 934844
 order: Lepidoptera
 family: Geometridae

@@ -1,6 +1,6 @@
 ---
 name: Athalia rosae
-common_name: Turnip sawfly
+common_name: turnip sawfly
 taxon_id: 37344
 order: Hymenoptera
 family: Tenthredinidae

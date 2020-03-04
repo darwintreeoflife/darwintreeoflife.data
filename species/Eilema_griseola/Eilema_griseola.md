@@ -1,6 +1,6 @@
 ---
 name: Eilema griseola
-common_name: Dingy footman
+common_name: dingy footman
 taxon_id: 987420
 order: Lepidoptera
 family: Erebidae

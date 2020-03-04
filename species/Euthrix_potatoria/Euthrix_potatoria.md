@@ -1,6 +1,6 @@
 ---
 name: Euthrix potatoria
-common_name: Drinker moth
+common_name: drinker moth
 taxon_id: 624169
 order: Lepidoptera
 family: Lasiocampidae

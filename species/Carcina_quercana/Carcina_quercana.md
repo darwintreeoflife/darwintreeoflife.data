@@ -1,6 +1,6 @@
 ---
 name: Carcina quercana
-common_name: Long-horned flat-body
+common_name: long-horned flat-body
 taxon_id: 116121
 order: Lepidoptera
 family: Peleopodidae

@@ -1,6 +1,6 @@
 ---
 name: Blastobasis lacticolella
-common_name: London Dowd
+common_name: London dowd
 taxon_id: 2561016
 order: Lepidoptera
 family: Blastobasidae

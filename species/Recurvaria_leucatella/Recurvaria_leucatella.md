@@ -1,6 +1,6 @@
 ---
 name: Recurvaria leucatella
-common_name: White-barred groundling
+common_name: white-barred groundling
 taxon_id: 1594339
 order: Lepidoptera
 family: Gelechiidae

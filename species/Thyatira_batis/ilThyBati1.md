@@ -7,7 +7,7 @@ developmental_stage: adult
 collected_by: Douglas Boyes
 collector_organisation: University of Oxford
 collector_id: Ox0061
-collection_site: Wytham, Chalet ride
+collection_site: "Wytham, Chalet ride"
 latitude: 51.771934
 longitude: -1.3368129
 ---
