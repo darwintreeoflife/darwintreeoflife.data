@@ -1,6 +1,6 @@
 individual	type	info	file	etag
 ilNocFimb1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam	afcd64e825f2dbc53a39b960e2c9c749-1210
 ilNocFimb1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam.pbi	1b5b4cd3330bf988c66922e602aa850a-2
-ilNocFimb1	pacbio		https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.stats	0ea159e9bce9209ccf34b18596ec4b51
+ilNocFimb1	pacbio.ccs.stats		https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.stats	0ea159e9bce9209ccf34b18596ec4b51
 ilNocFimb1	pacbio.subreads.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.subreads.bam	d166075ae9cb0d5d7fb22b5957dc1381-5158
 ilNocFimb1	pacbio.subreads.index		https://darwin.cog.sanger.ac.uk/insects/Noctua_fimbriata/ilNocFimb1/genomic_data/pacbio/m64016_191018_132202.bc1016_BAK8B_OA--bc1016_BAK8B_OA.subreads.bam.pbi	7dbd327476f904130b41f7f0d1d0a06c-22
