@@ -4,7 +4,7 @@
 
 :warning: **Warning: This repository is temporary and will soon be replaced by a dedicated data portal.**
 
-:warning: **Warning: Data is also only temporarily avilable prior to being deposited in the ENA. Publications should only be based on data in the public archives.**
+:warning: **Warning: Data is only available until release to the ENA. Publications should only be based on data in the public archives.**
 
 
 ## Introduction
