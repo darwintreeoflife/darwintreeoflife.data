@@ -80,7 +80,7 @@ The final assemblies will differ in sequence and contiguity; these will be annot
 | [*Thyatira batis*](species/Thyatira_batis/Thyatira_batis.md) | peach blossom |
 | [*Thymelicus lineola*](species/Thymelicus_lineola/Thymelicus_lineola.md) | Essex skipper |
 | [*Thymelicus sylvestris*](species/Thymelicus_sylvestris/Thymelicus_sylvestris.md) | small skipper |
-| [*Tinea trinotella*](species/Tinea_trinotella/Tinea_trinotella.md) | Bird's-nest moth |
+| [*Tinea trinotella*](species/Tinea_trinotella/Tinea_trinotella.md) | bird's-nest moth |
 | [*Triodia sylvina*](species/Triodia_sylvina/Triodia_sylvina.md) | orange swift |
 | [*Vanessa atalanta*](species/Vanessa_atalanta/Vanessa_atalanta.md) | red admiral |
 | [*Vanessa cardui*](species/Vanessa_cardui/Vanessa_cardui.md) | painted lady |
