@@ -16,7 +16,9 @@ They may contain contaminant genomes, symbionts and assembly errors.
 The final assemblies will differ in sequence and contiguity; these will be annotated and released to ENA in due course.
 
 
-- [ ] Link to DToL data release policy| Species | Taxon ID | PacBio | ONT | 10XG | Hi-C | Draft Asm |
+- [ ] Link to DToL data release policy
+
+| Species | Taxon ID | PacBio | ONT | 10XG | Hi-C | Draft Asm |
 | :------ | :------: | :----: | :-: | :--: | :--: | :-------: |
 | [*Aglais io*](species/Aglais_io/Aglais_io.md) (European peacock) | [171585](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/171585) |  &#9679; |        |        |         |        |
 | [*Anthocharis cardamines*](species/Anthocharis_cardamines/Anthocharis_cardamines.md) (orange tip) | [227532](https://www.ebi.ac.uk/ena/data/taxonomy/v1/taxon/tax-id/227532) |  &#9679; |        |        |         |  &#9679; |
