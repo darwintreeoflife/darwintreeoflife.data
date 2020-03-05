@@ -14,6 +14,13 @@ family: Apidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyBomTerr1](iyBomTerr1.md) | Female | Ox0122 | University of Oxford |
 
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
+| [iyBomTerr1](iyBomTerr1.md) | 20200212.hicanu.purge | [20200212.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Bombus_terrestris/iyBomTerr1/assemblies/working/20200212.hicanu.purge/20200212.hicanu.purge.prim.fasta.gz) |
+| [iyBomTerr1](iyBomTerr1.md) | 20200212.hicanu.purge | [20200212.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Bombus_terrestris/iyBomTerr1/assemblies/working/20200212.hicanu.purge/20200212.hicanu.purge.htig.fasta.gz) |
+
 ## Data ([tsv](Bombus_terrestris_data.tsv))
 
 | individual | type | info | file |

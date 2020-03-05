@@ -6,13 +6,14 @@
 
 :warning: **Warning: Data is only available here until release to the ENA.**
 
-:warning: **Warning: Publications should only be based on data in the public archives.**
+:warning: **Warning: Publications should only be based on data in the public archives (ENA, Genbank, DDBJ).**
 
 
 ## Introduction
 
-The [Darwin Tree of Life project](https://www.darwintreeoflife.org/) (DToL) aims to sequence, assemble and annotate high quality genome assemblies of all eukaryotic species in the Atlantic Archipelagp of Britain and Ireland.
-It is a partnership between the Wellcome Sanger Institute, the Natural History Museum, London (NHM), the Royal Botanic Gardens at Kew (RBGKew), the Royal Botanic Gardens Edinburgh (RBGE), the Marine Biological Association, the Earlham Institute, the European Bioinformatics Institute (EBI), the University of Oxford, the University of Edinburgh and the University of Cambridge, assisted by many collaborators.
+The [Darwin Tree of Life Project](https://www.darwintreeoflife.org/) (DToL) aims to generate high quality genome assemblies of all 60,000 species of eukaryotic organisms in the Atlantic archipelago of Britain and Ireland to contribute towards providing reference genome sequences for all life.
+It is a collaboration between biodiversity, genomics and analysis partners that hopes to transform the way we do biology, conservation and biotechnology.
+The project is a collaboration of the Natural History Museum London, Royal Botanic Gardens Kew, Royal Botanic Gardens Edinburgh, Marine Biological Association, Earlham Institute, University of Oxford and its Wytham Woods field station, University of Edinburgh and Edinburgh Genomics, University of Cambridge, EMBL-EBI and others, led by the Wellcome Sanger Institute, UK.
 
 ## About the data
 
@@ -40,7 +41,7 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Blastobasis lacticolella*](species/Blastobasis_lacticolella/Blastobasis_lacticolella.md) (London dowd) |  &#9679; |        |        |         |  &#9679; |
 | [*Bombus hortorum*](species/Bombus_hortorum/Bombus_hortorum.md) (garden bumblebee) |  &#9679; |        |        |         |        |
 | [*Bombus pascuorum*](species/Bombus_pascuorum/Bombus_pascuorum.md) (common carder bee) |  &#9679; |        |        |         |        |
-| [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |        |         |        |
+| [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |        |         |  &#9679; |
 | [*Carcina quercana*](species/Carcina_quercana/Carcina_quercana.md) (long-horned flat-body) |  &#9679; |        |        |         |        |
 | [*Celastrina argiolus*](species/Celastrina_argiolus/Celastrina_argiolus.md) (holly brown) |  &#9679; |        |        |         |  &#9679; |
 | [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) (the dun-bar) |  &#9679; |        |        |         |  &#9679; |
