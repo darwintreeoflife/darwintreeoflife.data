@@ -6,7 +6,7 @@
 
 :warning: **Warning: Data is only available here until release to the ENA.**
 
-:warning: **Warning: Publications should only be based on data in the public archives (ENA, Genbank, DDBJ).**
+:warning: **Warning: Publications should only be based on accessioned data in the public archives (ENA, Genbank, DDBJ).**
 
 
 ## Introduction
@@ -20,9 +20,9 @@ The project is a collaboration of the Natural History Museum London, Royal Botan
 - [ ] Link to DToL data release policy
 
 As a step towards open and early release of Darwin Tree of Life data, we are making available raw data before submission to ENA and early-pass assemblies for use by the community.
-Please note that the **data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
-They may contain contaminant genomes, symbionts and assembly errors.
-The final assemblies will differ in sequence and contiguity**; these will be annotated and released to ENA in due course.
+Please note that these **data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to chromosomal scale.
+They may contain assembly errors, contaminant and symbiont genomes.
+The final assemblies will differ in sequence and contiguity**; these will be released to ENA and annotated in due course, at which point they will be removed from this site.
 
 ## Data
 
