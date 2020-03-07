@@ -26,6 +26,10 @@ family: Blastobasidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilBlaLact1](ilBlaLact1.md) | 10x.ucram |  | [cec6a4e2a04f0a57e483c3eaeb5bf468-364](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/10x/30996_6%231.cram) |
+| [ilBlaLact1](ilBlaLact1.md) | 10x.ucram |  | [fb11607c1cbc5995d17f57905936cf64-329](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/10x/30996_6%232.cram) |
+| [ilBlaLact1](ilBlaLact1.md) | 10x.ucram |  | [85682dd5f695bb6824aa314d7688e478-556](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/10x/30996_6%233.cram) |
+| [ilBlaLact1](ilBlaLact1.md) | 10x.ucram |  | [e7bc6656f89ed83810b8a4b1fbfb7c65-410](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/10x/30996_6%234.cram) |
 | [ilBlaLact1](ilBlaLact1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [f343a45cb4c2014d346c2755894fa3a4-321](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/pacbio/m64016_190922_045316.ccs.bam) |
 | [ilBlaLact1](ilBlaLact1.md) | pacbio.ccs.index |  | [5e94de7be1c84e1818ed99d9f6538d81](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/pacbio/m64016_190922_045316.ccs.bam.pbi) |
 | [ilBlaLact1](ilBlaLact1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [3738fe19a56a6bf5caff35458a919746-635](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_lacticolella/ilBlaLact1/genomic_data/pacbio/m64089_200120_195449.ccs.bam) |

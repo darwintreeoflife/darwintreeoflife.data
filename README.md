@@ -6,7 +6,7 @@
 
 :warning: **Warning: Data is only available here until release to the ENA.**
 
-:warning: **Warning: Publications should only be based on accessioned data in the public archives (ENA, Genbank, DDBJ).**
+:warning: **Warning: Publications should only be based on data in the public archives (ENA, Genbank, DDBJ).**
 
 
 ## Introduction
@@ -20,9 +20,9 @@ The project is a collaboration of the Natural History Museum London, Royal Botan
 - [ ] Link to DToL data release policy
 
 As a step towards open and early release of Darwin Tree of Life data, we are making available raw data before submission to ENA and early-pass assemblies for use by the community.
-Please note that these **data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to chromosomal scale.
-They may contain assembly errors, contaminant and symbiont genomes.
-The final assemblies will differ in sequence and contiguity**; these will be released to ENA and annotated in due course, at which point they will be removed from this site.
+Please note that the **data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
+They may contain contaminant genomes, symbionts and assembly errors.
+The final assemblies will differ in sequence and contiguity**; these will be annotated and released to ENA in due course.
 
 ## Data
 
@@ -38,7 +38,7 @@ The final assemblies will differ in sequence and contiguity**; these will be rel
 | [*Baccha elongata*](species/Baccha_elongata/Baccha_elongata.md) (gossamer hoverfly) |  &#9679; |        |        |         |        |
 | [*Batrachedra praeangusta*](species/Batrachedra_praeangusta/Batrachedra_praeangusta.md) (poplar cosmet) |  &#9679; |        |        |         |        |
 | [*Blastobasis adustella*](species/Blastobasis_adustella/Blastobasis_adustella.md) (dingy dowd) |  &#9679; |        |        |         |  &#9679; |
-| [*Blastobasis lacticolella*](species/Blastobasis_lacticolella/Blastobasis_lacticolella.md) (London dowd) |  &#9679; |        |        |         |  &#9679; |
+| [*Blastobasis lacticolella*](species/Blastobasis_lacticolella/Blastobasis_lacticolella.md) (London dowd) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Bombus hortorum*](species/Bombus_hortorum/Bombus_hortorum.md) (garden bumblebee) |  &#9679; |        |        |         |        |
 | [*Bombus pascuorum*](species/Bombus_pascuorum/Bombus_pascuorum.md) (common carder bee) |  &#9679; |        |        |         |        |
 | [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |        |         |  &#9679; |
@@ -53,7 +53,7 @@ The final assemblies will differ in sequence and contiguity**; these will be rel
 | [*Ectemnius lituratus*](species/Ectemnius_lituratus/Ectemnius_lituratus.md) |  &#9679; |        |        |         |        |
 | [*Eilema griseola*](species/Eilema_griseola/Eilema_griseola.md) (dingy footman) |  &#9679; |        |        |         |  &#9679; |
 | [*Eimeria tenella*](species/Eimeria_tenella/Eimeria_tenella.md) (Coccidian parasite) |  &#9679; |        |        |         |        |
-| [*Endotricha flammealis*](species/Endotricha_flammealis/Endotricha_flammealis.md) (rosy tabby) |  &#9679; |        |        |         |  &#9679; |
+| [*Endotricha flammealis*](species/Endotricha_flammealis/Endotricha_flammealis.md) (rosy tabby) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Ennomos fuscantaria*](species/Ennomos_fuscantaria/Ennomos_fuscantaria.md) (dusky thorn) |  &#9679; |        |        |         |        |
 | [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) (marmalade hoverfly) |  &#9679; |        |        |         |        |
 | [*Eristalis pertinax*](species/Eristalis_pertinax/Eristalis_pertinax.md) (tapered dronefly) |  &#9679; |        |        |         |  &#9679; |
