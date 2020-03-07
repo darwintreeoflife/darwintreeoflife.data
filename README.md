@@ -52,6 +52,7 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Ectemnius continuus*](species/Ectemnius_continuus/Ectemnius_continuus.md) |  &#9679; |        |        |         |        |
 | [*Ectemnius lituratus*](species/Ectemnius_lituratus/Ectemnius_lituratus.md) |  &#9679; |        |        |         |        |
 | [*Eilema griseola*](species/Eilema_griseola/Eilema_griseola.md) (dingy footman) |  &#9679; |        |        |         |  &#9679; |
+| [*Eimeria tenella*](species/Eimeria_tenella/Eimeria_tenella.md) (Coccidian parasite) |  &#9679; |        |        |         |        |
 | [*Endotricha flammealis*](species/Endotricha_flammealis/Endotricha_flammealis.md) (rosy tabby) |  &#9679; |        |        |         |  &#9679; |
 | [*Ennomos fuscantaria*](species/Ennomos_fuscantaria/Ennomos_fuscantaria.md) (dusky thorn) |  &#9679; |        |        |         |        |
 | [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) (marmalade hoverfly) |  &#9679; |        |        |         |        |
@@ -80,7 +81,7 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Notocelia uddmanniana*](species/Notocelia_uddmanniana/Notocelia_uddmanniana.md) (bramble shoot moth) |  &#9679; |        |        |         |  &#9679; |
 | [*Notodonta dromedarius*](species/Notodonta_dromedarius/Notodonta_dromedarius.md) (iron prominent) |  &#9679; |        |        |         |        |
 | [*Papilio machaon*](species/Papilio_machaon/Papilio_machaon.md) (swallowtail) |  &#9679; |        |        |         |  &#9679; |
-| [*Parapoynx stratiotata*](species/Parapoynx_stratiotata/Parapoynx_stratiotata.md) (ringed china-mark) |  &#9679; |        |        |         |  &#9679; |
+| [*Parapoynx stratiotata*](species/Parapoynx_stratiotata/Parapoynx_stratiotata.md) (ringed china-mark) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Pararge aegeria tircis*](species/Pararge_aegeria_tircis/Pararge_aegeria_tircis.md) (speckled wood) |  &#9679; |        |        |         |        |
 | [*Phalera bucephala*](species/Phalera_bucephala/Phalera_bucephala.md) (buff-tip) |  &#9679; |        |        |         |  &#9679; |
 | [*Phlogophora meticulosa*](species/Phlogophora_meticulosa/Phlogophora_meticulosa.md) (angle shades) |  &#9679; |        |        |         |        |
