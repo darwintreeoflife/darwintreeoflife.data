@@ -21,6 +21,8 @@ family: Blastobasidae
 | :--------- | :---- | :--- |
 | [ilBlaAdus2](ilBlaAdus2.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_adustella/ilBlaAdus2/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
 | [ilBlaAdus2](ilBlaAdus2.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_adustella/ilBlaAdus2/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
+| [ilBlaAdus2](ilBlaAdus2.md) | 20191129.falcon-ccs.racon.purge_dups | [ilBlaAdus2.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_adustella/ilBlaAdus2/assemblies/working/20191129.falcon-ccs.racon.purge_dups/ilBlaAdus2.prim.fasta.gz) |
+| [ilBlaAdus2](ilBlaAdus2.md) | 20191129.falcon-ccs.racon.purge_dups | [ilBlaAdus2.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Blastobasis_adustella/ilBlaAdus2/assemblies/working/20191129.falcon-ccs.racon.purge_dups/ilBlaAdus2.htig.fasta.gz) |
 
 ## Data ([tsv](Blastobasis_adustella_data.tsv))
 
