@@ -26,5 +26,8 @@ family: Syrphidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [idXylSylv2](idXylSylv2.md) | 10x.ucram |  | [289146b111828e879860e300b0cab3f5-419](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/genomic_data/10x/32979_3%236.cram) |
+| [idXylSylv2](idXylSylv2.md) | 10x.ucram |  | [188c4242771f299da4b96651f1058765-341](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/genomic_data/10x/32979_3%237.cram) |
+| [idXylSylv2](idXylSylv2.md) | 10x.ucram |  | [272dd86ae16ec52568bcb454cf0d42f5-377](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/genomic_data/10x/32979_3%238.cram) |
 | [idXylSylv2](idXylSylv2.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [3bb52360fe575e5429662b1a24a0fa95-900](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/genomic_data/pacbio/m64094_191127_132908.bc1015_BAK8B_OA--bc1015_BAK8B_OA.ccs.bam) |
 | [idXylSylv2](idXylSylv2.md) | pacbio.ccs.index |  | [c18c1e0084a599dd3b0d96240111455a](https://darwin.cog.sanger.ac.uk/insects/Xylota_sylvarum/idXylSylv2/genomic_data/pacbio/m64094_191127_132908.bc1015_BAK8B_OA--bc1015_BAK8B_OA.ccs.bam.pbi) |

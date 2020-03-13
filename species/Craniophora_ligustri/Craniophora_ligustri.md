@@ -30,6 +30,10 @@ family: Noctuidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilCraLigu1](ilCraLigu1.md) | 10x.ucram |  | [f64c8b5ef42f3f7896fd3f13b389e138-404](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/10x/31782_4%231.cram) |
+| [ilCraLigu1](ilCraLigu1.md) | 10x.ucram |  | [8ca51a56b2a0efa4b311ef69be35dc3d-532](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/10x/31782_4%232.cram) |
+| [ilCraLigu1](ilCraLigu1.md) | 10x.ucram |  | [b7000992acf04fdcc491a5d6f2e6599f-82](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/10x/31782_4%233.cram) |
+| [ilCraLigu1](ilCraLigu1.md) | 10x.ucram |  | [c73b4ce9582dfbd85ba4cd68ace3bb97-415](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/10x/31782_4%234.cram) |
 | [ilCraLigu1](ilCraLigu1.md) | ont.fastq_pass |  | [12dacbf564c315960d01e6677b2be8b2](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/ont/fastq_pass/PAD75754_2b247e71513e3e900e032cc9ec429f1c736de4b4_0.fastq.gz) |
 | [ilCraLigu1](ilCraLigu1.md) | ont.fastq_pass |  | [213a42cf5835c52769e83b422d9be2ec-4](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/ont/fastq_pass/PAD75754_2b247e71513e3e900e032cc9ec429f1c736de4b4_1.fastq.gz) |
 | [ilCraLigu1](ilCraLigu1.md) | ont.fastq_pass |  | [d49cf34d32c757af96f8180786f7bc45-4](https://darwin.cog.sanger.ac.uk/insects/Craniophora_ligustri/ilCraLigu1/genomic_data/ont/fastq_pass/PAD75754_2b247e71513e3e900e032cc9ec429f1c736de4b4_2.fastq.gz) |

@@ -44,8 +44,8 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |        |         |  &#9679; |
 | [*Carcina quercana*](species/Carcina_quercana/Carcina_quercana.md) (long-horned flat-body) |  &#9679; |        |        |         |        |
 | [*Celastrina argiolus*](species/Celastrina_argiolus/Celastrina_argiolus.md) (holly brown) |  &#9679; |        |        |         |  &#9679; |
-| [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) (the dun-bar) |  &#9679; |        |        |         |  &#9679; |
-| [*Craniophora ligustri*](species/Craniophora_ligustri/Craniophora_ligustri.md) (the coronet) |  &#9679; |  &#9679; |        |         |  &#9679; |
+| [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) (the dun-bar) |  &#9679; |  &#9679; |        |         |  &#9679; |
+| [*Craniophora ligustri*](species/Craniophora_ligustri/Craniophora_ligustri.md) (the coronet) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
 | [*Cyaniris semiargus*](species/Cyaniris_semiargus/Cyaniris_semiargus.md) (mazarine blue) |  &#9679; |        |        |         |        |
 | [*Dolichovespula media*](species/Dolichovespula_media/Dolichovespula_media.md) (median wasp) |  &#9679; |        |        |         |        |
 | [*Dolichovespula saxonica*](species/Dolichovespula_saxonica/Dolichovespula_saxonica.md) (Saxon wasp) |  &#9679; |        |        |         |        |
@@ -56,6 +56,7 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Endotricha flammealis*](species/Endotricha_flammealis/Endotricha_flammealis.md) (rosy tabby) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Ennomos fuscantaria*](species/Ennomos_fuscantaria/Ennomos_fuscantaria.md) (dusky thorn) |  &#9679; |        |        |         |        |
 | [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) (marmalade hoverfly) |  &#9679; |        |        |         |        |
+| [*Eristalis arbustorum*](species/Eristalis_arbustorum/Eristalis_arbustorum.md) (plane-faced dronefly) |        |        |  &#9679; |         |        |
 | [*Eristalis pertinax*](species/Eristalis_pertinax/Eristalis_pertinax.md) (tapered dronefly) |  &#9679; |        |        |         |  &#9679; |
 | [*Eristalis tenax*](species/Eristalis_tenax/Eristalis_tenax.md) (the dronefly) |  &#9679; |        |        |         |        |
 | [*Erynnis tages*](species/Erynnis_tages/Erynnis_tages.md) (dingy skipper) |  &#9679; |        |        |         |  &#9679; |
@@ -77,7 +78,8 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Mesembrina meridiana*](species/Mesembrina_meridiana/Mesembrina_meridiana.md) (noon fly) |  &#9679; |        |        |         |        |
 | [*Myathropa florea*](species/Myathropa_florea/Myathropa_florea.md) (batman hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Mythimna impura*](species/Mythimna_impura/Mythimna_impura.md) (smoky wainscot) |  &#9679; |        |        |         |  &#9679; |
-| [*Noctua fimbriata*](species/Noctua_fimbriata/Noctua_fimbriata.md) (broad-bordered yellow underwing) |  &#9679; |        |        |         |  &#9679; |
+| [*Nemophora degeerella*](species/Nemophora_degeerella/Nemophora_degeerella.md) (yellow-barred long-horn) |        |  &#9679; |        |         |        |
+| [*Noctua fimbriata*](species/Noctua_fimbriata/Noctua_fimbriata.md) (broad-bordered yellow underwing) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
 | [*Notocelia uddmanniana*](species/Notocelia_uddmanniana/Notocelia_uddmanniana.md) (bramble shoot moth) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Notodonta dromedarius*](species/Notodonta_dromedarius/Notodonta_dromedarius.md) (iron prominent) |  &#9679; |        |        |         |        |
 | [*Papilio machaon*](species/Papilio_machaon/Papilio_machaon.md) (swallowtail) |  &#9679; |        |        |         |  &#9679; |
@@ -96,7 +98,7 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Satyrium walbum*](species/Satyrium_walbum/Satyrium_walbum.md) (white-letter hairstreak) |  &#9679; |        |        |         |  &#9679; |
 | [*Scathophaga stercoraria*](species/Scathophaga_stercoraria/Scathophaga_stercoraria.md) (yellow dung fly) |  &#9679; |        |        |         |  &#9679; |
 | [*Schrankia costaestrigalis*](species/Schrankia_costaestrigalis/Schrankia_costaestrigalis.md) (pinion-streaked snout) |  &#9679; |        |        |         |        |
-| [*Syritta pipiens*](species/Syritta_pipiens/Syritta_pipiens.md) (thick-legged hoverfly) |  &#9679; |        |        |         |  &#9679; |
+| [*Syritta pipiens*](species/Syritta_pipiens/Syritta_pipiens.md) (thick-legged hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Tachina fera*](species/Tachina_fera/Tachina_fera.md) |  &#9679; |        |        |         |        |
 | [*Thyatira batis*](species/Thyatira_batis/Thyatira_batis.md) (peach blossom) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Thymelicus lineola*](species/Thymelicus_lineola/Thymelicus_lineola.md) (Essex skipper) |  &#9679; |        |        |         |  &#9679; |
@@ -108,4 +110,4 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Vespula germanica*](species/Vespula_germanica/Vespula_germanica.md) (German wasp) |  &#9679; |        |        |         |        |
 | [*Vespula vulgaris*](species/Vespula_vulgaris/Vespula_vulgaris.md) (common wasp) |  &#9679; |        |        |         |        |
 | [*Xestia xanthographa*](species/Xestia_xanthographa/Xestia_xanthographa.md) (square-spot rustic) |  &#9679; |        |        |         |        |
-| [*Xylota sylvarum*](species/Xylota_sylvarum/Xylota_sylvarum.md) (golden-tailed hoverfly) |  &#9679; |        |        |         |  &#9679; |
+| [*Xylota sylvarum*](species/Xylota_sylvarum/Xylota_sylvarum.md) (golden-tailed hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
