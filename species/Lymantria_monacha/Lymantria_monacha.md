@@ -28,6 +28,14 @@ family: Erebidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [b93ff92beb72fb7ec105525f1d195852-371](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/31782_6%231.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [874c044602c2bd9b728b233823ec012f-387](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/31782_6%232.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [a886d53cf3391e8ec7c7a1e70c18647c-392](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/31782_6%233.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [44b68ea3697ac0725222c9c6b51f10ed-397](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/31782_6%234.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [b3e26b387b734dc9863193206179e49b-118](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/32820_7%239.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [e85b56e7f36c1bc6a0e0d1c8e52b7033-123](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/32820_7%2310.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [6df5b7aa8208127aa033555e2cd928a7-125](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/32820_7%2311.cram) |
+| [ilLymMona1](ilLymMona1.md) | 10x.ucram |  | [635df8d907ec221ef6951bc451b065a5-126](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/10x/32820_7%2312.cram) |
 | [ilLymMona1](ilLymMona1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [6b0aaf62342e6a05c11a53b668ec3642-1306](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/pacbio/m64016_191018_132202.bc1015_BAK8B_OA--bc1015_BAK8B_OA.ccs.bam) |
 | [ilLymMona1](ilLymMona1.md) | pacbio.ccs.index |  | [f1294dcac4b6a7b614c390d83fd690c7-2](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/pacbio/m64016_191018_132202.bc1015_BAK8B_OA--bc1015_BAK8B_OA.ccs.bam.pbi) |
 | [ilLymMona1](ilLymMona1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [c09f409e8318a17f4cfa7fcbe11b71a0-1233](https://darwin.cog.sanger.ac.uk/insects/Lymantria_monacha/ilLymMona1/genomic_data/pacbio/m64089_191227_002621.ccs.bam) |

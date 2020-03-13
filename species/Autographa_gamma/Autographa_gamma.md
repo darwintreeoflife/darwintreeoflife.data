@@ -28,5 +28,9 @@ family: Noctuidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilAutGamm1](ilAutGamm1.md) | 10x.ucram |  | [7d942384de4aa0f44039b8510c64d69b-381](https://darwin.cog.sanger.ac.uk/insects/Autographa_gamma/ilAutGamm1/genomic_data/10x/31782_7%235.cram) |
+| [ilAutGamm1](ilAutGamm1.md) | 10x.ucram |  | [325a1031e01483849d4f4e7b15b45c0a-419](https://darwin.cog.sanger.ac.uk/insects/Autographa_gamma/ilAutGamm1/genomic_data/10x/31782_7%236.cram) |
+| [ilAutGamm1](ilAutGamm1.md) | 10x.ucram |  | [d73f9e6e106bc8f5c9cb4e0d6ac643c7-400](https://darwin.cog.sanger.ac.uk/insects/Autographa_gamma/ilAutGamm1/genomic_data/10x/31782_7%237.cram) |
+| [ilAutGamm1](ilAutGamm1.md) | 10x.ucram |  | [05c3eb5eb758e83659d57426d65af82c-461](https://darwin.cog.sanger.ac.uk/insects/Autographa_gamma/ilAutGamm1/genomic_data/10x/31782_7%238.cram) |
 | [ilAutGamm1](ilAutGamm1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [e15364ed11b09c329ff94305234f5c34-1404](https://darwin.cog.sanger.ac.uk/insects/Autographa_gamma/ilAutGamm1/genomic_data/pacbio/m64089_191020_002935.bc1019_BAK8B_OA--bc1019_BAK8B_OA.ccs.bam) |
 | [ilAutGamm1](ilAutGamm1.md) | pacbio.ccs.index |  | [589af49ff9f4d750095e915f382ec031-2](https://darwin.cog.sanger.ac.uk/insects/Autographa_gamma/ilAutGamm1/genomic_data/pacbio/m64089_191020_002935.bc1019_BAK8B_OA--bc1019_BAK8B_OA.ccs.bam.pbi) |

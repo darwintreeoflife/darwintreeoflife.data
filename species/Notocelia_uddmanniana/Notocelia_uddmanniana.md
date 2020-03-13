@@ -29,5 +29,9 @@ family: Tortricidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilNotUddm1](ilNotUddm1.md) | 10x.ucram |  | [3aac61f277a2c46e5230b46a9dd929d1-404](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/genomic_data/10x/32892_8%231.cram) |
+| [ilNotUddm1](ilNotUddm1.md) | 10x.ucram |  | [8df9a3d3a6b70b1d9c82231a95354cfc-487](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/genomic_data/10x/32892_8%232.cram) |
+| [ilNotUddm1](ilNotUddm1.md) | 10x.ucram |  | [0f18e951ed91e9290fe3dd07f9872b87-368](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/genomic_data/10x/32892_8%233.cram) |
+| [ilNotUddm1](ilNotUddm1.md) | 10x.ucram |  | [6c88c262d9ea0b1de87aeb65b0e5e984-376](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/genomic_data/10x/32892_8%234.cram) |
 | [ilNotUddm1](ilNotUddm1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [69a6852040ce1131ecb8ca7e941340fe-1515](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/genomic_data/pacbio/m64089_191016_110352.bc1001_BAK8A_OA--bc1001_BAK8A_OA.ccs.bam) |
 | [ilNotUddm1](ilNotUddm1.md) | pacbio.ccs.index |  | [1100cce32972e04f129284e228f632a3-2](https://darwin.cog.sanger.ac.uk/insects/Notocelia_uddmanniana/ilNotUddm1/genomic_data/pacbio/m64089_191016_110352.bc1001_BAK8A_OA--bc1001_BAK8A_OA.ccs.bam.pbi) |

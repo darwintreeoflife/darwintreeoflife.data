@@ -1,4 +1,12 @@
 individual	type	info	file	etag
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/31782_5%235.cram	97d52d875b6b3014bb0827c771a557b4-446
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/31782_5%236.cram	ff6c41db2749de165ac6246d709dfae3-394
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/31782_5%237.cram	489c4442a46b6efd62787bd59ae1bbc2-320
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/31782_5%238.cram	96b60bf8954c60f7f7f8744db8aef1f9-439
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/32820_7%2317.cram	b14af7d4267a204f962c3b44dcf2f923-139
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/32820_7%2318.cram	6873a86fcde78327c3c7550735e1e5fb-124
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/32820_7%2319.cram	2b4a0249b20d8274a25374a9dbf80c0b-99
+ilPhaBuce1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/10x/32820_7%2320.cram	97ec67201ccda4aaee2b938e990d9f23-137
 ilPhaBuce1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64016_191021_113946.bc1017_BAK8B_OA--bc1017_BAK8B_OA.ccs.bam	f3ed53a0f2609acacaa02623e4e46816-1052
 ilPhaBuce1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64016_191021_113946.bc1017_BAK8B_OA--bc1017_BAK8B_OA.ccs.bam.pbi	0aac54e7f8c4f75edbb889d47c9e2923-2
 ilPhaBuce1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Phalera_bucephala/ilPhaBuce1/genomic_data/pacbio/m64089_191206_172441.ccs.bam	e6b668ecf986b334835657b09f3e6db7-2123
