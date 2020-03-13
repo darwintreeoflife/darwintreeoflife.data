@@ -100,10 +100,11 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Schrankia costaestrigalis*](species/Schrankia_costaestrigalis/Schrankia_costaestrigalis.md) (pinion-streaked snout) |  &#9679; |        |        |         |        |
 | [*Syritta pipiens*](species/Syritta_pipiens/Syritta_pipiens.md) (thick-legged hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Tachina fera*](species/Tachina_fera/Tachina_fera.md) |  &#9679; |        |        |         |        |
-| [*Thyatira batis*](species/Thyatira_batis/Thyatira_batis.md) (peach blossom) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Thyatira batis*](species/Thyatira_batis/Thyatira_batis.md) (peach blossom) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
 | [*Thymelicus lineola*](species/Thymelicus_lineola/Thymelicus_lineola.md) (Essex skipper) |  &#9679; |        |        |         |  &#9679; |
 | [*Thymelicus sylvestris*](species/Thymelicus_sylvestris/Thymelicus_sylvestris.md) (small skipper) |  &#9679; |        |        |         |  &#9679; |
 | [*Tinea trinotella*](species/Tinea_trinotella/Tinea_trinotella.md) (bird's-nest moth) |  &#9679; |        |        |         |  &#9679; |
+| [*Tortrix viridana*](species/Tortrix_viridana/Tortrix_viridana.md) (green oak tortrix) |        |  &#9679; |        |         |        |
 | [*Triodia sylvina*](species/Triodia_sylvina/Triodia_sylvina.md) (orange swift) |  &#9679; |        |        |         |  &#9679; |
 | [*Vanessa atalanta*](species/Vanessa_atalanta/Vanessa_atalanta.md) (red admiral) |  &#9679; |        |  &#9679; |  &#9679; |  &#9679; |
 | [*Vanessa cardui*](species/Vanessa_cardui/Vanessa_cardui.md) (painted lady) |  &#9679; |        |        |         |  &#9679; |
