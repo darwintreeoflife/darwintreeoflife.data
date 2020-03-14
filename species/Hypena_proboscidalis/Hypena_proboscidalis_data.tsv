@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilHypProb1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%235.cram	f42cad80462c346d66838628b2a2b51f-385
+ilHypProb1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%236.cram	4f2dc107705fbba954f0369e3f5e012b-455
+ilHypProb1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%237.cram	afe7317b1fd268afda59fa1a4ac6fe17-305
+ilHypProb1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%238.cram	72af0db292cf905e99d1a0746882f278-396
 ilHypProb1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/pacbio/m64089_191129_131209.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam	60032f7f1ca3553daf0c42c86fc7ba58-954
 ilHypProb1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/pacbio/m64089_191129_131209.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam.pbi	653806e4b020b414618dbfc8a53ec949

@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilPieRapa1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_rapae/ilPieRapa1/genomic_data/10x/32955_5%235.cram	37ed546638bbb7fe35a9e9d3f268b014-339
+ilPieRapa1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_rapae/ilPieRapa1/genomic_data/10x/32955_5%236.cram	e5daa48868cfd36185f2912a60b4f8bd-465
+ilPieRapa1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_rapae/ilPieRapa1/genomic_data/10x/32955_5%237.cram	6d4d60a8a998d3f6f0b0bc67396fbd0d-384
+ilPieRapa1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_rapae/ilPieRapa1/genomic_data/10x/32955_5%238.cram	a8c3d899e3889d1dd8fc6ae4f561c9fe-577
 ilPieRapa1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pieris_rapae/ilPieRapa1/genomic_data/pacbio/m64016_191223_193312.ccs.bam	7d24be9ea2423f802f9b932d8aff4c77-819
 ilPieRapa1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Pieris_rapae/ilPieRapa1/genomic_data/pacbio/m64016_191223_193312.ccs.bam.pbi	7684f527b5be64b9092e96ee0cf604ad

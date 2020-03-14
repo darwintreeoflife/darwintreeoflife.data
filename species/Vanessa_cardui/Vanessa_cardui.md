@@ -27,5 +27,9 @@ family: Nymphalidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilVanCard1](ilVanCard1.md) | 10x.ucram |  | [1d9e72290dd373d411b16d59c1ca9e06-408](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/genomic_data/10x/30996_8%235.cram) |
+| [ilVanCard1](ilVanCard1.md) | 10x.ucram |  | [561568d3f73bb76bdec96c0bfc1335cf-351](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/genomic_data/10x/30996_8%236.cram) |
+| [ilVanCard1](ilVanCard1.md) | 10x.ucram |  | [fde50a3a5e7ee9161cc4d00e428bce85-403](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/genomic_data/10x/30996_8%237.cram) |
+| [ilVanCard1](ilVanCard1.md) | 10x.ucram |  | [80086ac6629bde916349e13b794ffc24-563](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/genomic_data/10x/30996_8%238.cram) |
 | [ilVanCard1](ilVanCard1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [8dcc264acbf6bb15a6833115ac46b3d0-584](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/genomic_data/pacbio/m64094_191122_131326.bc1021_BAK8B_OA--bc1021_BAK8B_OA.ccs.bam) |
 | [ilVanCard1](ilVanCard1.md) | pacbio.ccs.index |  | [d2ffdb38d29b61074dac9a1a87241eed](https://darwin.cog.sanger.ac.uk/insects/Vanessa_cardui/ilVanCard1/genomic_data/pacbio/m64094_191122_131326.bc1021_BAK8B_OA--bc1021_BAK8B_OA.ccs.bam.pbi) |

@@ -27,5 +27,8 @@ family: Lycanidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilPleArgu1](ilPleArgu1.md) | 10x.ucram |  | [1984bdb8200d0fe91d8e8f7db6ae9104-524](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/genomic_data/10x/33308_5%231.cram) |
+| [ilPleArgu1](ilPleArgu1.md) | 10x.ucram |  | [d77323b34fdfdda58401e1336395e7fa-469](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/genomic_data/10x/33308_5%232.cram) |
+| [ilPleArgu1](ilPleArgu1.md) | 10x.ucram |  | [0e41ca5b11da608e5dc39ae6c32678da-473](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/genomic_data/10x/33308_5%233.cram) |
 | [ilPleArgu1](ilPleArgu1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [5c6250b6ed3b586fa433eaccc7de4f44-499](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/genomic_data/pacbio/m64089_200110_180746.ccs.bam) |
 | [ilPleArgu1](ilPleArgu1.md) | pacbio.ccs.index |  | [0e7f71a9ad7f83b24e2e6feb845891ae](https://darwin.cog.sanger.ac.uk/insects/Plebejus_argus/ilPleArgu1/genomic_data/pacbio/m64089_200110_180746.ccs.bam.pbi) |

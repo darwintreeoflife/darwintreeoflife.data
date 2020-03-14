@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilLysCori1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Lysandra_coridon/ilLysCori1/genomic_data/10x/33308_7%231.cram	68e79e6fd1a4987d82568e0a31ec361d-435
+ilLysCori1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Lysandra_coridon/ilLysCori1/genomic_data/10x/33308_7%232.cram	1c30e5bae51d0dfe415c150248e5a7a3-450
+ilLysCori1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Lysandra_coridon/ilLysCori1/genomic_data/10x/33308_7%233.cram	ae2ba4d3a4b791ece5ab4c7db6a2b43e-328
+ilLysCori1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Lysandra_coridon/ilLysCori1/genomic_data/10x/33308_7%234.cram	47427a886ea51acb2234a896541c202d-474
 ilLysCori1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Lysandra_coridon/ilLysCori1/genomic_data/pacbio/m64097_200126_161511.ccs.bam	7ae38f557122c8a170e1ca63d3130529-1356
 ilLysCori1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Lysandra_coridon/ilLysCori1/genomic_data/pacbio/m64097_200126_161511.ccs.bam.pbi	cb0a5e010e9366c844257de82af468c0-2

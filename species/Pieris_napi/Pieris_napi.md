@@ -33,6 +33,10 @@ family: Pieridae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilPieNapi1](ilPieNapi1.md) | 10x.ucram |  | [ce8c7d072be94542e93df964daad8011-415](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/genomic_data/10x/32820_4%235.cram) |
+| [ilPieNapi1](ilPieNapi1.md) | 10x.ucram |  | [5b240c9305e27a9b8fc09893b9c42812-402](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/genomic_data/10x/32820_4%236.cram) |
+| [ilPieNapi1](ilPieNapi1.md) | 10x.ucram |  | [42119c824745f9d61b703911cf47cab0-386](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/genomic_data/10x/32820_4%237.cram) |
+| [ilPieNapi1](ilPieNapi1.md) | 10x.ucram |  | [0aef9788f1f56c31ccbc7b8b218a4119-410](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/genomic_data/10x/32820_4%238.cram) |
 | [ilPieNapi1](ilPieNapi1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [e0733bffdda2ed19bbfabbc0b4748de0-1028](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/genomic_data/pacbio/m64089_200107_170201.ccs.bam) |
 | [ilPieNapi1](ilPieNapi1.md) | pacbio.ccs.index |  | [02a161b2f8ba0416d7df41a2e8baab76-2](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi1/genomic_data/pacbio/m64089_200107_170201.ccs.bam.pbi) |
 | [ilPieNapi4](ilPieNapi4.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [1357dc188d6ff5398964168953ef79d7-1670](https://darwin.cog.sanger.ac.uk/insects/Pieris_napi/ilPieNapi4/genomic_data/pacbio/m64094_200221_161420.ccs.bam) |

@@ -27,5 +27,9 @@ family: Syrphidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [idEriPert2](idEriPert2.md) | 10x.ucram |  | [9ede993b0767a657cfe1322fb59309b3-452](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/genomic_data/10x/33253_8%231.cram) |
+| [idEriPert2](idEriPert2.md) | 10x.ucram |  | [da02108b364ab205c527eee1e5ff0333-497](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/genomic_data/10x/33253_8%232.cram) |
+| [idEriPert2](idEriPert2.md) | 10x.ucram |  | [9a10eeeefb8aa9083059b62c4692d22a-354](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/genomic_data/10x/33253_8%233.cram) |
+| [idEriPert2](idEriPert2.md) | 10x.ucram |  | [3db291fbb28cf9fcc6a93595bf5e69ab-351](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/genomic_data/10x/33253_8%234.cram) |
 | [idEriPert2](idEriPert2.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [23797bd888ce3383672374de87db8b0c-739](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/genomic_data/pacbio/m64094_200117_114528.ccs.bam) |
 | [idEriPert2](idEriPert2.md) | pacbio.ccs.index |  | [7ca5fe232cc2b9b4c04a2cc81ef874ba](https://darwin.cog.sanger.ac.uk/insects/Eristalis_pertinax/idEriPert2/genomic_data/pacbio/m64094_200117_114528.ccs.bam.pbi) |

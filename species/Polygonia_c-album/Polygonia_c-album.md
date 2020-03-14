@@ -25,5 +25,9 @@ family: Nymphalidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilPolCalb1](ilPolCalb1.md) | 10x.ucram |  | [3a5100f74d1ac0d988cc92ef91a55097-352](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/10x/32955_7%231.cram) |
+| [ilPolCalb1](ilPolCalb1.md) | 10x.ucram |  | [8d91eda48c285a9768a783c148cbcccf-457](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/10x/32955_7%232.cram) |
+| [ilPolCalb1](ilPolCalb1.md) | 10x.ucram |  | [d8e4366b8a96ee34643215ab9137b686-468](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/10x/32955_7%233.cram) |
+| [ilPolCalb1](ilPolCalb1.md) | 10x.ucram |  | [cf9e2201379b16ecbe3fc8db9c5ba3b6-578](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/10x/32955_7%234.cram) |
 | [ilPolCalb1](ilPolCalb1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [7ab08c0199f6aa7d5dd8d08016d1485d-813](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/pacbio/m64016_191218_154712.ccs.bam) |
 | [ilPolCalb1](ilPolCalb1.md) | pacbio.ccs.index |  | [9d5e06304d298a542cd1ad51cc947e11](https://darwin.cog.sanger.ac.uk/insects/Polygonia_c-album/ilPolCalb1/genomic_data/pacbio/m64016_191218_154712.ccs.bam.pbi) |

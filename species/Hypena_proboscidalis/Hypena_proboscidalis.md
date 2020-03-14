@@ -19,5 +19,9 @@ family: Erebidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilHypProb1](ilHypProb1.md) | 10x.ucram |  | [f42cad80462c346d66838628b2a2b51f-385](https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%235.cram) |
+| [ilHypProb1](ilHypProb1.md) | 10x.ucram |  | [4f2dc107705fbba954f0369e3f5e012b-455](https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%236.cram) |
+| [ilHypProb1](ilHypProb1.md) | 10x.ucram |  | [afe7317b1fd268afda59fa1a4ac6fe17-305](https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%237.cram) |
+| [ilHypProb1](ilHypProb1.md) | 10x.ucram |  | [72af0db292cf905e99d1a0746882f278-396](https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/10x/33308_6%238.cram) |
 | [ilHypProb1](ilHypProb1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [60032f7f1ca3553daf0c42c86fc7ba58-954](https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/pacbio/m64089_191129_131209.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam) |
 | [ilHypProb1](ilHypProb1.md) | pacbio.ccs.index |  | [653806e4b020b414618dbfc8a53ec949](https://darwin.cog.sanger.ac.uk/insects/Hypena_proboscidalis/ilHypProb1/genomic_data/pacbio/m64089_191129_131209.bc1016_BAK8B_OA--bc1016_BAK8B_OA.ccs.bam.pbi) |

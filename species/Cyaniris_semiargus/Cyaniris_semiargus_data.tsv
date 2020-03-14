@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilCyaSemi1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Cyaniris_semiargus/ilCyaSemi1/genomic_data/10x/33308_8%231.cram	59b4ed6382cca70d6dc20c2ea20e70c9-417
+ilCyaSemi1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Cyaniris_semiargus/ilCyaSemi1/genomic_data/10x/33308_8%232.cram	42ebb625b51aa7a3080ccd995540f66a-387
+ilCyaSemi1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Cyaniris_semiargus/ilCyaSemi1/genomic_data/10x/33308_8%233.cram	5509b2c9fc852e256fcc7b36c2dd9043-398
+ilCyaSemi1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Cyaniris_semiargus/ilCyaSemi1/genomic_data/10x/33308_8%234.cram	f913d03eb3e3139584eb2368625470f8-359
 ilCyaSemi1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Cyaniris_semiargus/ilCyaSemi1/genomic_data/pacbio/m64097_200128_170632.ccs.bam	52edfb8a35bbe028a436e825b36f0ca1-1066
 ilCyaSemi1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Cyaniris_semiargus/ilCyaSemi1/genomic_data/pacbio/m64097_200128_170632.ccs.bam.pbi	1fde9c598192ca3caf56f73ff27e4c22-2

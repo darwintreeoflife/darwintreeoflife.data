@@ -28,5 +28,9 @@ family: Lycaenidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilCelArgi3](ilCelArgi3.md) | 10x.ucram |  | [6a45545bcdcaa6e07b1a1bc635d80503-461](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%235.cram) |
+| [ilCelArgi3](ilCelArgi3.md) | 10x.ucram |  | [14f5498ec5cb6b6ed0e7cacf18e9b231-525](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%236.cram) |
+| [ilCelArgi3](ilCelArgi3.md) | 10x.ucram |  | [40bb648ede0fce99641ae2fa7a82a489-318](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%237.cram) |
+| [ilCelArgi3](ilCelArgi3.md) | 10x.ucram |  | [79b265fd1039b8d02aaabd9db85235e0-351](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%238.cram) |
 | [ilCelArgi3](ilCelArgi3.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [e20186abe0da972f1439b4c8ddfa8d17-852](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/pacbio/m64016_191219_155954.ccs.bam) |
 | [ilCelArgi3](ilCelArgi3.md) | pacbio.ccs.index |  | [8a96ea2219b0613a3a7f680d1d974f9d](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/pacbio/m64016_191219_155954.ccs.bam.pbi) |

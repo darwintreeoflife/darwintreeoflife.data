@@ -26,5 +26,9 @@ family: Scathophagidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [idScaSter1](idScaSter1.md) | 10x.ucram |  | [92e21688a49f4e391ca10a3d3f16f018-367](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/genomic_data/10x/33253_8%235.cram) |
+| [idScaSter1](idScaSter1.md) | 10x.ucram |  | [46f5a20a6d1e7dfeb34e241f62c8ef58-426](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/genomic_data/10x/33253_8%236.cram) |
+| [idScaSter1](idScaSter1.md) | 10x.ucram |  | [ef717443e7f6c0222391ed88734e50e8-328](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/genomic_data/10x/33253_8%237.cram) |
+| [idScaSter1](idScaSter1.md) | 10x.ucram |  | [74a3a4057d574bf645e982b3ce17d6b6-406](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/genomic_data/10x/33253_8%238.cram) |
 | [idScaSter1](idScaSter1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [bb45ea012ad97971a2c53fcff06002ac-917](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/genomic_data/pacbio/m64094_200118_121121.ccs.bam) |
 | [idScaSter1](idScaSter1.md) | pacbio.ccs.index |  | [9893dbad5759553b75b24dfb593ddab5-2](https://darwin.cog.sanger.ac.uk/insects/Scathophaga_stercoraria/idScaSter1/genomic_data/pacbio/m64094_200118_121121.ccs.bam.pbi) |

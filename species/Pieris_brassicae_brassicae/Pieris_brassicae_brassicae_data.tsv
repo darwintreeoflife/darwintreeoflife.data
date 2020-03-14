@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilPieBrab1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/genomic_data/10x/32955_5%231.cram	e59dee2f7e3fefb31f970324bf49cc7d-484
+ilPieBrab1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/genomic_data/10x/32955_5%232.cram	ba71926982cd49593b20fa944effd8ab-477
+ilPieBrab1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/genomic_data/10x/32955_5%233.cram	e0cdaa5bf3b780410185ed560b3f8dc9-377
+ilPieBrab1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/genomic_data/10x/32955_5%234.cram	87e01e119b04318da759c7fc040763a2-390
 ilPieBrab1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/genomic_data/pacbio/m64089_191222_163848.ccs.bam	be01557bb066bdaa35330e14a1fe9a4a-1422
 ilPieBrab1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Pieris_brassicae_brassicae/ilPieBrab1/genomic_data/pacbio/m64089_191222_163848.ccs.bam.pbi	7ab5d8bad2f5e6041fa00ee63d012ed4-2

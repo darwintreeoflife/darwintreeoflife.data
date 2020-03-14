@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilCelArgi3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%235.cram	6a45545bcdcaa6e07b1a1bc635d80503-461
+ilCelArgi3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%236.cram	14f5498ec5cb6b6ed0e7cacf18e9b231-525
+ilCelArgi3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%237.cram	40bb648ede0fce99641ae2fa7a82a489-318
+ilCelArgi3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/10x/32955_7%238.cram	79b265fd1039b8d02aaabd9db85235e0-351
 ilCelArgi3	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/pacbio/m64016_191219_155954.ccs.bam	e20186abe0da972f1439b4c8ddfa8d17-852
 ilCelArgi3	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/genomic_data/pacbio/m64016_191219_155954.ccs.bam.pbi	8a96ea2219b0613a3a7f680d1d974f9d

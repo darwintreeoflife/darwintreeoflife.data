@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilTinTrin1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/10x/32308_6%231.cram	41071984d086787cd5c028d7124a7f47-344
+ilTinTrin1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/10x/32308_6%232.cram	8983c521c7f5538c2744675f8ad2aefb-410
+ilTinTrin1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/10x/32308_6%233.cram	5d7c325bf099d8ccea4e45c52639aabe-373
+ilTinTrin1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/10x/32308_6%234.cram	9badfbede6fa3b9fe88dfac4ee9a2cfe-437
 ilTinTrin1	pacbio.ccs.bam	S/P3-C1/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/pacbio/m64016_191122_172845.ccs.bam	1f085f2a2a6888cb658cec89761d4f21-685
 ilTinTrin1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Tinea_trinotella/ilTinTrin1/genomic_data/pacbio/m64016_191122_172845.ccs.bam.pbi	d661ee7452ded56934155a2e452a03fd

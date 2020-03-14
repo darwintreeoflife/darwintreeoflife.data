@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilHesComm1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/10x/33032_8%231.cram	2cdcdb1982196b3431186450813a59c6-424
+ilHesComm1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/10x/33032_8%232.cram	6b612895d59691add9147ee4823640dc-402
+ilHesComm1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/10x/33032_8%233.cram	f84943d18c2fdf7fcd63192305ce8af4-504
+ilHesComm1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/10x/33032_8%234.cram	fbb0a525702d0a1aebbd674dd2e5074c-398
 ilHesComm1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/pacbio/m64094_191208_181647.ccs.bam	e1d03ff93ac2a2f411d14afe30a4cd19-822
 ilHesComm1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Hesperia_comma/ilHesComm1/genomic_data/pacbio/m64094_191208_181647.ccs.bam.pbi	31f7b08224b6845d01cc5cddc9e61c55

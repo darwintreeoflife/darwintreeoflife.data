@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilAntCard3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/genomic_data/10x/33032_7%231.cram	6b676364e15139d06f0a21eafe5e467b-409
+ilAntCard3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/genomic_data/10x/33032_7%232.cram	79c96f08a0800a939906a4f6fac92909-520
+ilAntCard3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/genomic_data/10x/33032_7%233.cram	732435475f165f833d78415d58503e75-284
+ilAntCard3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/genomic_data/10x/33032_7%234.cram	dd5406d6c7d87283b11a5f19346be977-356
 ilAntCard3	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/genomic_data/pacbio/m64094_191206_173655.ccs.bam	95131c805253fe9d3a6b6bdd7f2fe7b9-1318
 ilAntCard3	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Anthocharis_cardamines/ilAntCard3/genomic_data/pacbio/m64094_191206_173655.ccs.bam.pbi	527cb8a66d4ca998b7d6ee9723f77be7-2
