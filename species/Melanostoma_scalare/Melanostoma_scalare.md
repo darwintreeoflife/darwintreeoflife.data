@@ -20,6 +20,10 @@ family: Syrphidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [idMelScal2](idMelScal2.md) | 10x.ucram |  | [09a6b9177a52db2c8ec6895386a37fa8-339](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%231.cram) |
+| [idMelScal2](idMelScal2.md) | 10x.ucram |  | [9c072a665630b4e7c1600aafbea18899-382](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%232.cram) |
+| [idMelScal2](idMelScal2.md) | 10x.ucram |  | [e2f86a4e7c3357925b556799200148cc-334](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%233.cram) |
+| [idMelScal2](idMelScal2.md) | 10x.ucram |  | [d05b732a9a6d0bc949d88bcdef6e7e95-366](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%234.cram) |
 | [idMelScal2](idMelScal2.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [260a0d5e58da990e9333ccb72f276ed0-770](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/pacbio/m64089_200214_173008.ccs.bam) |
 | [idMelScal2](idMelScal2.md) | pacbio.ccs.index |  | [0014a1f9b7753731f5a58eced5e48f3d](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/pacbio/m64089_200214_173008.ccs.bam.pbi) |
 | [idMelScal2](idMelScal2.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [02951c61c83e243ca283487656508bf0-380](https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/pacbio/m64094_191126_131532.bc1002_BAK8A_OA--bc1002_BAK8A_OA.ccs.bam) |

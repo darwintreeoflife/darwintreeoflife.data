@@ -34,3 +34,5 @@ family: Noctuidae
 | [ilMytImpu1](ilMytImpu1.md) | 10x.ucram |  | [27351053c732d4be7bb6d1e2047b957e-137](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/10x/32820_7%2316.cram) |
 | [ilMytImpu1](ilMytImpu1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [2306af69f10973f91b0e4a89b313f0a1-1418](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/pacbio/m64016_191020_002959.bc1010_BAK8A_OA--bc1010_BAK8A_OA.ccs.bam) |
 | [ilMytImpu1](ilMytImpu1.md) | pacbio.ccs.index |  | [d466870052951f94a2e74a7f2c8c501e-2](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/pacbio/m64016_191020_002959.bc1010_BAK8A_OA--bc1010_BAK8A_OA.ccs.bam.pbi) |
+| [ilMytImpu1](ilMytImpu1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [6fe8132288092aeca41f42e95414f355-1289](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/pacbio/m64097_200229_151616.ccs.bam) |
+| [ilMytImpu1](ilMytImpu1.md) | pacbio.ccs.index |  | [827f02f51e2f55730f53756b66803812-2](https://darwin.cog.sanger.ac.uk/insects/Mythimna_impura/ilMytImpu1/genomic_data/pacbio/m64097_200229_151616.ccs.bam.pbi) |

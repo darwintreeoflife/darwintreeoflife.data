@@ -1,4 +1,8 @@
 individual	type	info	file	etag
+idMelScal2	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%231.cram	09a6b9177a52db2c8ec6895386a37fa8-339
+idMelScal2	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%232.cram	9c072a665630b4e7c1600aafbea18899-382
+idMelScal2	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%233.cram	e2f86a4e7c3357925b556799200148cc-334
+idMelScal2	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/10x/33254_2%234.cram	d05b732a9a6d0bc949d88bcdef6e7e95-366
 idMelScal2	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/pacbio/m64089_200214_173008.ccs.bam	260a0d5e58da990e9333ccb72f276ed0-770
 idMelScal2	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/pacbio/m64089_200214_173008.ccs.bam.pbi	0014a1f9b7753731f5a58eced5e48f3d
 idMelScal2	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Melanostoma_scalare/idMelScal2/genomic_data/pacbio/m64094_191126_131532.bc1002_BAK8A_OA--bc1002_BAK8A_OA.ccs.bam	02951c61c83e243ca283487656508bf0-380

@@ -25,5 +25,9 @@ family: Nymphalidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilLasMege1](ilLasMege1.md) | 10x.ucram |  | [1b255c4510f685122a2b08d78b7e7c78-591](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/10x/32955_6%231.cram) |
+| [ilLasMege1](ilLasMege1.md) | 10x.ucram |  | [49565c52b12ca5317c51322d40f94fdc-96](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/10x/32955_6%232.cram) |
+| [ilLasMege1](ilLasMege1.md) | 10x.ucram |  | [268e56f369b9eb5b3688f431e0eacd9c-590](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/10x/32955_6%233.cram) |
+| [ilLasMege1](ilLasMege1.md) | 10x.ucram |  | [bb5bf4cf9bf14967627c4533a32938e2-500](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/10x/32955_6%234.cram) |
 | [ilLasMege1](ilLasMege1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [73a12c2bbf0339056ff7e07e523f28d7-1160](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/pacbio/m64097_200222_154612.ccs.bam) |
 | [ilLasMege1](ilLasMege1.md) | pacbio.ccs.index |  | [9be172d79a4f08c83b77c99c4143aab1-2](https://darwin.cog.sanger.ac.uk/insects/Lasiommata_megera/ilLasMege1/genomic_data/pacbio/m64097_200222_154612.ccs.bam.pbi) |

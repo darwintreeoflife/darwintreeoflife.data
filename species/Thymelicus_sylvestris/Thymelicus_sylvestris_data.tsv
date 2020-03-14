@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilThySylv1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/genomic_data/10x/33610_7%231.cram	9b00dca07ca843985d89e72d90f650a9-461
+ilThySylv1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/genomic_data/10x/33610_7%232.cram	fbe439ae8b9b1b0903220ae0943b0d7a-394
+ilThySylv1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/genomic_data/10x/33610_7%233.cram	a7678f0c615bba12106f94dfdae65589-341
+ilThySylv1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/genomic_data/10x/33610_7%234.cram	40b4f8e06165beecb8c9b091484131ae-356
 ilThySylv1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/genomic_data/pacbio/m64097_191224_194147.ccs.bam	0a0d5560d90622887c611f62261e1581-935
 ilThySylv1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/genomic_data/pacbio/m64097_191224_194147.ccs.bam.pbi	da65047f1671f5512897500f1e9bafb5-2

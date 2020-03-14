@@ -1,4 +1,8 @@
 individual	type	info	file	etag
+ilParAegt1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/10x/30996_6%235.cram	98c32a1e61b752866ed5327d5f67d6ce-381
+ilParAegt1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/10x/30996_6%236.cram	e4ecd635746b312624df232a4d167460-358
+ilParAegt1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/10x/30996_6%237.cram	cbf9164a261b7e4eb3a7d60836be4c6b-441
+ilParAegt1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/10x/30996_6%238.cram	33b5738b750292b4e6e9e9a4645046a7-468
 ilParAegt1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/pacbio/m64016_191209_193913.ccs.bam	c29ec1381df744bc9bf4aa41e4617a3f-52
 ilParAegt1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/pacbio/m64016_191209_193913.ccs.bam.pbi	9639d13878407acf4db8e966040ca54d
 ilParAegt1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pararge_aegeria_tircis/ilParAegt1/genomic_data/pacbio/m64094_200220_160052.ccs.bam	7f0ec6712e219b5af2c40ff303b2224c-874
