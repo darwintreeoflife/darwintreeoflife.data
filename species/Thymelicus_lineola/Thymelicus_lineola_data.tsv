@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilThyLine1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/genomic_data/10x/33254_3%231.cram	d026bfc05a10473bccfafb67df171630-536
+ilThyLine1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/genomic_data/10x/33254_3%232.cram	65cfc73f1b78a5131b3d167631f99d8e-454
+ilThyLine1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/genomic_data/10x/33254_3%233.cram	3992452826a34064cd5256a85cacb4dd-310
+ilThyLine1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/genomic_data/10x/33254_3%234.cram	a136e52cdc5640f342e31d2750fe7c45-376
 ilThyLine1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/genomic_data/pacbio/m64097_191225_200742.ccs.bam	fc846c32cd0a59e59544e77dbdd7f044-411
 ilThyLine1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Thymelicus_lineola/ilThyLine1/genomic_data/pacbio/m64097_191225_200742.ccs.bam.pbi	5c549dc29f1ef73a92b5a6be14857919

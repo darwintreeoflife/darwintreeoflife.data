@@ -37,14 +37,16 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Athalia rosae*](species/Athalia_rosae/Athalia_rosae.md) (turnip sawfly) |  &#9679; |        |  &#9679; |         |        |
 | [*Autographa gamma*](species/Autographa_gamma/Autographa_gamma.md) (silver Y) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Baccha elongata*](species/Baccha_elongata/Baccha_elongata.md) (gossamer hoverfly) |  &#9679; |        |  &#9679; |         |        |
-| [*Batrachedra praeangusta*](species/Batrachedra_praeangusta/Batrachedra_praeangusta.md) (poplar cosmet) |  &#9679; |        |        |         |        |
+| [*Batrachedra praeangusta*](species/Batrachedra_praeangusta/Batrachedra_praeangusta.md) (poplar cosmet) |  &#9679; |        |  &#9679; |         |        |
 | [*Blastobasis adustella*](species/Blastobasis_adustella/Blastobasis_adustella.md) (dingy dowd) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Blastobasis lacticolella*](species/Blastobasis_lacticolella/Blastobasis_lacticolella.md) (London dowd) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Boloria selene*](species/Boloria_selene/Boloria_selene.md) (silver meadow fritillary) |        |        |  &#9679; |         |        |
 | [*Bombus hortorum*](species/Bombus_hortorum/Bombus_hortorum.md) (garden bumblebee) |  &#9679; |        |        |         |        |
 | [*Bombus pascuorum*](species/Bombus_pascuorum/Bombus_pascuorum.md) (common carder bee) |  &#9679; |        |  &#9679; |         |        |
 | [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Carcina quercana*](species/Carcina_quercana/Carcina_quercana.md) (long-horned flat-body) |  &#9679; |        |  &#9679; |         |        |
 | [*Celastrina argiolus*](species/Celastrina_argiolus/Celastrina_argiolus.md) (holly brown) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Coenonympha tullia*](species/Coenonympha_tullia/Coenonympha_tullia.md) (common ringlet) |        |        |  &#9679; |         |        |
 | [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) (the dun-bar) |  &#9679; |  &#9679; |        |         |  &#9679; |
 | [*Craniophora ligustri*](species/Craniophora_ligustri/Craniophora_ligustri.md) (the coronet) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
 | [*Cyaniris semiargus*](species/Cyaniris_semiargus/Cyaniris_semiargus.md) (mazarine blue) |  &#9679; |        |  &#9679; |         |        |
@@ -52,28 +54,41 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Dolichovespula saxonica*](species/Dolichovespula_saxonica/Dolichovespula_saxonica.md) (Saxon wasp) |  &#9679; |        |  &#9679; |         |        |
 | [*Ectemnius continuus*](species/Ectemnius_continuus/Ectemnius_continuus.md) |  &#9679; |        |  &#9679; |         |        |
 | [*Ectemnius lituratus*](species/Ectemnius_lituratus/Ectemnius_lituratus.md) |  &#9679; |        |  &#9679; |         |        |
-| [*Eilema griseola*](species/Eilema_griseola/Eilema_griseola.md) (dingy footman) |  &#9679; |        |        |         |  &#9679; |
+| [*Eilema griseola*](species/Eilema_griseola/Eilema_griseola.md) (dingy footman) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Eimeria tenella*](species/Eimeria_tenella/Eimeria_tenella.md) (Coccidian parasite) |  &#9679; |        |        |         |  &#9679; |
 | [*Endotricha flammealis*](species/Endotricha_flammealis/Endotricha_flammealis.md) (rosy tabby) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Ennomos fuscantaria*](species/Ennomos_fuscantaria/Ennomos_fuscantaria.md) (dusky thorn) |  &#9679; |        |        |         |        |
-| [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) (marmalade hoverfly) |  &#9679; |        |        |         |        |
+| [*Epermenia falciformis*](species/Epermenia_falciformis/Epermenia_falciformis.md) (large lance-wing) |        |        |  &#9679; |         |        |
+| [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) (marmalade hoverfly) |  &#9679; |        |  &#9679; |         |        |
 | [*Erannis defoliaria*](species/Erannis_defoliaria/Erannis_defoliaria.md) (mottled umber) |  &#9679; |        |  &#9679; |         |        |
+| [*Erebia aethiops*](species/Erebia_aethiops/Erebia_aethiops.md) (Scotch argus) |        |        |  &#9679; |         |        |
 | [*Eristalis arbustorum*](species/Eristalis_arbustorum/Eristalis_arbustorum.md) (plane-faced dronefly) |        |        |  &#9679; |         |        |
 | [*Eristalis pertinax*](species/Eristalis_pertinax/Eristalis_pertinax.md) (tapered dronefly) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Eristalis tenax*](species/Eristalis_tenax/Eristalis_tenax.md) (the dronefly) |  &#9679; |        |  &#9679; |         |        |
 | [*Erynnis tages*](species/Erynnis_tages/Erynnis_tages.md) (dingy skipper) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Ethmia dodecea*](species/Ethmia_dodecea/Ethmia_dodecea.md) (dotted ermel) |        |        |  &#9679; |         |        |
+| [*Eudonia lacustrata*](species/Eudonia_lacustrata/Eudonia_lacustrata.md) (little grey) |        |        |  &#9679; |         |        |
 | [*Eupithecia centaureata*](species/Eupithecia_centaureata/Eupithecia_centaureata.md) (lime-speck pug) |  &#9679; |        |        |         |        |
 | [*Euproctis similis*](species/Euproctis_similis/Euproctis_similis.md) (yellow-tail) |  &#9679; |        |  &#9679; |         |        |
 | [*Euthrix potatoria*](species/Euthrix_potatoria/Euthrix_potatoria.md) (drinker moth) |        |  &#9679; |        |         |        |
+| [*Euzophera pinguis*](species/Euzophera_pinguis/Euzophera_pinguis.md) (ash-bark knot-horn) |        |        |  &#9679; |         |        |
+| [*Ferdinandea cuprea*](species/Ferdinandea_cuprea/Ferdinandea_cuprea.md) (bronze sap hoverfly) |        |        |  &#9679; |         |        |
+| [*Gymnoscelis rufifasciata*](species/Gymnoscelis_rufifasciata/Gymnoscelis_rufifasciata.md) (double-striped pug) |        |        |  &#9679; |         |        |
 | [*Harmonia axyridis*](species/Harmonia_axyridis/Harmonia_axyridis.md) (harlequin) |        |  &#9679; |        |         |        |
+| [*Helophilus pendulus*](species/Helophilus_pendulus/Helophilus_pendulus.md) (tiger hoverfly) |        |        |  &#9679; |         |        |
+| [*Hemithea aestivaria*](species/Hemithea_aestivaria/Hemithea_aestivaria.md) (common emerald) |        |        |  &#9679; |         |        |
 | [*Hesperia comma*](species/Hesperia_comma/Hesperia_comma.md) (silver-spotted skipper) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Hofmannophila pseudospretella*](species/Hofmannophila_pseudospretella/Hofmannophila_pseudospretella.md) (brown house moth) |        |        |  &#9679; |         |        |
 | [*Hypena proboscidalis*](species/Hypena_proboscidalis/Hypena_proboscidalis.md) (the snout) |  &#9679; |        |  &#9679; |         |        |
+| [*Idaea aversata*](species/Idaea_aversata/Idaea_aversata.md) (riband wave) |        |        |  &#9679; |         |        |
 | [*Korscheltellus lupulina*](species/Korscheltellus_lupulina/Korscheltellus_lupulina.md) (common swift) |        |  &#9679; |        |         |        |
 | [*Lasiommata megera*](species/Lasiommata_megera/Lasiommata_megera.md) (wall brown) |  &#9679; |        |  &#9679; |         |        |
+| [*Laspeyria flexula*](species/Laspeyria_flexula/Laspeyria_flexula.md) (beautiful hook-tip) |        |        |  &#9679; |         |        |
 | [*Limenitis camilla*](species/Limenitis_camilla/Limenitis_camilla.md) (white admiral) |  &#9679; |        |  &#9679; |         |        |
 | [*Lymantria monacha*](species/Lymantria_monacha/Lymantria_monacha.md) (black arches) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Lysandra coridon*](species/Lysandra_coridon/Lysandra_coridon.md) (chalkhill blue) |  &#9679; |        |  &#9679; |         |        |
 | [*Maniola jurtina*](species/Maniola_jurtina/Maniola_jurtina.md) (meadow brown) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Melanargia galathea*](species/Melanargia_galathea/Melanargia_galathea.md) (marbled white) |        |        |  &#9679; |         |        |
 | [*Melanostoma mellinum*](species/Melanostoma_mellinum/Melanostoma_mellinum.md) (dumpy grass hoverfly) |  &#9679; |        |  &#9679; |         |        |
 | [*Melanostoma scalare*](species/Melanostoma_scalare/Melanostoma_scalare.md) (slender grass hoverfly) |  &#9679; |        |  &#9679; |         |        |
 | [*Melitaea athalia*](species/Melitaea_athalia/Melitaea_athalia.md) (heath fritillary) |  &#9679; |        |  &#9679; |         |  &#9679; |
@@ -82,8 +97,13 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Mythimna impura*](species/Mythimna_impura/Mythimna_impura.md) (smoky wainscot) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Nemophora degeerella*](species/Nemophora_degeerella/Nemophora_degeerella.md) (yellow-barred long-horn) |        |  &#9679; |        |         |        |
 | [*Noctua fimbriata*](species/Noctua_fimbriata/Noctua_fimbriata.md) (broad-bordered yellow underwing) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
+| [*Noctua pronuba*](species/Noctua_pronuba/Noctua_pronuba.md) (large yellow underwing) |        |        |  &#9679; |         |        |
+| [*Nola cucullatella*](species/Nola_cucullatella/Nola_cucullatella.md) (short-cloaked moth) |        |        |  &#9679; |         |        |
 | [*Notocelia uddmanniana*](species/Notocelia_uddmanniana/Notocelia_uddmanniana.md) (bramble shoot moth) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Notodonta dromedarius*](species/Notodonta_dromedarius/Notodonta_dromedarius.md) (iron prominent) |  &#9679; |        |        |         |        |
+| [*Ochlodes sylvanus*](species/Ochlodes_sylvanus/Ochlodes_sylvanus.md) (large skipper) |        |        |  &#9679; |         |        |
+| [*Opisthograptis luteolata*](species/Opisthograptis_luteolata/Opisthograptis_luteolata.md) (brimstone moth) |        |        |  &#9679; |         |        |
+| [*Opostega salaciella*](species/Opostega_salaciella/Opostega_salaciella.md) (sorrel bent-wing) |        |        |  &#9679; |         |        |
 | [*Papilio machaon*](species/Papilio_machaon/Papilio_machaon.md) (swallowtail) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Parapoynx stratiotata*](species/Parapoynx_stratiotata/Parapoynx_stratiotata.md) (ringed china-mark) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Pararge aegeria tircis*](species/Pararge_aegeria_tircis/Pararge_aegeria_tircis.md) (speckled wood) |  &#9679; |        |  &#9679; |         |        |
@@ -96,22 +116,30 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 | [*Plebejus argus*](species/Plebejus_argus/Plebejus_argus.md) (silver-studded blue) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Polygonia c-album*](species/Polygonia_c-album/Polygonia_c-album.md) (comma) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Polyommatus icarus*](species/Polyommatus_icarus/Polyommatus_icarus.md) (common blue) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Prays fraxinella*](species/Prays_fraxinella/Prays_fraxinella.md) (ash bud moth) |        |        |  &#9679; |         |        |
 | [*Recurvaria leucatella*](species/Recurvaria_leucatella/Recurvaria_leucatella.md) (white-barred groundling) |  &#9679; |        |        |         |  &#9679; |
 | [*Satyrium walbum*](species/Satyrium_walbum/Satyrium_walbum.md) (white-letter hairstreak) |  &#9679; |        |        |         |  &#9679; |
 | [*Scaeva pyrastri*](species/Scaeva_pyrastri/Scaeva_pyrastri.md) (pied hoverfly) |        |        |  &#9679; |         |        |
 | [*Scathophaga stercoraria*](species/Scathophaga_stercoraria/Scathophaga_stercoraria.md) (yellow dung fly) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Schrankia costaestrigalis*](species/Schrankia_costaestrigalis/Schrankia_costaestrigalis.md) (pinion-streaked snout) |  &#9679; |        |        |         |        |
+| [*Sphaerophoria scripta*](species/Sphaerophoria_scripta/Sphaerophoria_scripta.md) (long hoverfly) |        |        |  &#9679; |         |        |
 | [*Syritta pipiens*](species/Syritta_pipiens/Syritta_pipiens.md) (thick-legged hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Syrphus ribesii*](species/Syrphus_ribesii/Syrphus_ribesii.md) (humming syrphus) |        |        |  &#9679; |         |        |
 | [*Tachina fera*](species/Tachina_fera/Tachina_fera.md) |  &#9679; |        |  &#9679; |         |        |
 | [*Thyatira batis*](species/Thyatira_batis/Thyatira_batis.md) (peach blossom) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
-| [*Thymelicus lineola*](species/Thymelicus_lineola/Thymelicus_lineola.md) (Essex skipper) |  &#9679; |        |        |         |  &#9679; |
+| [*Thymelicus lineola*](species/Thymelicus_lineola/Thymelicus_lineola.md) (Essex skipper) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Thymelicus sylvestris*](species/Thymelicus_sylvestris/Thymelicus_sylvestris.md) (small skipper) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Tinea trinotella*](species/Tinea_trinotella/Tinea_trinotella.md) (bird's-nest moth) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Tiphia femorata*](species/Tiphia_femorata/Tiphia_femorata.md) (beetle killing wasp) |  &#9679; |        |        |         |        |
 | [*Tortrix viridana*](species/Tortrix_viridana/Tortrix_viridana.md) (green oak tortrix) |        |  &#9679; |        |         |        |
 | [*Triodia sylvina*](species/Triodia_sylvina/Triodia_sylvina.md) (orange swift) |  &#9679; |        |        |         |  &#9679; |
+| [*Tyria jacobaeae*](species/Tyria_jacobaeae/Tyria_jacobaeae.md) (cinnabar) |        |        |  &#9679; |         |        |
+| [*Udea olivalis*](species/Udea_olivalis/Udea_olivalis.md) (olive pearl) |        |        |  &#9679; |         |        |
 | [*Vanessa atalanta*](species/Vanessa_atalanta/Vanessa_atalanta.md) (red admiral) |  &#9679; |        |  &#9679; |  &#9679; |  &#9679; |
 | [*Vanessa cardui*](species/Vanessa_cardui/Vanessa_cardui.md) (painted lady) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Vespa crabro*](species/Vespa_crabro/Vespa_crabro.md) (European hornet) |        |        |  &#9679; |         |        |
 | [*Vespula germanica*](species/Vespula_germanica/Vespula_germanica.md) (German wasp) |  &#9679; |        |  &#9679; |         |        |
 | [*Vespula vulgaris*](species/Vespula_vulgaris/Vespula_vulgaris.md) (common wasp) |  &#9679; |        |  &#9679; |         |        |
 | [*Xestia xanthographa*](species/Xestia_xanthographa/Xestia_xanthographa.md) (square-spot rustic) |  &#9679; |        |        |         |        |
 | [*Xylota sylvarum*](species/Xylota_sylvarum/Xylota_sylvarum.md) (golden-tailed hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Yponomeuta evonymella*](species/Yponomeuta_evonymella/Yponomeuta_evonymella.md) (bird-cherry ermine) |        |        |  &#9679; |         |        |
