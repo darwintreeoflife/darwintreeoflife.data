@@ -26,19 +26,19 @@ The final assemblies will differ in sequence and contiguity**; these will be ann
 
 ## Vertebrates data
 
-Vertebrate genomes sequenced as part of The Darwin Tree of Life project will also be part of the [Vertebrate Genomes Project](https://vertebrategenomesproject.org/). This data is generously hosted by Amazon on AWS and is available from the GenomeArk (https://vgp.github.io/). Links to these data are listed here.
+Vertebrate genomes sequenced as part of The Darwin Tree of Life project will also be part of the [Vertebrate Genomes Project](https://vertebrategenomesproject.org/). This data is generously hosted by Amazon on AWS and is available from the [GenomeArk](https://vgp.github.io/). Links to these data are listed here.
 
-| Species | PacBio | ONT | 10XG | Hi-C | Draft Asm |
-| :------ | :----: | :-: | :--: | :--: | :-------: |
-| [*Bufo bufo*](https://vgp.github.io/genomeark/Bufo_bufo/) (common toad) | &#9679; |        |  &#9679; |  |  |
-| [*Canis lupus orion*](https://vgp.github.io/genomeark/Canis_lupus_orion/) (Greenland wolf) |  |  |  &#9679; | &#9679; |  |
-| [*Caprimulgus europaeus*](https://vgp.github.io/genomeark/Caprimulgus_europaeus/) (Eurasian nightjar) | &#9679; |        |  &#9679; |  |  |
-| [*Cervus elaphus*](https://vgp.github.io/genomeark/Cervus_elaphus/) (red deer) |  |  |  |  |  |
-| [*Malacosteus niger*](https://vgp.github.io/genomeark/Malacosteus_niger/) (stoplight loosejaw) | &#9679; |        |  &#9679; | &#9679; |  |
-| [*Meles meles*](https://vgp.github.io/genomeark/Meles_meles/) (European badger) |  | &#9679; |  &#9679; |  |  |
-| [*Rana temporaria*](https://vgp.github.io/genomeark/Rana_temporaria/) (common frog) | &#9679; |        |  &#9679; | &#9679; | &#9679; |
-| [*Rattus norvegicus*](https://vgp.github.io/genomeark/Rattus_norvegicus/) (Norway rat) | &#9679; |        |  &#9679; | &#9679; | &#9679; |
-| [*Trachurus trachurus*](https://vgp.github.io/genomeark/Trachurus_trachurus/) (Atlantic horse mackerel) | &#9679; |        |  &#9679; | &#9679; | &#9679; |
+| Species | PacBio | ONT | 10XG | BioNano | Hi-C | Draft Asm |
+| :------ | :----: | :-: | :--: | :-----: | :--: | :-------: |
+| [*Bufo bufo*](https://vgp.github.io/genomeark/Bufo_bufo/) (common toad) | &#9679; |        |  &#9679; | &#9679; |  |  |
+| [*Canis lupus orion*](https://vgp.github.io/genomeark/Canis_lupus_orion/) (Greenland wolf) |  |  |  &#9679; |  | &#9679; |  |
+| [*Caprimulgus europaeus*](https://vgp.github.io/genomeark/Caprimulgus_europaeus/) (Eurasian nightjar) | &#9679; |        |  &#9679; | &#9679; |  |  |
+| [*Cervus elaphus*](https://vgp.github.io/genomeark/Cervus_elaphus/) (red deer) |  |  |  |  |  |  |
+| [*Malacosteus niger*](https://vgp.github.io/genomeark/Malacosteus_niger/) (stoplight loosejaw) | &#9679; |        |  &#9679; |  | &#9679; |  |
+| [*Meles meles*](https://vgp.github.io/genomeark/Meles_meles/) (European badger) |  | &#9679; |  &#9679; | &#9679; |  |  |
+| [*Rana temporaria*](https://vgp.github.io/genomeark/Rana_temporaria/) (common frog) | &#9679; |        |  &#9679; | &#9679; | &#9679; | &#9679; |
+| [*Rattus norvegicus*](https://vgp.github.io/genomeark/Rattus_norvegicus/) (Norway rat) | &#9679; |        |  &#9679; | &#9679; | &#9679; | &#9679; |
+| [*Trachurus trachurus*](https://vgp.github.io/genomeark/Trachurus_trachurus/) (Atlantic horse mackerel) | &#9679; |        |  &#9679; |  | &#9679; | &#9679; |
 
 
 ## Data
@@ -69,6 +69,7 @@ Vertebrate genomes sequenced as part of The Darwin Tree of Life project will als
 | [*Celastrina argiolus*](species/Celastrina_argiolus/Celastrina_argiolus.md) (holly brown) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Cheilosia pagana*](species/Cheilosia_pagana/Cheilosia_pagana.md) (parsley Cheilosia) |        |        |  &#9679; |         |        |
 | [*Chrysoperla carnea*](species/Chrysoperla_carnea/Chrysoperla_carnea.md) (common green lacewing) |        |        |  &#9679; |         |        |
+| [*Clubiona reclusa*](species/Clubiona_reclusa/Clubiona_reclusa.md) |        |        |  &#9679; |         |        |
 | [*Coenonympha tullia*](species/Coenonympha_tullia/Coenonympha_tullia.md) (common ringlet) |        |        |  &#9679; |         |        |
 | [*Colostygia pectinataria*](species/Colostygia_pectinataria/Colostygia_pectinataria.md) (green carpet) |        |        |  &#9679; |         |        |
 | [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) (the dun-bar) |  &#9679; |  &#9679; |        |         |  &#9679; |
@@ -137,9 +138,11 @@ Vertebrate genomes sequenced as part of The Darwin Tree of Life project will als
 | [*Pararge aegeria tircis*](species/Pararge_aegeria_tircis/Pararge_aegeria_tircis.md) (speckled wood) |  &#9679; |        |  &#9679; |         |        |
 | [*Phalera bucephala*](species/Phalera_bucephala/Phalera_bucephala.md) (buff-tip) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Phlogophora meticulosa*](species/Phlogophora_meticulosa/Phlogophora_meticulosa.md) (angle shades) |  &#9679; |        |  &#9679; |         |        |
+| [*Pholcus phalangioides*](species/Pholcus_phalangioides/Pholcus_phalangioides.md) (long-bodied cellar spider) |        |        |  &#9679; |         |        |
 | [*Pieris brassicae brassicae*](species/Pieris_brassicae_brassicae/Pieris_brassicae_brassicae.md) (large white) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Pieris napi*](species/Pieris_napi/Pieris_napi.md) (green-veined white ) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Pieris rapae*](species/Pieris_rapae/Pieris_rapae.md) (small white) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Pisaura mirabilis*](species/Pisaura_mirabilis/Pisaura_mirabilis.md) (nursery web spider) |        |        |  &#9679; |         |        |
 | [*Platycheirus albimanus*](species/Platycheirus_albimanus/Platycheirus_albimanus.md) (white-footed hoverfly) |  &#9679; |        |        |         |        |
 | [*Plebejus argus*](species/Plebejus_argus/Plebejus_argus.md) (silver-studded blue) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Polygonia c-album*](species/Polygonia_c-album/Polygonia_c-album.md) (comma) |  &#9679; |        |  &#9679; |         |  &#9679; |
