@@ -26,3 +26,7 @@ family: Hesperiidae
 | [ilOchSylv2](ilOchSylv2.md) | 10x.ucram |  | [d751765f9fdf61ed1cb1bbd1c92734a6-339](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv2/genomic_data/10x/31958_4%232.cram) |
 | [ilOchSylv2](ilOchSylv2.md) | 10x.ucram |  | [8234dc4b2cfaba4f39d71a14784be612-290](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv2/genomic_data/10x/31958_4%233.cram) |
 | [ilOchSylv2](ilOchSylv2.md) | 10x.ucram |  | [987d0121aaecde0269a1b35a90416e8e-399](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv2/genomic_data/10x/31958_4%234.cram) |
+| [ilOchSylv3](ilOchSylv3.md) | 10x.ucram |  | [1e4dc04f3adbce2f59784099d727ff20-366](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv3/genomic_data/10x/33610_6%235.cram) |
+| [ilOchSylv3](ilOchSylv3.md) | 10x.ucram |  | [f1e135ac8273bc00e23644707828b491-510](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv3/genomic_data/10x/33610_6%236.cram) |
+| [ilOchSylv3](ilOchSylv3.md) | 10x.ucram |  | [708ef53ca95d63fdb659016f71e87d5f-336](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv3/genomic_data/10x/33610_6%237.cram) |
+| [ilOchSylv3](ilOchSylv3.md) | 10x.ucram |  | [a6b46dc4c56bbd0c92e73f7168a66a94-398](https://darwin.cog.sanger.ac.uk/insects/Ochlodes_sylvanus/ilOchSylv3/genomic_data/10x/33610_6%238.cram) |

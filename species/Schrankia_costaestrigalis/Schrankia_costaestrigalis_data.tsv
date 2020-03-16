@@ -1,3 +1,7 @@
 individual	type	info	file	etag
+ilSchCost1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/ilSchCost1/genomic_data/10x/32841_7%235.cram	05835baf6f0477835616cda71dae46c8-456
+ilSchCost1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/ilSchCost1/genomic_data/10x/32841_7%236.cram	829262269b81563bc7d33f16ed59566d-460
+ilSchCost1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/ilSchCost1/genomic_data/10x/32841_7%237.cram	c7e7da0f28faae7ec1bab6dc8c1ff86c-305
+ilSchCost1	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/ilSchCost1/genomic_data/10x/32841_7%238.cram	b127afb8377aab1ce211fa23ba4b8037-400
 ilSchCost1	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/ilSchCost1/genomic_data/pacbio/m64097_200205_104652.ccs.bam	93edd63fba65faebd60bbcbb99b419de-1198
 ilSchCost1	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Schrankia_costaestrigalis/ilSchCost1/genomic_data/pacbio/m64097_200205_104652.ccs.bam.pbi	ffcb6ba2bca11c4848ddaa3208db7a99-2
