@@ -44,7 +44,7 @@ Vertebrate genomes sequenced as part of The Darwin Tree of Life project will als
 
 ### Darwin non-vertebrates
 
-The vast bulk of species in progress are from non-vertebrate species. These data are hosted on Sanger S3 bucket and links to the data and some information about samples can be found at the links below.
+The vast bulk of sequencing in progress is from non-vertebrate species. These data are hosted on a Sanger Institute hosted S3 bucket and links to the data and some information about samples can be found at the links below.
 
 | Species | PacBio | ONT | 10XG | Hi-C | Draft Asm |
 | :------ | :----: | :-: | :--: | :--: | :-------: |
