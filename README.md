@@ -8,12 +8,11 @@
 
 :warning: **Warning: Publications should only be based on data in the public archives (ENA, Genbank, DDBJ).**
 
-
 ## Introduction
 
 The [Darwin Tree of Life Project](https://www.darwintreeoflife.org/) (DToL) aims to generate high quality genome assemblies of all 60,000 species of eukaryotic organisms in the Atlantic archipelago of Britain and Ireland to contribute towards providing reference genome sequences for all life.
 It is a collaboration between biodiversity, genomics and analysis partners that hopes to transform the way we do biology, conservation and biotechnology.
-The project is a collaboration of the Natural History Museum London, Royal Botanic Gardens Kew, Royal Botanic Gardens Edinburgh, Marine Biological Association, Earlham Institute, University of Oxford and its Wytham Woods field station, University of Edinburgh and Edinburgh Genomics, University of Cambridge, EMBL-EBI and others, led by the Wellcome Sanger Institute, UK.
+The project is a collaboration of the Natural History Museum London, Royal Botanic Gardens Kew, Royal Botanic Gardens Edinburgh, Marine Biological Association, Earlham Institute, University of Oxford and its Wytham Woods field station, University of Edinburgh, University of Cambridge, EMBL-EBI and others, led by the Wellcome Sanger Institute, UK.
 
 ## About the data
 
@@ -24,13 +23,15 @@ Please note that the **data may not be final and correct and assemblies are from
 They may contain contaminant genomes, symbionts and assembly errors.
 The final assemblies will differ in sequence and contiguity**; these will be annotated and released to ENA in due course.
 
-## Vertebrates data
+## Interim data
 
-Vertebrate genomes sequenced as part of The Darwin Tree of Life project will also be part of the [Vertebrate Genomes Project](https://vertebrategenomesproject.org/). This data is generously hosted by Amazon on AWS and is available from the [GenomeArk](https://vgp.github.io/). Links to these data are listed here.
+### Darwin Vertebrates
+
+Vertebrate genomes sequenced as part of The Darwin Tree of Life project will also be part of the [Vertebrate Genomes Project](https://vertebrategenomesproject.org/). These data are generously hosted by Amazon on AWS and are available from the [GenomeArk](https://vgp.github.io/). Links to these data are listed here.
 
 | Species | PacBio | ONT | 10XG | BioNano | Hi-C | Draft Asm |
 | :------ | :----: | :-: | :--: | :-----: | :--: | :-------: |
-| [*Bufo bufo*](https://vgp.github.io/genomeark/Bufo_bufo/) (common toad) | &#9679; |        |  &#9679; | &#9679; |  |  |
+| [*Bufo bufo*](https://vgp.github.io/genomeark/Bufo_bufo/) (common toad) | &#9679; |        |  &#9679; | &#9679; | &#9679; |  |
 | [*Canis lupus orion*](https://vgp.github.io/genomeark/Canis_lupus_orion/) (Greenland wolf) |  |  |  &#9679; |  | &#9679; |  |
 | [*Caprimulgus europaeus*](https://vgp.github.io/genomeark/Caprimulgus_europaeus/) (Eurasian nightjar) | &#9679; |        |  &#9679; | &#9679; |  |  |
 | [*Cervus elaphus*](https://vgp.github.io/genomeark/Cervus_elaphus/) (red deer) |  |  |  |  |  |  |
@@ -41,7 +42,9 @@ Vertebrate genomes sequenced as part of The Darwin Tree of Life project will als
 | [*Trachurus trachurus*](https://vgp.github.io/genomeark/Trachurus_trachurus/) (Atlantic horse mackerel) | &#9679; |        |  &#9679; |  | &#9679; | &#9679; |
 
 
-## Data
+### Darwin non-vertebrates
+
+The vast bulk of species in progress are from non-vertebrate species. These data are hosted on Sanger S3 bucket and links to the data and some information about samples can be found at the links below.
 
 | Species | PacBio | ONT | 10XG | Hi-C | Draft Asm |
 | :------ | :----: | :-: | :--: | :--: | :-------: |
@@ -61,7 +64,7 @@ Vertebrate genomes sequenced as part of The Darwin Tree of Life project will als
 | [*Boloria selene*](species/Boloria_selene/Boloria_selene.md) (silver meadow fritillary) |        |        |  &#9679; |         |        |
 | [*Bombus campestris*](species/Bombus_campestris/Bombus_campestris.md) (field cuckoo-bee) |        |        |  &#9679; |         |        |
 | [*Bombus hortorum*](species/Bombus_hortorum/Bombus_hortorum.md) (garden bumblebee) |  &#9679; |        |        |         |        |
-| [*Bombus pascuorum*](species/Bombus_pascuorum/Bombus_pascuorum.md) (common carder bee) |  &#9679; |        |  &#9679; |         |        |
+| [*Bombus pascuorum*](species/Bombus_pascuorum/Bombus_pascuorum.md) (common carder bee) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Bombus pratorum*](species/Bombus_pratorum/Bombus_pratorum.md) (early bumblebee) |        |        |  &#9679; |         |        |
 | [*Bombus rupestris*](species/Bombus_rupestris/Bombus_rupestris.md) (hill cuckoo-bee) |        |        |  &#9679; |         |        |
 | [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |  &#9679; |         |  &#9679; |

@@ -14,6 +14,13 @@ family: Apidae
 | :--------- | :-: | :----------- | :--------------------- |
 | [iyBomPasc1](iyBomPasc1.md) | Female | Ox0120 | University of Oxford |
 
+## In-progress assemblies
+
+| individual | label | file |
+| :--------- | :---- | :--- |
+| [iyBomPasc1](iyBomPasc1.md) | 20200305.hicanu.purge | [20200305.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Bombus_pascuorum/iyBomPasc1/assemblies/working/20200305.hicanu.purge/20200305.hicanu.purge.prim.fasta.gz) |
+| [iyBomPasc1](iyBomPasc1.md) | 20200305.hicanu.purge | [20200305.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Bombus_pascuorum/iyBomPasc1/assemblies/working/20200305.hicanu.purge/20200305.hicanu.purge.htig.fasta.gz) |
+
 ## Data ([tsv](Bombus_pascuorum_data.tsv))
 
 | individual | type | info | file |
