@@ -16,7 +16,7 @@ The project is a collaboration of the Natural History Museum London, Royal Botan
 
 ## About the data
 
-- [ ] Link to DToL data release policy
+[Darwin Tree of Life Open Data Release Policy](https://www.darwintreeoflife.org/wp-content/uploads/2020/03/DToL-Open-Data-Release-Policy.pdf)
 
 As a step towards open and early release of Darwin Tree of Life data, we are making available raw data before submission to ENA and early-pass assemblies for use by the community.
 Please note that the **data may not be final and correct and assemblies are from the earliest stages of analysis, have not been polished to remove assembly errors and have not been scaffolded to produce chromosomal molecules.
