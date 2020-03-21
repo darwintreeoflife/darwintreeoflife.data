@@ -77,6 +77,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Colostygia pectinataria*](species/Colostygia_pectinataria/Colostygia_pectinataria.md) (green carpet) |        |        |  &#9679; |         |        |
 | [*Cosmia trapezina*](species/Cosmia_trapezina/Cosmia_trapezina.md) (the dun-bar) |  &#9679; |  &#9679; |        |         |  &#9679; |
 | [*Craniophora ligustri*](species/Craniophora_ligustri/Craniophora_ligustri.md) (the coronet) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
+| [*Cupido minimus*](species/Cupido_minimus/Cupido_minimus.md) (small blue) |        |        |  &#9679; |         |        |
 | [*Cyaniris semiargus*](species/Cyaniris_semiargus/Cyaniris_semiargus.md) (mazarine blue) |  &#9679; |        |  &#9679; |         |        |
 | [*Dolichovespula media*](species/Dolichovespula_media/Dolichovespula_media.md) (median wasp) |  &#9679; |        |  &#9679; |         |        |
 | [*Dolichovespula saxonica*](species/Dolichovespula_saxonica/Dolichovespula_saxonica.md) (Saxon wasp) |  &#9679; |        |  &#9679; |         |        |
@@ -90,7 +91,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Episyrphus balteatus*](species/Episyrphus_balteatus/Episyrphus_balteatus.md) (marmalade hoverfly) |  &#9679; |        |  &#9679; |         |        |
 | [*Erannis defoliaria*](species/Erannis_defoliaria/Erannis_defoliaria.md) (mottled umber) |  &#9679; |        |  &#9679; |         |        |
 | [*Erebia aethiops*](species/Erebia_aethiops/Erebia_aethiops.md) (Scotch argus) |        |        |  &#9679; |         |        |
-| [*Erebia epiphron*](species/Erebia_epiphron/Erebia_epiphron.md) (mountain ringlet) |        |        |  &#9679; |         |        |
+| [*Erebia epiphron*](species/Erebia_epiphron/Erebia_epiphron.md) (mountain ringlet) |  &#9679; |        |  &#9679; |         |        |
 | [*Eristalis arbustorum*](species/Eristalis_arbustorum/Eristalis_arbustorum.md) (plane-faced dronefly) |        |        |  &#9679; |         |        |
 | [*Eristalis pertinax*](species/Eristalis_pertinax/Eristalis_pertinax.md) (tapered dronefly) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Eristalis tenax*](species/Eristalis_tenax/Eristalis_tenax.md) (the dronefly) |  &#9679; |        |  &#9679; |         |        |
@@ -112,6 +113,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Hypena proboscidalis*](species/Hypena_proboscidalis/Hypena_proboscidalis.md) (the snout) |  &#9679; |        |  &#9679; |         |        |
 | [*Idaea aversata*](species/Idaea_aversata/Idaea_aversata.md) (riband wave) |        |        |  &#9679; |         |        |
 | [*Korscheltellus lupulina*](species/Korscheltellus_lupulina/Korscheltellus_lupulina.md) (common swift) |        |  &#9679; |        |         |        |
+| [*Lasioglossum pauxillum*](species/Lasioglossum_pauxillum/Lasioglossum_pauxillum.md) (base-banded furrow bee) |  &#9679; |        |        |         |        |
 | [*Lasiommata megera*](species/Lasiommata_megera/Lasiommata_megera.md) (wall brown) |  &#9679; |        |  &#9679; |         |        |
 | [*Laspeyria flexula*](species/Laspeyria_flexula/Laspeyria_flexula.md) (beautiful hook-tip) |        |        |  &#9679; |         |        |
 | [*Limenitis camilla*](species/Limenitis_camilla/Limenitis_camilla.md) (white admiral) |  &#9679; |        |  &#9679; |         |        |
@@ -128,7 +130,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Mythimna impura*](species/Mythimna_impura/Mythimna_impura.md) (smoky wainscot) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Nemophora degeerella*](species/Nemophora_degeerella/Nemophora_degeerella.md) (yellow-barred long-horn) |        |  &#9679; |        |         |        |
 | [*Noctua fimbriata*](species/Noctua_fimbriata/Noctua_fimbriata.md) (broad-bordered yellow underwing) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
-| [*Noctua pronuba*](species/Noctua_pronuba/Noctua_pronuba.md) (large yellow underwing) |        |        |  &#9679; |         |        |
+| [*Noctua pronuba*](species/Noctua_pronuba/Noctua_pronuba.md) (large yellow underwing) |  &#9679; |        |  &#9679; |         |        |
 | [*Nola cucullatella*](species/Nola_cucullatella/Nola_cucullatella.md) (short-cloaked moth) |        |        |  &#9679; |         |        |
 | [*Notocelia uddmanniana*](species/Notocelia_uddmanniana/Notocelia_uddmanniana.md) (bramble shoot moth) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Notodonta dromedarius*](species/Notodonta_dromedarius/Notodonta_dromedarius.md) (iron prominent) |  &#9679; |        |  &#9679; |         |        |
@@ -151,6 +153,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Polygonia c-album*](species/Polygonia_c-album/Polygonia_c-album.md) (comma) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Polyommatus icarus*](species/Polyommatus_icarus/Polyommatus_icarus.md) (common blue) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Prays fraxinella*](species/Prays_fraxinella/Prays_fraxinella.md) (ash bud moth) |        |        |  &#9679; |         |        |
+| [*Pterostichus madidus*](species/Pterostichus_madidus/Pterostichus_madidus.md) (black clock beetle) |        |        |  &#9679; |         |        |
 | [*Recurvaria leucatella*](species/Recurvaria_leucatella/Recurvaria_leucatella.md) (white-barred groundling) |  &#9679; |        |        |         |  &#9679; |
 | [*Rhingia campestris*](species/Rhingia_campestris/Rhingia_campestris.md) (common snout-hoverfly) |        |        |  &#9679; |         |        |
 | [*Satyrium walbum*](species/Satyrium_walbum/Satyrium_walbum.md) (white-letter hairstreak) |  &#9679; |        |        |         |  &#9679; |

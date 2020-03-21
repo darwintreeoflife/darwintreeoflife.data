@@ -22,3 +22,5 @@ family: Noctuidae
 | [ilNocPron1](ilNocPron1.md) | 10x.ucram |  | [7e9300a5a938b3787824250c5c8a681e-544](https://darwin.cog.sanger.ac.uk/insects/Noctua_pronuba/ilNocPron1/genomic_data/10x/32140_5%232.cram) |
 | [ilNocPron1](ilNocPron1.md) | 10x.ucram |  | [bb95f37725d194f5374e79af16cdebdb-380](https://darwin.cog.sanger.ac.uk/insects/Noctua_pronuba/ilNocPron1/genomic_data/10x/32140_5%233.cram) |
 | [ilNocPron1](ilNocPron1.md) | 10x.ucram |  | [13bb45470b6d87b90f35eb440b12bf1f-303](https://darwin.cog.sanger.ac.uk/insects/Noctua_pronuba/ilNocPron1/genomic_data/10x/32140_5%234.cram) |
+| [ilNocPron1](ilNocPron1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [c8f159abda6c848b4f43a2729d1715cd-1203](https://darwin.cog.sanger.ac.uk/insects/Noctua_pronuba/ilNocPron1/genomic_data/pacbio/m64089_200315_173655.ccs.bam) |
+| [ilNocPron1](ilNocPron1.md) | pacbio.ccs.index |  | [bdd8575eae8c336176db92fbe1da383b-2](https://darwin.cog.sanger.ac.uk/insects/Noctua_pronuba/ilNocPron1/genomic_data/pacbio/m64089_200315_173655.ccs.bam.pbi) |
