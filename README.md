@@ -70,7 +70,6 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Bombus terrestris*](species/Bombus_terrestris/Bombus_terrestris.md) (buff-tailed bumblebee) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Carcina quercana*](species/Carcina_quercana/Carcina_quercana.md) (long-horned flat-body) |  &#9679; |        |  &#9679; |         |        |
 | [*Celastrina argiolus*](species/Celastrina_argiolus/Celastrina_argiolus.md) (holly brown) |  &#9679; |        |  &#9679; |         |  &#9679; |
-| [*Cheilosia pagana*](species/Cheilosia_pagana/Cheilosia_pagana.md) (parsley Cheilosia) |        |        |  &#9679; |         |        |
 | [*Chrysoperla carnea*](species/Chrysoperla_carnea/Chrysoperla_carnea.md) (common green lacewing) |        |        |  &#9679; |         |        |
 | [*Clubiona reclusa*](species/Clubiona_reclusa/Clubiona_reclusa.md) |        |        |  &#9679; |         |        |
 | [*Coenonympha tullia*](species/Coenonympha_tullia/Coenonympha_tullia.md) (common ringlet) |        |        |  &#9679; |         |        |
