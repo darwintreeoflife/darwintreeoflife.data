@@ -101,7 +101,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Euproctis similis*](species/Euproctis_similis/Euproctis_similis.md) (yellow-tail) |  &#9679; |        |  &#9679; |         |        |
 | [*Euthrix potatoria*](species/Euthrix_potatoria/Euthrix_potatoria.md) (drinker moth) |        |  &#9679; |        |         |        |
 | [*Euzophera pinguis*](species/Euzophera_pinguis/Euzophera_pinguis.md) (ash-bark knot-horn) |        |        |  &#9679; |         |        |
-| [*Fabriciana adippe*](species/Fabriciana_adippe/Fabriciana_adippe.md) (high brown fritillary) |        |        |  &#9679; |         |        |
+| [*Fabriciana adippe*](species/Fabriciana_adippe/Fabriciana_adippe.md) (high brown fritillary) |  &#9679; |        |  &#9679; |         |        |
 | [*Ferdinandea cuprea*](species/Ferdinandea_cuprea/Ferdinandea_cuprea.md) (bronze sap hoverfly) |        |        |  &#9679; |         |        |
 | [*Gymnoscelis rufifasciata*](species/Gymnoscelis_rufifasciata/Gymnoscelis_rufifasciata.md) (double-striped pug) |        |        |  &#9679; |         |        |
 | [*Harmonia axyridis*](species/Harmonia_axyridis/Harmonia_axyridis.md) (harlequin) |        |  &#9679; |        |         |        |
@@ -116,7 +116,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Lasiommata megera*](species/Lasiommata_megera/Lasiommata_megera.md) (wall brown) |  &#9679; |        |  &#9679; |         |        |
 | [*Laspeyria flexula*](species/Laspeyria_flexula/Laspeyria_flexula.md) (beautiful hook-tip) |        |        |  &#9679; |         |        |
 | [*Limenitis camilla*](species/Limenitis_camilla/Limenitis_camilla.md) (white admiral) |  &#9679; |        |  &#9679; |         |        |
-| [*Lycaena phlaeas*](species/Lycaena_phlaeas/Lycaena_phlaeas.md) (small copper) |        |        |  &#9679; |         |        |
+| [*Lycaena phlaeas*](species/Lycaena_phlaeas/Lycaena_phlaeas.md) (small copper) |  &#9679; |        |  &#9679; |         |        |
 | [*Lymantria monacha*](species/Lymantria_monacha/Lymantria_monacha.md) (black arches) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Lysandra coridon*](species/Lysandra_coridon/Lysandra_coridon.md) (chalkhill blue) |  &#9679; |        |  &#9679; |         |        |
 | [*Maniola jurtina*](species/Maniola_jurtina/Maniola_jurtina.md) (meadow brown) |  &#9679; |        |  &#9679; |         |  &#9679; |
@@ -126,6 +126,7 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Melitaea athalia*](species/Melitaea_athalia/Melitaea_athalia.md) (heath fritillary) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Mesembrina meridiana*](species/Mesembrina_meridiana/Mesembrina_meridiana.md) (noon fly) |  &#9679; |        |        |         |        |
 | [*Myathropa florea*](species/Myathropa_florea/Myathropa_florea.md) (batman hoverfly) |  &#9679; |        |  &#9679; |         |  &#9679; |
+| [*Myrmica ruginodis*](species/Myrmica_ruginodis/Myrmica_ruginodis.md) (red ant) |  &#9679; |        |        |         |        |
 | [*Mythimna impura*](species/Mythimna_impura/Mythimna_impura.md) (smoky wainscot) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Nemophora degeerella*](species/Nemophora_degeerella/Nemophora_degeerella.md) (yellow-barred long-horn) |        |  &#9679; |        |         |        |
 | [*Noctua fimbriata*](species/Noctua_fimbriata/Noctua_fimbriata.md) (broad-bordered yellow underwing) |  &#9679; |  &#9679; |  &#9679; |         |  &#9679; |
@@ -134,7 +135,8 @@ The vast bulk of sequencing in progress is from non-vertebrate species. These da
 | [*Notocelia uddmanniana*](species/Notocelia_uddmanniana/Notocelia_uddmanniana.md) (bramble shoot moth) |  &#9679; |        |  &#9679; |         |  &#9679; |
 | [*Notodonta dromedarius*](species/Notodonta_dromedarius/Notodonta_dromedarius.md) (iron prominent) |  &#9679; |        |  &#9679; |         |        |
 | [*Ochlodes sylvanus*](species/Ochlodes_sylvanus/Ochlodes_sylvanus.md) (large skipper) |        |        |  &#9679; |         |        |
-| [*Opisthograptis luteolata*](species/Opisthograptis_luteolata/Opisthograptis_luteolata.md) (brimstone moth) |        |        |  &#9679; |         |        |
+| [*Oedemera lurida*](species/Oedemera_lurida/Oedemera_lurida.md) |  &#9679; |        |        |         |        |
+| [*Opisthograptis luteolata*](species/Opisthograptis_luteolata/Opisthograptis_luteolata.md) (brimstone moth) |  &#9679; |        |  &#9679; |         |        |
 | [*Opostega salaciella*](species/Opostega_salaciella/Opostega_salaciella.md) (sorrel bent-wing) |        |        |  &#9679; |         |        |
 | [*Panorpa germanica*](species/Panorpa_germanica/Panorpa_germanica.md) (German scorpionfly) |        |        |  &#9679; |         |        |
 | [*Papilio machaon*](species/Papilio_machaon/Papilio_machaon.md) (swallowtail) |  &#9679; |        |  &#9679; |         |  &#9679; |
