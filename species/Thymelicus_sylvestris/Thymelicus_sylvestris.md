@@ -21,6 +21,10 @@ family: Hesperiidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
+| [ilThySylv1](ilThySylv1.md) | 20200522.hifiasm | [ilThySylv1.hifiasm.20200522.p_ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200522.hifiasm/ilThySylv1.hifiasm.20200522.p_ctg.fasta.gz) |
+| [ilThySylv1](ilThySylv1.md) | 20200522.hifiasm | [ilThySylv1.hifiasm.20200522.a_ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200522.hifiasm/ilThySylv1.hifiasm.20200522.a_ctg.fasta.gz) |
+| [ilThySylv1](ilThySylv1.md) | 20200522.hifiasm.purge | [ilThySylv1.hifiasm.20200522.purged.htigs.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200522.hifiasm.purge/ilThySylv1.hifiasm.20200522.purged.htigs.fasta.gz) |
+| [ilThySylv1](ilThySylv1.md) | 20200522.hifiasm.purge | [ilThySylv1.hifiasm.20200522.purged.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200522.hifiasm.purge/ilThySylv1.hifiasm.20200522.purged.fasta.gz) |
 | [ilThySylv1](ilThySylv1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
 | [ilThySylv1](ilThySylv1.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Thymelicus_sylvestris/ilThySylv1/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 

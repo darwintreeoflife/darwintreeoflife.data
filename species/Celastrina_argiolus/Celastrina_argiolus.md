@@ -21,6 +21,10 @@ family: Lycaenidae
 
 | individual | label | file |
 | :--------- | :---- | :--- |
+| [ilCelArgi3](ilCelArgi3.md) | 20200522.hifiasm | [ilCelArgi3.hifiasm.20200522.p_ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200522.hifiasm/ilCelArgi3.hifiasm.20200522.p_ctg.fasta.gz) |
+| [ilCelArgi3](ilCelArgi3.md) | 20200522.hifiasm | [ilCelArgi3.hifiasm.20200522.a_ctg.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200522.hifiasm/ilCelArgi3.hifiasm.20200522.a_ctg.fasta.gz) |
+| [ilCelArgi3](ilCelArgi3.md) | 20200522.hifiasm.purge | [ilCelArgi3.hifiasm.20200522.purged.htigs.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200522.hifiasm.purge/ilCelArgi3.hifiasm.20200522.purged.htigs.fasta.gz) |
+| [ilCelArgi3](ilCelArgi3.md) | 20200522.hifiasm.purge | [ilCelArgi3.hifiasm.20200522.purged.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200522.hifiasm.purge/ilCelArgi3.hifiasm.20200522.purged.fasta.gz) |
 | [ilCelArgi3](ilCelArgi3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.prim.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.prim.fasta.gz) |
 | [ilCelArgi3](ilCelArgi3.md) | 20200120.hicanu.purge | [20200120.hicanu.purge.htig.fasta.gz](https://darwin.cog.sanger.ac.uk/insects/Celastrina_argiolus/ilCelArgi3/assemblies/working/20200120.hicanu.purge/20200120.hicanu.purge.htig.fasta.gz) |
 
