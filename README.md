@@ -31,8 +31,8 @@ Vertebrate genomes sequenced as part of The Darwin Tree of Life project will als
 
 | Species | PacBio | ONT | 10XG | BioNano | Hi-C | Draft Asm |
 | :------ | :----: | :-: | :--: | :-----: | :--: | :-------: |
-| [*Bufo bufo*](https://vgp.github.io/genomeark/Bufo_bufo/) (common toad) | &#9679; |        |  &#9679; | &#9679; | &#9679; |  |
-| [*Canis lupus orion*](https://vgp.github.io/genomeark/Canis_lupus_orion/) (Greenland wolf) |  |  |  &#9679; |  | &#9679; |  |
+| [*Bufo bufo*](https://vgp.github.io/genomeark/Bufo_bufo/) (common toad) | &#9679; |        |  &#9679; | &#9679; | &#9679; | &#9679; |
+| [*Canis lupus orion*](https://vgp.github.io/genomeark/Canis_lupus/) (Greenland wolf) |  |  |  &#9679; |  | &#9679; |  |
 | [*Caprimulgus europaeus*](https://vgp.github.io/genomeark/Caprimulgus_europaeus/) (Eurasian nightjar) | &#9679; |        |  &#9679; | &#9679; |  |  |
 | [*Cervus elaphus*](https://vgp.github.io/genomeark/Cervus_elaphus/) (red deer) |  |  |  |  |  |  |
 | [*Malacosteus niger*](https://vgp.github.io/genomeark/Malacosteus_niger/) (stoplight loosejaw) | &#9679; |        |  &#9679; |  | &#9679; |  |
