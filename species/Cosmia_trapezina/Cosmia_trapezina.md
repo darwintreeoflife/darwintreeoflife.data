@@ -26,6 +26,10 @@ family: Noctuidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [ilCosTrap1](ilCosTrap1.md) | 10x.ucram |  | [653f5888b53ee9ec426fad3601800e1e-373](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/10x/31958_4%235.cram) |
+| [ilCosTrap1](ilCosTrap1.md) | 10x.ucram |  | [ebe588fd3bdfcf4121e0f7cb97bbcbf7-340](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/10x/31958_4%236.cram) |
+| [ilCosTrap1](ilCosTrap1.md) | 10x.ucram |  | [e68d1e355fc1491d522970bd1734af97-359](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/10x/31958_4%237.cram) |
+| [ilCosTrap1](ilCosTrap1.md) | 10x.ucram |  | [2b0dc12348dd4f5c60eb8a144a507e92-391](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/10x/31958_4%238.cram) |
 | [ilCosTrap1](ilCosTrap1.md) | ont.fastq_pass |  | [abd2f8a19739d6f8b819be1d4081955d](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/ont/fastq_pass/PAE35570_pass_6490c7f0_0.fastq.gz) |
 | [ilCosTrap1](ilCosTrap1.md) | ont.fastq_pass |  | [50f04c5e7f5511b80c21ffe3598979e9-5](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/ont/fastq_pass/PAE35570_pass_6490c7f0_1.fastq.gz) |
 | [ilCosTrap1](ilCosTrap1.md) | ont.fastq_pass |  | [cb8f088385d3818bc72bf7fb6b72c4d7-5](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/ont/fastq_pass/PAE35570_pass_6490c7f0_2.fastq.gz) |
@@ -853,5 +857,9 @@ family: Noctuidae
 | [ilCosTrap1](ilCosTrap1.md) | ont.fastq_pass |  | [18364b172de9fc7f46cf0fed56cc7b53-7](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/ont/fastq_pass/PAE35570_pass_facbcea1_801.fastq.gz) |
 | [ilCosTrap1](ilCosTrap1.md) | ont.fastq_pass |  | [9178dbcff06714c3ef32b650b5460a30-3](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/ont/fastq_pass/PAE35570_pass_facbcea1_802.fastq.gz) |
 | [ilCosTrap1](ilCosTrap1.md) | ont.fasta_pass |  | [4ee13fcd47f5e4f5a8aa7f57622442d3-1286](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/ont/ilCosTrap1.ont.fasta.gz) |
-| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [8adb94811531e47476431a7e61ab3608-1138](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64089_191016_110352.bc1002_BAK8A_OA--bc1002_BAK8A_OA.ccs.bam) |
-| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.index |  | [f6d283ee79e29169323cf857bbce9ec8-2](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64089_191016_110352.bc1002_BAK8A_OA--bc1002_BAK8A_OA.ccs.bam.pbi) |
+| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [1bb51d2a8b493542a8abe8fe8f5f3837-607](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64089_191016_110352.bc1002_BAK8A_OA--bc1002_BAK8A_OA.ccs.bam) |
+| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.index |  | [64db989f97567b7bd665b7e60064e761](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64089_191016_110352.bc1002_BAK8A_OA--bc1002_BAK8A_OA.ccs.bam.pbi) |
+| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [13982630298c74b7790ee7d110daa198-65](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64097_200210_223736.ccs.bam) |
+| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.index |  | [f762c436e72407c0a4aa53481ba3fe6d](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64097_200210_223736.ccs.bam.pbi) |
+| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [5ab0acfe80931355b371717b450c07e2-1241](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64097_200531_035222.ccs.bam) |
+| [ilCosTrap1](ilCosTrap1.md) | pacbio.ccs.index |  | [a651766fdf01fd7702ef750221774d01-2](https://darwin.cog.sanger.ac.uk/insects/Cosmia_trapezina/ilCosTrap1/genomic_data/pacbio/m64097_200531_035222.ccs.bam.pbi) |

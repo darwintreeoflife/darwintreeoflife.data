@@ -22,3 +22,5 @@ family: Apidae
 | [iyBomCamp1](iyBomCamp1.md) | 10x.ucram |  | [44edfbd62f6a3e73c0bc099dbec0ff7f-375](https://darwin.cog.sanger.ac.uk/insects/Bombus_campestris/iyBomCamp1/genomic_data/10x/33431_5%236.cram) |
 | [iyBomCamp1](iyBomCamp1.md) | 10x.ucram |  | [19b2ac7afaff76dbad9277ff7490b441-376](https://darwin.cog.sanger.ac.uk/insects/Bombus_campestris/iyBomCamp1/genomic_data/10x/33431_5%237.cram) |
 | [iyBomCamp1](iyBomCamp1.md) | 10x.ucram |  | [c8161d264dcb1a450edac1e1e6893b90-546](https://darwin.cog.sanger.ac.uk/insects/Bombus_campestris/iyBomCamp1/genomic_data/10x/33431_5%238.cram) |
+| [iyBomCamp1](iyBomCamp1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [de69adfa14b8da5593838fb1b34f6bb1-1108](https://darwin.cog.sanger.ac.uk/insects/Bombus_campestris/iyBomCamp1/genomic_data/pacbio/m64094_200521_143350.ccs.bam) |
+| [iyBomCamp1](iyBomCamp1.md) | pacbio.ccs.index |  | [aa46eb0cf0768c1cab430734f0d3fc73-2](https://darwin.cog.sanger.ac.uk/insects/Bombus_campestris/iyBomCamp1/genomic_data/pacbio/m64094_200521_143350.ccs.bam.pbi) |

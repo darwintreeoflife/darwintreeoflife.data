@@ -1,0 +1,11 @@
+individual	type	info	file	etag
+ilPyrMalv3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/10x/32955_8%231.cram	85d467cb8a4557f68c7a3def19e0584d-388
+ilPyrMalv3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/10x/32955_8%232.cram	4de17db1b3181d5f8fa1e25526543503-379
+ilPyrMalv3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/10x/32955_8%233.cram	6ee86560ba1bb28e2475d45f6958e835-497
+ilPyrMalv3	10x.ucram		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/10x/32955_8%234.cram	00e807188d42e276fe527b928ce05779-430
+ilPyrMalv3	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/pacbio/m64089_191220_155948.ccs.bam	65fff37a79abf5b0cec70e84f23ca9bf-215
+ilPyrMalv3	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/pacbio/m64089_191220_155948.ccs.bam.pbi	44f9ec00107ce0c41bcc252de1090b22
+ilPyrMalv3	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/pacbio/m64089_200526_150411.ccs.bam	b91b72d14961ab4e365c496531944dcf-1172
+ilPyrMalv3	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/pacbio/m64089_200526_150411.ccs.bam.pbi	3743b55ea9a5f03a4d8f486e4a39c3bb-2
+ilPyrMalv3	pacbio.ccs.bam	S/P4-C2/5.0-8M	https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/pacbio/m64097_200307_161053.ccs.bam	c2e006fa8f2cd9963104b6f00d6c9c6b-1019
+ilPyrMalv3	pacbio.ccs.index		https://darwin.cog.sanger.ac.uk/insects/Pyrgus_malvae/ilPyrMalv3/genomic_data/pacbio/m64097_200307_161053.ccs.bam.pbi	5a117b027c8b343fd456cc2526ca9704-2

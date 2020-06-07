@@ -18,6 +18,10 @@ family: Coccinellidae
 
 | individual | type | info | file |
 | :--------- | :--- | :--- | :--- |
+| [icHarAxyr1](icHarAxyr1.md) | 10x.ucram |  | [425726c91c49f507e6b3fa6a9d177330-419](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/10x/33254_3%235.cram) |
+| [icHarAxyr1](icHarAxyr1.md) | 10x.ucram |  | [da37fd7d64d38494b1df4c214d18d8dd-306](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/10x/33254_3%236.cram) |
+| [icHarAxyr1](icHarAxyr1.md) | 10x.ucram |  | [39d71392f9629e943210ff98d3afe537-528](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/10x/33254_3%237.cram) |
+| [icHarAxyr1](icHarAxyr1.md) | 10x.ucram |  | [3c93e159443aa5bd0f1b0b42c4f3e9c5-398](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/10x/33254_3%238.cram) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fast5_pass |  | [e798c5b87dba6c556df96f8a67bcbc5c-27](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fast5_pass_MR27_200/PAE33732_pass_0a283f27_0.fast5) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fast5_pass |  | [95b3371769ab24aaac09baf94bef3924-47](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fast5_pass_MR27_200/PAE33732_pass_0a283f27_1.fast5) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fast5_pass |  | [f161b9c4fb34ae5a70d2286d777a3d4f-47](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fast5_pass_MR27_200/PAE33732_pass_0a283f27_2.fast5) |
@@ -13617,3 +13621,5 @@ family: Coccinellidae
 | [icHarAxyr1](icHarAxyr1.md) | ont.fastq_pass |  | [774b7d1920c094f4d604ce9f4e1b6df3-4](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fastq_pass_nonSS/PAE38819_f5e6adc54fd1c6b3ffbdc9e6c7d7f737814e8ad9_1320.fastq.gz) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fastq_pass |  | [16c84a415c60af5bf7a5795272995f04-3](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fastq_pass_nonSS/PAE38819_f5e6adc54fd1c6b3ffbdc9e6c7d7f737814e8ad9_1321.fastq.gz) |
 | [icHarAxyr1](icHarAxyr1.md) | ont.fastq_pass |  | [6f095a571d31d898a52c9ed927da6eba-3](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/ont/fastq_pass_nonSS/PAE38819_f5e6adc54fd1c6b3ffbdc9e6c7d7f737814e8ad9_1322.fastq.gz) |
+| [icHarAxyr1](icHarAxyr1.md) | pacbio.ccs.bam | S/P4-C2/5.0-8M | [3201b2186ba2cd8e6a63808ed0065437-1345](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/pacbio/m64097_200515_171446.ccs.bam) |
+| [icHarAxyr1](icHarAxyr1.md) | pacbio.ccs.index |  | [1a0921caebe7d22b76d7758c300a4b54-2](https://darwin.cog.sanger.ac.uk/insects/Harmonia_axyridis/icHarAxyr1/genomic_data/pacbio/m64097_200515_171446.ccs.bam.pbi) |
